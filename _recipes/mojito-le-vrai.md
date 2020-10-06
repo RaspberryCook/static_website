@@ -1,5 +1,5 @@
 ---
-title: Mojito : Le vrai
+title: Mojito - Le vrai
 time:
   baking: 0
   cooling: 0

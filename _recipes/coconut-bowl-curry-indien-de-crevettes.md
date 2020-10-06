@@ -1,5 +1,5 @@
 ---
-title: Coconut bowl : curry indien de crevettes
+title: Coconut bowl - curry indien de crevettes
 time:
   baking: 0
   cooling: 0
