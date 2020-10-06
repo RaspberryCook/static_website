@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:01:35 UTC
 
 # Ballotine de saumon sauce à l'oseille
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -31,7 +31,7 @@ updated_at: 2017-07-15 09:01:35 UTC
 - pour la sauce
 - un bouquet d'oseille
 - 25 cl créme fraiche
--  Présentation
+- Présentation
 - Moules
 
 ---

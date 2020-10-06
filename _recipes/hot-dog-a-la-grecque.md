@@ -14,13 +14,11 @@ updated_at: 2018-04-26 16:20:58 UTC
 
 # Hot dog à la grecque
 
+_Saisons: Printemps_
 
+_Allèrgènes: #<Allergen:0x000056028b453240>_
 
-*Saisons: Printemps*
-
-*Allèrgènes: #<Allergen:0x000056028b453240>*
-
-*Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -44,4 +42,4 @@ Faire cuire les saucisses dans de l'eau bouillante pendant une dizaine de minute
 
 Dans un bol mélanger le yaourt, la mayonnaise, la gousse d'ail pressée ainsi que du piment et beaucoup de ciboulette.
 
-Couper en deux la baguette et la faire griller. Le tartiner de la sauce. Ajouter le mélange de légumes, une saucisse et de la salade. Déguster ! 
+Couper en deux la baguette et la faire griller. Le tartiner de la sauce. Ajouter le mélange de légumes, une saucisse et de la salade. Déguster !

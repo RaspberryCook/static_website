@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:01:39 UTC
 
 # valençay en robe de jambon sérano au thym
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

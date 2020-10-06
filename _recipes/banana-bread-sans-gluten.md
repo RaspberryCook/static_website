@@ -14,13 +14,11 @@ updated_at: 2017-10-29 08:59:17 UTC
 
 # Banana bread sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c375548>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c375548>*
-
-*Préparation: 25 min, Cuisson: 50 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 25 min, Cuisson: 50 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

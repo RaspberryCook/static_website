@@ -14,13 +14,11 @@ updated_at: 2018-02-02 18:55:01 UTC
 
 # Tarte sans gluten au chou, lardons et miel
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028a74f878>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028a74f878>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,4 +40,4 @@ Le mettre dans une poêle avec l'oignon émincé et les lardons. Laisser cuire p
 
 Mélanger les œufs avec la crème ainsi que le yaourt. Poivrer.
 
-Étaler la pâte brisée. Ajouter la préparation au chou. Verser le mélange œuf et crème dessus et faire cuire pendant 25 min à 180°. Déguster ! 
+Étaler la pâte brisée. Ajouter la préparation au chou. Verser le mélange œuf et crème dessus et faire cuire pendant 25 min à 180°. Déguster !

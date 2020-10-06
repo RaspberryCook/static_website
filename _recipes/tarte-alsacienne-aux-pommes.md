@@ -1,5 +1,5 @@
 ---
-title: Tarte alsacienne aux pommes 
+title: Tarte alsacienne aux pommes
 time:
   baking: 0
   cooling: 0
@@ -12,9 +12,9 @@ created_at: 2016-01-01 00:00:00 UTC
 updated_at: 2017-07-15 09:33:45 UTC
 ---
 
-# Tarte alsacienne aux pommes 
+# Tarte alsacienne aux pommes
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

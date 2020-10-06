@@ -14,13 +14,11 @@ updated_at: 2017-07-29 09:21:42 UTC
 
 # Tortilla sucrée salée aux crevettes
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c064368>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c064368>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,4 +39,4 @@ Ajouter le lait de coco, le poivre et une cuillère à soupe de piment rouge (à
 
 Décortiquer les crevettes.
 
-Faire chauffer les tortillas. Les garnir avec le mélange ainsi que des crevettes. Déguster ! 
+Faire chauffer les tortillas. Les garnir avec le mélange ainsi que des crevettes. Déguster !

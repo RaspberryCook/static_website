@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Saumon au curry vert et lait de coco
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

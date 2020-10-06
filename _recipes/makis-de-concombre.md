@@ -16,9 +16,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 Une délicieuse variante des makis classiques !
 
-*Saisons: Eté*
+_Saisons: Eté_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,7 +26,7 @@ Une délicieuse variante des makis classiques !
 - 1 avocat
 - 2 tranches de saumon fumé
 - De la vache qui rit
-- 25g de riz à sushis 
+- 25g de riz à sushis
 
 ---
 
@@ -36,4 +36,4 @@ Faire cuire le riz puis le mettre dans un bol. Ajouter l'avocat écrasé, le sau
 
 Mettre la préparation dans le concombre et tassant bien. Mettre au réfrigérateur une dizaine de minutes pour faciliter la découpe.
 
-Couper le concombre en petits morceaux pour faire des suhis. Déguster ! 
+Couper le concombre en petits morceaux pour faire des suhis. Déguster !

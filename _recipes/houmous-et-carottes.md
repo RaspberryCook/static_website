@@ -1,5 +1,5 @@
 ---
-title: Houmous et carottes 
+title: Houmous et carottes
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2017-03-14 16:18:21 UTC
 updated_at: 2017-03-14 18:18:33 UTC
 ---
 
-# Houmous et carottes 
+# Houmous et carottes
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 20 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

@@ -14,22 +14,20 @@ updated_at: 2017-07-15 08:35:29 UTC
 
 # Mini-pain au Nutella feuilleté et brioché
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 450g de farine
-- 10g de levure boulangère 
+- 10g de levure boulangère
 - 1 c à c de citron
 - 40g de sucre
 - 1 c à c de sel
 - 10g de beurre
 - 26 cl de lait
-- 125g de beurre  
+- 125g de beurre
 - Nutella
 - 1 c à c de lait
 - 1 jaune d'œuf
 
 ---
-
-

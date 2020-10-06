@@ -14,11 +14,9 @@ updated_at: 2017-03-28 15:28:38 UTC
 
 # Risotto parmesan et champignons
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

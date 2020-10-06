@@ -14,11 +14,9 @@ updated_at: 2017-04-17 09:18:48 UTC
 
 # Gâteau de Pâques sans gluten
 
+_Saisons: Printemps_
 
-
-*Saisons: Printemps*
-
-*Préparation: 75 min, Cuisson: 20 min, Refrigération: 15 min, Repos: 0*
+_Préparation: 75 min, Cuisson: 20 min, Refrigération: 15 min, Repos: 0_
 
 ---
 
@@ -49,7 +47,7 @@ updated_at: 2017-04-17 09:18:48 UTC
 
 ---
 
-Pour les gâteaux : mélanger les ingrédients un à un en suivant l'ordre suivant : la levure, le yaourt, huile, sucre, farine, œufs. Ajouter du cacao jusqu'à que le mélange obtienne une jolie couleur marron clair. 
+Pour les gâteaux : mélanger les ingrédients un à un en suivant l'ordre suivant : la levure, le yaourt, huile, sucre, farine, œufs. Ajouter du cacao jusqu'à que le mélange obtienne une jolie couleur marron clair.
 
 Verser la moitié de la pâte dans un moule et le reste dans un autre moule de forme identique. Faire cuire 15 à 20 min à 180°. Après la cuisson les démouler puis laisser refroidir.
 
@@ -65,4 +63,4 @@ Faire fondre le chocolat au micro-onde puis le verser sur le gâteau. L'étaler 
 
 Saupoudrer la noix de coco verte sur le gâteau. Accrocher la anse à l'aide de deux cures-dents puis décorer avec des petits œufs.
 
-Conserver au frais jusqu'à dégustation ! 
+Conserver au frais jusqu'à dégustation !

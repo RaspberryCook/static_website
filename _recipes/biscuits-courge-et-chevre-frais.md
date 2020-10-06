@@ -1,5 +1,5 @@
 ---
-title:  Biscuits courge et chèvre frais
+title: Biscuits courge et chèvre frais
 time:
   baking: 35
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2016-11-15 12:46:29 UTC
 updated_at: 2017-03-07 13:11:23 UTC
 ---
 
-#  Biscuits courge et chèvre frais
+# Biscuits courge et chèvre frais
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 25 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 25 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,8 +25,8 @@ updated_at: 2017-03-07 13:11:23 UTC
 - 300g de farine sans gluten
 - 160g de yaourt à la grecque
 - 30g de miel
-- 4 oeufs 
-- De la levure sans 
+- 4 oeufs
+- De la levure sans
 - Du poivre
 
 ---

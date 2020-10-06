@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Cake carotte/cumin
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,11 +24,11 @@ updated_at: 2017-01-29 10:33:01 UTC
 - Un yaourt nature
 - 3 oeufs
 - 150 g de farine de blé
-- Un sachet de levure 
+- Un sachet de levure
 - 100g de gruyère râpé
 - 1 cs d'huile d'olive
 - Du cumin
-- Piment d'espelette 
+- Piment d'espelette
 - Du poivre
 
 ---

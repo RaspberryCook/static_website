@@ -1,5 +1,5 @@
 ---
-title: Tartare de saumon, avocat et mozzarella 
+title: Tartare de saumon, avocat et mozzarella
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2016-12-17 11:28:44 UTC
 updated_at: 2017-01-29 10:33:03 UTC
 ---
 
-# Tartare de saumon, avocat et mozzarella 
+# Tartare de saumon, avocat et mozzarella
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

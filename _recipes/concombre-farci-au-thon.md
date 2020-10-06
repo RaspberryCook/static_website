@@ -1,5 +1,5 @@
 ---
-title: Concombre farci au thon 
+title: Concombre farci au thon
 time:
   baking: 0
   cooling: 0
@@ -12,11 +12,9 @@ created_at: 2016-02-26 15:02:07 UTC
 updated_at: 2017-01-29 10:32:58 UTC
 ---
 
-# Concombre farci au thon 
+# Concombre farci au thon
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,4 +34,4 @@ Mettre les portions évidées dans un bol, ajouter le thon, la mayonnaise, le pe
 
 Faire cuire les œufs 8 minutes et les rincer sous l'eau froide. Les éplucher et les couper en deux dans la longueur.
 
-Farcir les concombres évidés avec la préparation et deux moitiés d’œufs. Possibilité de rajouter un peu de mayonnaise sur les œufs. 
+Farcir les concombres évidés avec la préparation et deux moitiés d’œufs. Possibilité de rajouter un peu de mayonnaise sur les œufs.

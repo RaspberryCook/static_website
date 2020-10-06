@@ -14,18 +14,18 @@ updated_at: 2017-07-15 09:46:55 UTC
 
 # Sauce aux cacahuètes
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - échalote : 4
--  citron vert : 2
--  cacahuétes (non sucrées) : 200 g
--  miel d'acacia : 1.5 c. à soupe
--  huile : 2 c. à soupe
--  poivre de cayenne : 2 pointes de couteau
--  eau chaude : 2,5 dl
--  sel
+- citron vert : 2
+- cacahuétes (non sucrées) : 200 g
+- miel d'acacia : 1.5 c. à soupe
+- huile : 2 c. à soupe
+- poivre de cayenne : 2 pointes de couteau
+- eau chaude : 2,5 dl
+- sel
 
 ---
 

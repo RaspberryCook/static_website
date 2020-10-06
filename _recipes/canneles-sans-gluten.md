@@ -14,13 +14,11 @@ updated_at: 2017-07-29 13:38:25 UTC
 
 # Cannelés sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c084578>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c084578>*
-
-*Préparation: 15 min, Cuisson: 75 min, Refrigération: 1440 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 75 min, Refrigération: 1440 min, Repos: 0_
 
 ---
 
@@ -41,12 +39,10 @@ Dans un bol mélanger la farine avec le sucre, une pincée de sel, deux œufs en
 
 Verser le lait bouillant dans le bol puis mélanger jusqu'à que la préparation soit homogène. Laisser au frigo pendant environ 24h.
 
-
-
 24h après préchauffer remplir les moules à cannelés de la préparation. Faire préchauffer le four à 250° puis enfourner. Laisser cuire pendant 10 min.
 
 Baisser la température à 180° et laisser cuire pendant 30 min.
 
 Baisser la température à 150° et laisser cuire pendant 30 min.
 
-Sortir du four puis démouler. Déguster ! 
+Sortir du four puis démouler. Déguster !

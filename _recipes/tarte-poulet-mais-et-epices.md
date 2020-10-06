@@ -14,11 +14,9 @@ updated_at: 2017-06-05 16:08:02 UTC
 
 # Tarte poulet, maïs et épices
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 15 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

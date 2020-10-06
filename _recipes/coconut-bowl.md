@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:08:29 UTC
 
 # Coconut bowl
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -28,5 +28,3 @@ updated_at: 2017-07-14 21:08:29 UTC
 - Copeaux de noix de coco
 
 ---
-
-

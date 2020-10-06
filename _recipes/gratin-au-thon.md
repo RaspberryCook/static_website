@@ -14,11 +14,9 @@ updated_at: 2017-05-08 17:31:48 UTC
 
 # Gratin au thon
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 30 min, Cuisson: 50 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 30 min, Cuisson: 50 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

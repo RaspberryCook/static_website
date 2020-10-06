@@ -1,5 +1,5 @@
 ---
-title: Pain de maïs 
+title: Pain de maïs
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,13 @@ created_at: 2015-12-14 12:15:53 UTC
 updated_at: 2017-01-29 10:32:58 UTC
 ---
 
-# Pain de maïs 
+# Pain de maïs
 
 Fameux cornbread américain
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,4 +26,4 @@ Fameux cornbread américain
 
 ---
 
-Faire fondre le beurre au micro-onde\r\nAjouter le sucre et les œufs. Bien mélanger jusqu'à obtenir un mélange homogène.\r\nDans un autre plat mélanger le bicarbonate et le lait fermenté.\r\nRajouter ce mélange avec le premier.  Ajouter la farine, la farine de maïs, le sel et bien mélanger. \r\nVerser la pâte dans le moule. Faire cuire 20 min à 175°
+Faire fondre le beurre au micro-onde\r\nAjouter le sucre et les œufs. Bien mélanger jusqu'à obtenir un mélange homogène.\r\nDans un autre plat mélanger le bicarbonate et le lait fermenté.\r\nRajouter ce mélange avec le premier. Ajouter la farine, la farine de maïs, le sel et bien mélanger. \r\nVerser la pâte dans le moule. Faire cuire 20 min à 175°

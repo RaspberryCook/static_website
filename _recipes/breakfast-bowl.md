@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:08:21 UTC
 
 # Breakfast bowl
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -29,5 +29,3 @@ updated_at: 2017-07-14 21:08:21 UTC
 - 1 yaourt grec
 
 ---
-
-

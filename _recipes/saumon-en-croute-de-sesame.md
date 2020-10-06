@@ -14,13 +14,11 @@ updated_at: 2018-03-04 19:10:28 UTC
 
 # Saumon en croûte de sésame
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028b0e2b38>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028b0e2b38>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -46,4 +44,4 @@ Badigeonner les pavés de saumon de miel liquide. Faire rouler les pavés de sau
 
 Mélanger le yaourt à la grecque avec une cuillère à soupe de moutarde, une cuillère à soupe de miel et un peu de piment d'Espelette.
 
-Servir le riz accompagné du saumon, du mélange mangue/cacahuètes ainsi que de la sauce. Déguster ! 
+Servir le riz accompagné du saumon, du mélange mangue/cacahuètes ainsi que de la sauce. Déguster !

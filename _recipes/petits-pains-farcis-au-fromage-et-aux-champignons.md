@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Petits pains farcis au fromage et aux champignons
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,4 +38,4 @@ Inciser les petits pains en forme de rectangle. Enlever de la mie.
 
 Farcir les petits pains avec la préparation. Sur le dessus parsemer le reste des champignons coupés en rondelles ainsi que du fromage râpé.
 
-Faire revenir à 170° pendant 15 min. Déguster ! 
+Faire revenir à 170° pendant 15 min. Déguster !

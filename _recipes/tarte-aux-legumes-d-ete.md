@@ -14,13 +14,11 @@ updated_at: 2017-05-21 17:30:56 UTC
 
 # Tarte aux légumes d'été
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c4f70d8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c4f70d8>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,4 +39,4 @@ Couper le poivron et l'aubergine en lamelles, la courgette en rondelles.
 
 La sortir du four, tartiner de tapenade. Répartir les fromages coupés en rondelles et déposer les légumes dessus. Poivrer. Faire cuire pendant 10 min.
 
-A la sortie du four disposer des tomates séchées sur la tarte puis servir. 
+A la sortie du four disposer des tomates séchées sur la tarte puis servir.

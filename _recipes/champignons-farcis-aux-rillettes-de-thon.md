@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Champignons farcis aux rillettes de thon
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -31,6 +29,6 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 ---
 
-Peler puis couper les échalotes. Les mélanger dans un bol avec le thon et le fromage. Poivrer et mettre de la ciboulette selon les goûts. 
+Peler puis couper les échalotes. Les mélanger dans un bol avec le thon et le fromage. Poivrer et mettre de la ciboulette selon les goûts.
 
 Enlever les pieds des champignons. Les laver puis les farcir avec les rillettes de thon. Déguster

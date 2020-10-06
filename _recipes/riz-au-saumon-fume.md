@@ -14,13 +14,11 @@ updated_at: 2018-01-12 18:23:16 UTC
 
 # Riz au saumon fumé
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c611ab8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c611ab8>*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,10 +34,10 @@ updated_at: 2018-01-12 18:23:16 UTC
 
 Faire cuire le riz comme indiqué sur le paquet. Faire cuire les petits pois dans de l'eau bouillante pendant 8 min.
 
-Couper le saumon fumé en morceaux. 
+Couper le saumon fumé en morceaux.
 
 Dans une poêle mettre le saumon, le riz ainsi que les petits pois. Mélanger.
 
-Mélanger le fromage blanc avec le curry et du poivre. 
+Mélanger le fromage blanc avec le curry et du poivre.
 
 Servir le riz accompagné de noix de cajou et du fromage blanc au curry.

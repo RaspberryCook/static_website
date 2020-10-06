@@ -1,5 +1,5 @@
 ---
-title: Salade de haricots blancs, cabillaud et pesto de roquette 
+title: Salade de haricots blancs, cabillaud et pesto de roquette
 time:
   baking: 0
   cooling: 0
@@ -12,9 +12,9 @@ created_at: 2016-01-01 00:00:00 UTC
 updated_at: 2017-07-15 08:55:08 UTC
 ---
 
-# Salade de haricots blancs, cabillaud et pesto de roquette 
+# Salade de haricots blancs, cabillaud et pesto de roquette
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

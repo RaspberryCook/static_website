@@ -14,9 +14,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Frites de courgettes au parmesan
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -32,7 +30,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 Dans une assiette creusé mélanger la farine, la chapelure, le parmesan, les herbes de Provence et le poivre.
 
-Dans une assiette creuse battre les œufs. 
+Dans une assiette creuse battre les œufs.
 
 Laver les courgettes, les peler et les couper en bâtonnets fins.
 

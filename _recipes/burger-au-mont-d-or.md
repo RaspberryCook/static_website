@@ -14,13 +14,11 @@ updated_at: 2017-11-23 16:33:45 UTC
 
 # Burger au mont d'or
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c4d8688>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c4d8688>*
-
-*Préparation: 15 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,4 +40,4 @@ Couper les pains à hamburger en deux. Tartiner chaque moitié de confit d'oigno
 
 Ajouter une tranche de bacon, un steak haché, une autre tranche de bacon ainsi que des rondelles de tomate.
 
-Fermer le hamburger et déguster ! 
+Fermer le hamburger et déguster !

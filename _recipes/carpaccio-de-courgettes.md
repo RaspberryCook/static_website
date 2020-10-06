@@ -14,13 +14,11 @@ updated_at: 2017-08-10 17:56:39 UTC
 
 # Carpaccio de courgettes
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c1391d0>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c1391d0>*
-
-*Préparation: 15 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -37,6 +35,6 @@ Laver les courgettes et couper leurs extrémités. Les couper finement en rondel
 
 Émietter dessus la feta. Saupoudrer de noix cassées finement.
 
-Arroser d'huile d'olive. Poivrer et saupoudrer d'aneth. 
+Arroser d'huile d'olive. Poivrer et saupoudrer d'aneth.
 
 Laisser au frigo pendant une dizaine de minutes puis déguster bien frais.

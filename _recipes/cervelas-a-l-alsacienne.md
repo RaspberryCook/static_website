@@ -14,17 +14,15 @@ updated_at: 2017-04-18 16:04:49 UTC
 
 # Cervelas à l'alsacienne
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 4 tranches de poitrine fumée
 - 4 saucisses alsaciennes
-- Du gruyère 
+- Du gruyère
 
 ---
 

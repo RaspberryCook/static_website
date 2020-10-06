@@ -14,11 +14,9 @@ updated_at: 2017-02-17 18:55:43 UTC
 
 # Feuilleté poireaux pommes de terre
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,4 +40,4 @@ Dans un bol battre l’œuf. Ajouter les poireaux, les pommes de terre, le yaour
 
 Étaler une pâte feuilletée. Mettre la garniture au centre puis ramener les bords dessus pour former une boule quasiment fermée.
 
-Faire cuire 35 min à 200° et déguster ! 
+Faire cuire 35 min à 200° et déguster !

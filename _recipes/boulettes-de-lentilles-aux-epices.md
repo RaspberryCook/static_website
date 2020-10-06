@@ -14,11 +14,9 @@ updated_at: 2017-03-10 18:11:50 UTC
 
 # Boulettes de lentilles aux épices
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 20 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,7 +34,7 @@ updated_at: 2017-03-10 18:11:50 UTC
 
 Faire cuire les lentilles comme indiqué sur le paquet. Les égoutter puis les mixer.
 
-Peler, dégermer et couper finement les échalotes. 
+Peler, dégermer et couper finement les échalotes.
 
 Dénoyauter les olives et les couper finement. Mélanger les échalotes avec les olives et les lentilles. Ajouter les épices et du poivre puis bien mélanger.
 

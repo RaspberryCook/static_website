@@ -14,9 +14,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Cabillaud et riz au lait de coco, curry et pommes
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -35,4 +33,4 @@ Faire cuire le riz.
 
 Éplucher et couper les pommes en petits morceaux. Les faire revenir dans une poêle avec du lait de coco, du curry et du poivre.
 
-Une fois que tout est cuit tout assembler dans une assiette et déguster ! 
+Une fois que tout est cuit tout assembler dans une assiette et déguster !

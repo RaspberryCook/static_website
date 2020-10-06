@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Sauté de légumes & poulet
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -44,6 +42,6 @@ Une fois que le poulet est bien saisi avec les champignons, incorpore le tout au
 
 Sel, poivre et .... PIMENT D'ESPELETTE (coeur sur toi piment d'Espelette <3)
 
-Une fois que tout à l'air "mangeable", c'est-à-dire les légumes fondants et le poulet bien cuit, ben tu peux manger ça tranquille ! Si t'es sportif, c'est un bon repas du soir. Si t'es pas sportif, mange autre chose le soir, perdu pour perdu. 
+Une fois que tout à l'air "mangeable", c'est-à-dire les légumes fondants et le poulet bien cuit, ben tu peux manger ça tranquille ! Si t'es sportif, c'est un bon repas du soir. Si t'es pas sportif, mange autre chose le soir, perdu pour perdu.
 
 Amour et chocolat <3

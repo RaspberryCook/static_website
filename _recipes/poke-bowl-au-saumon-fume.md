@@ -14,11 +14,9 @@ updated_at: 2017-03-01 19:27:30 UTC
 
 # Poke bowl au saumon fumé
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 10 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 10 min, Repos: 0_
 
 ---
 
@@ -34,7 +32,7 @@ updated_at: 2017-03-01 19:27:30 UTC
 
 Faire cuire le riz comme indiqué sur le paquet.
 
-Pendant ce temps découper le saumon en lamelles fines. 
+Pendant ce temps découper le saumon en lamelles fines.
 
 Laver le demi concombre. Enlever la peau de l'oignon. Les couper en petits cubes.
 
@@ -42,4 +40,4 @@ Dans un bol mélanger la sauce soja avec le saumon, l'oignon et le concombre. R�
 
 Au dernier moment, sinon l'avocat noirci, enlever la peau de l'avocat et son noyau. Le couper en lamelles fines.
 
-Quand le riz est cuit en mettre au fond du bol. Le recouvrir avec la préparation au saumon et les tranches d'avocat. Parsemer le tout de graines de sésame puis déguster ! 
+Quand le riz est cuit en mettre au fond du bol. Le recouvrir avec la préparation au saumon et les tranches d'avocat. Parsemer le tout de graines de sésame puis déguster !

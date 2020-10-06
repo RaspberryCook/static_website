@@ -14,11 +14,9 @@ updated_at: 2017-05-02 15:11:49 UTC
 
 # Crevettes aux épices
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 25 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 25 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

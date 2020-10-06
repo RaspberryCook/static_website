@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Tajine de poulet aux fruits secs
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,4 +40,4 @@ Dans une cocotte faire fondre le beurre puis faire revenir le poulet et les oign
 
 Ajouter les fruits secs, un peu d'eau si besoin, et laisser cuire à feux doux et couvert pendant encore 40 minutes.
 
-Servir ! 
+Servir !

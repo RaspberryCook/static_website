@@ -1,5 +1,5 @@
 ---
-title: Purée de patates douces et butternut 
+title: Purée de patates douces et butternut
 time:
   baking: 0
   cooling: 0
@@ -12,21 +12,19 @@ created_at: 2017-01-06 17:35:39 UTC
 updated_at: 2017-01-29 10:33:03 UTC
 ---
 
-# Purée de patates douces et butternut 
+# Purée de patates douces et butternut
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 4 patates douces
 - 1 courge butternut
 - 3 gousses d'ail
-- Un peu de crème allégée 
-- Du poivre 
+- Un peu de crème allégée
+- Du poivre
 
 ---
 

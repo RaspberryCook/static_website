@@ -14,13 +14,11 @@ updated_at: 2017-05-08 17:32:19 UTC
 
 # Concombre farci
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c47acb8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c47acb8>*
-
-*Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -33,8 +31,8 @@ updated_at: 2017-05-08 17:32:19 UTC
 
 ---
 
-Préparer la garniture : dans un bol mélanger l'avocat dénoyauté et coupé finement avec le fromage. 
+Préparer la garniture : dans un bol mélanger l'avocat dénoyauté et coupé finement avec le fromage.
 
 Ajouter le saumon coupé en petits morceaux. Poivrer, ajouter du persil et bien mélanger.
 
-Laver le concombre puis le couper en deux dans le sens de la longueur puis de la largeur. A l'aide d'une cuillère évider le. Le garnir puis déguster ! 
+Laver le concombre puis le couper en deux dans le sens de la longueur puis de la largeur. A l'aide d'une cuillère évider le. Le garnir puis déguster !

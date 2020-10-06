@@ -14,9 +14,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Pâtes champignon et moutarde
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -37,4 +35,4 @@ Ajouter la crème, un peu de curry et le poivre.
 
 Ajouter les pâtes dans la préparation, mélanger faire chauffer 5 minutes.
 
-Déguster ! 
+Déguster !

@@ -14,21 +14,19 @@ updated_at: 2018-04-29 12:04:01 UTC
 
 # Gateau sans gluten à la rhubarbe
 
+_Saisons: Printemps_
 
+_Allèrgènes: #<Allergen:0x000056028b509b58>_
 
-*Saisons: Printemps*
-
-*Allèrgènes: #<Allergen:0x000056028b509b58>*
-
-*Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- La garniture : 
+- La garniture :
 - 500 g de rhubarbe
 - 100 g de sucre
 - 40 g de beurre
-- Le gâteau : 
+- Le gâteau :
 - 40 g de beurre
 - 90 g de sucre
 - 3 œufs

@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Burritos rapides
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -35,7 +33,7 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 ---
 
-Émincer l'oignon. Couper les tomates et le poivron en petits cubes. 
+Émincer l'oignon. Couper les tomates et le poivron en petits cubes.
 
 Faire revenir dans un peu d'eau avec les steaks hachés.
 
@@ -43,4 +41,4 @@ Quand c'est cuit ajouter la pulpe de tomate, le poivre et le paprika. Laisser cu
 
 Faire griller les galettes. Garnir de la préparation, mettre de la laitue et le gruyère râpé.
 
-Roulez et dégustez ! 
+Roulez et dégustez !

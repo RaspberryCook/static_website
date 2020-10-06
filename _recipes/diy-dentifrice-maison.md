@@ -14,11 +14,9 @@ updated_at: 2018-06-14 15:15:54 UTC
 
 # DIY dentifrice maison
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

@@ -14,11 +14,9 @@ updated_at: 2017-03-16 19:14:25 UTC
 
 # Pommes de terre farcies aux champignons, lardons et chèvre
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 15 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,4 +38,4 @@ Dans un bol mettre le contenu de la poêle. Poivrer et mettre de la ciboulette. 
 
 Couper les pommes de terre en deux et les évider. Ajouter ce qui a été évidé dans le bol et mélanger de nouveau. Farcir les pommes de terre évidées avec ce mélange. Recouvrir de morceaux de chèvre.
 
-Faire cuire à 200° pendant 15 min jusqu'à que le fromage ait grillé. 
+Faire cuire à 200° pendant 15 min jusqu'à que le fromage ait grillé.

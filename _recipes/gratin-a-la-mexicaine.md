@@ -14,11 +14,9 @@ updated_at: 2020-09-26 14:14:51 UTC
 
 # Gratin à la mexicaine
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 20 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

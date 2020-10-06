@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Lasagnes épinards et saumon
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,4 +39,4 @@ Recouvrir de plaques de lasagnes et ajouter le reste des épinards et du saumon.
 
 Recouvrir des dernières plaques de lasagnes. Saupoudrer de fromage râpé.
 
-Faire cuire 30 min à 180°. 
+Faire cuire 30 min à 180°.

@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Tarte tatin aux oignons, tomates et fromage de chèvre
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Saumon et ses carottes vapeurs 
+title: Saumon et ses carottes vapeurs
 time:
   baking: 0
   cooling: 0
@@ -12,20 +12,18 @@ created_at: 2017-02-18 18:31:55 UTC
 updated_at: 2017-02-18 18:37:30 UTC
 ---
 
-# Saumon et ses carottes vapeurs 
+# Saumon et ses carottes vapeurs
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - Deux pavés de saumon
 - 6 carottes
 - 3 gousses d'ail
-- 2 échalotes 
+- 2 échalotes
 - Deux cuillères à soupe de mayonnaise
 - Une cuillère à café de moutarde
 - Du curcuma
@@ -41,4 +39,4 @@ Pendant 5 min faire cuire le saumon dans la boite prévu à cet effet.
 
 Mélanger la mayonnaise, la moutarde, le curcuma et le poivre.
 
-Dans une assiette mettre un pavé avec de l'ail et de l'échalote, des carottes ainsi que de la sauce sur les carottes. Déguster ! 
+Dans une assiette mettre un pavé avec de l'ail et de l'échalote, des carottes ainsi que de la sauce sur les carottes. Déguster !

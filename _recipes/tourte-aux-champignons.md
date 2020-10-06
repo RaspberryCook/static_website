@@ -14,11 +14,9 @@ updated_at: 2017-04-12 14:47:43 UTC
 
 # Tourte aux champignons
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 20 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,6 +34,6 @@ Peler et émincer l'oignon et l'ail. Les faire revenir dans une poêle avec les 
 
 Laver les champignons, les émincer et les ajouter dans la poêle. Faire cuire encore 5 min. Ajouter les yaourts, poivrer et mélanger.
 
-Étaler la pâte feuilletée et recouvrir de la préparation. 
+Étaler la pâte feuilletée et recouvrir de la préparation.
 
-Découper des formes dans l'autre pâte feuilletée. En recouvrir la tarte. Faire cuire 25 min à 180°. Déguster ! 
+Découper des formes dans l'autre pâte feuilletée. En recouvrir la tarte. Faire cuire 25 min à 180°. Déguster !

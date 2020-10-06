@@ -1,5 +1,5 @@
 ---
-title: Riz au lait 
+title: Riz au lait
 time:
   baking: 50
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2017-03-13 19:42:05 UTC
 updated_at: 2017-03-13 19:48:51 UTC
 ---
 
-# Riz au lait 
+# Riz au lait
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 50 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 50 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

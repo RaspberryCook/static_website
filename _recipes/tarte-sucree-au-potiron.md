@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:33:52 UTC
 
 # Tarte sucrée au potiron
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

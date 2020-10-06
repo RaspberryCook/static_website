@@ -14,13 +14,11 @@ updated_at: 2018-10-29 19:30:18 UTC
 
 # Couscous sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c0039f0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c0039f0>*
-
-*Préparation: 10 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -29,7 +27,7 @@ updated_at: 2018-10-29 19:30:18 UTC
 - 3 tomates
 - 6 merguez
 - Un cube de bouillon de poulet
-- 1 petite boite de concentré de tomate 
+- 1 petite boite de concentré de tomate
 - 3 cuillères à soupe d'épices à couscous
 - 2 cuillères à soupe de raz el hanout
 - De la semoule sans gluten (80g/personne)
@@ -38,7 +36,7 @@ updated_at: 2018-10-29 19:30:18 UTC
 
 Peler et couper les carottes en rondelles. Couper les tomates en cube.
 
- Les mettre dans une grande poêle. Ajouter 1 litre d'eau, les épices et le cube de bouillon. Faire cuire pendant 35 min.
+Les mettre dans une grande poêle. Ajouter 1 litre d'eau, les épices et le cube de bouillon. Faire cuire pendant 35 min.
 
 Ajouter la courgette coupée en cubes. Ajouter le concentré de tomate. Laisser cuire pendant 20 min.
 

@@ -16,11 +16,11 @@ updated_at: 2018-03-03 16:10:32 UTC
 
 Alliez les effets détox du cramberry à une cuisson sans matière grasse
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Allèrgènes: #<Allergen:0x000056028c5e5bc0>*
+_Allèrgènes: #<Allergen:0x000056028c5e5bc0>_
 
-*Préparation: 5 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 5 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

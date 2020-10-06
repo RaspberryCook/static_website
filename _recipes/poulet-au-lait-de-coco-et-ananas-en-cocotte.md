@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Poulet au lait de coco et ananas en cocotte
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -28,7 +26,7 @@ updated_at: 2017-01-29 10:33:02 UTC
 - 500 ml bouillon de poule
 - curry
 - huile d'olive
-- sel, poivre 
+- sel, poivre
 
 ---
 

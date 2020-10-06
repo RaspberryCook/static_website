@@ -14,23 +14,21 @@ updated_at: 2017-03-11 15:36:13 UTC
 
 # Gaufres comme un sandwich
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 40 g de beurre
 - 250 g de farine sans gluten
-- 1 sachet de levure 
+- 1 sachet de levure
 - 50 ml de lait
 - 1 pincee de sel
-- 20 g de sucre 
+- 20 g de sucre
 - De la vache qui rit
 - 12 tranches de bacon
-- 6 oeufs 
+- 6 oeufs
 
 ---
 
@@ -40,4 +38,4 @@ Dans une poêle faire griller le bacon.
 
 Dans une casserole d'eau bouillante faire cuire les oeufs façon mi mollet.
 
-Dans une gaufrier faire cuire les gaufres. Tartiner un vache qui rit sur chaque moitié, disposer trois tranches de bacon et un oeuf puis déguster! 
+Dans une gaufrier faire cuire les gaufres. Tartiner un vache qui rit sur chaque moitié, disposer trois tranches de bacon et un oeuf puis déguster!

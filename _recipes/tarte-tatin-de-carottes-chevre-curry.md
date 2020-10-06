@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:32:57 UTC
 
 # Tarte tatin de carottes chèvre curry
 
+_Saisons: Printemps_
 
-
-*Saisons: Printemps*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,7 +34,7 @@ updated_at: 2017-01-29 10:32:57 UTC
 
 Une fois cuites les mélanger avec le curry et le poivre.
 
-Dans un moule à tarte étaler le papier cuisson sur lequel on verse les carottes. 
+Dans un moule à tarte étaler le papier cuisson sur lequel on verse les carottes.
 
 Verser par dessus le fromage blanc. Recouvrir ensuite les carottes du fromage de chèvre puis mettre du miel.
 

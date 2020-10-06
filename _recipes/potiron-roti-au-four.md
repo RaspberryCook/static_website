@@ -14,13 +14,11 @@ updated_at: 2017-11-22 09:13:20 UTC
 
 # Potiron rôti au four
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c4bc938>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c4bc938>*
-
-*Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

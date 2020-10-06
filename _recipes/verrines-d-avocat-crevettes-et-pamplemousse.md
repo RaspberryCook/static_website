@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:55:05 UTC
 
 # Verrines d'avocat, crevettes et pamplemousse
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

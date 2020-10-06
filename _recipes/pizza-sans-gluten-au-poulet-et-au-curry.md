@@ -14,13 +14,11 @@ updated_at: 2017-12-18 19:11:09 UTC
 
 # Pizza sans gluten au poulet et au curry
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c562810>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c562810>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

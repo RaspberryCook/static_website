@@ -14,13 +14,11 @@ updated_at: 2018-04-23 17:45:49 UTC
 
 # Salade aux noix, chèvre chaud et jambon cru
 
+_Saisons: Printemps_
 
+_Allèrgènes: #<Allergen:0x000056028b356540>_
 
-*Saisons: Printemps*
-
-*Allèrgènes: #<Allergen:0x000056028b356540>*
-
-*Préparation: 15 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,6 +40,6 @@ Découper en petits morceaux les tomates séchées ainsi que le jambon cru. Fair
 
 Dans l'assiette disposer des tomates séchées, du jambon cru, des noix et des raisins secs.
 
-Tartiner le pain avec du chèvre frais et mettre un peu de miel. 
+Tartiner le pain avec du chèvre frais et mettre un peu de miel.
 
 Ajouter de la sauce salade dans la salade. A manger accompagnée des tartines !

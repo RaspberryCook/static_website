@@ -14,13 +14,11 @@ updated_at: 2017-10-22 13:09:34 UTC
 
 # Risotto au potimarron
 
+_Saisons: Automne_
 
+_Allèrgènes: #<Allergen:0x000056028c290e98>_
 
-*Saisons: Automne*
-
-*Allèrgènes: #<Allergen:0x000056028c290e98>*
-
-*Préparation: 20 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -29,7 +27,7 @@ updated_at: 2017-10-22 13:09:34 UTC
 - 100 g de parmesan râpé
 - 10 tranches de copa
 - 10 g d'huile d'olive
-- 1 échalote 
+- 1 échalote
 - 1 cube de bouillon de légumes
 
 ---
@@ -44,4 +42,4 @@ Ajouter le bouillon au fur et à mesure, jusqu'à que le riz soit cuit.
 
 Pendant ce temps faire griller à sec dans une poêle la pancetta.
 
-Ajouter dans le riz cuit le potimarron, le parmesan. Mélanger. Servir garni de pancetta. 
+Ajouter dans le riz cuit le potimarron, le parmesan. Mélanger. Servir garni de pancetta.

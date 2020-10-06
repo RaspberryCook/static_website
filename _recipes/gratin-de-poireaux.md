@@ -14,16 +14,14 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Gratin de poireaux
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 5 poireaux
-- 200 ml de lait écrémé 
+- 200 ml de lait écrémé
 - 10 cl d'huile d'olive
 - 20 g de farine sans gluten
 - Des noix

@@ -14,11 +14,9 @@ updated_at: 2017-03-29 14:14:47 UTC
 
 # Patate douce farcie au four
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 25 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 25 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,7 +24,7 @@ updated_at: 2017-03-29 14:14:47 UTC
 - 1 oignon rouge
 - 60 g de lentilles vertes
 - 2 œufs
-- 2 yaourts nature 
+- 2 yaourts nature
 - Un petit sachet de fromage râpé
 - Du poivre
 
@@ -40,6 +38,6 @@ Découper l'oignon finement. L'ajouter dans le bol. Ajouter les yaourts ainsi qu
 
 A l'aide d'un couteau évider les patates douces. Couper finement ce qui a été évidé et l'ajouter avec le reste de la préparation. Mélanger puis garnir les patates douces de cette préparation.
 
-Recouvrir de fromage râpé puis mettre au four à 200° pendant 20 min. 
+Recouvrir de fromage râpé puis mettre au four à 200° pendant 20 min.
 
-Pendant les 6 dernières minutes faire cuire deux oeufs dans de l'eau bouillante (façon mi mollet). Écailler les oeufs puis les déposer sur la patate. Déguster! 
+Pendant les 6 dernières minutes faire cuire deux oeufs dans de l'eau bouillante (façon mi mollet). Écailler les oeufs puis les déposer sur la patate. Déguster!

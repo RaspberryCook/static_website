@@ -14,15 +14,13 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Salade de pois chiches, pomme, feta
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 500g de pois chiches 
+- 500g de pois chiches
 - De la feta
 - 2 pommes
 - 40g de raisins secs

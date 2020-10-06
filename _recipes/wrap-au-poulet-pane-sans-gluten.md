@@ -14,11 +14,9 @@ updated_at: 2017-02-06 12:58:16 UTC
 
 # Wrap au poulet pané sans gluten
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,7 +25,7 @@ updated_at: 2017-02-06 12:58:16 UTC
 - De la farine sans gluten
 - De la panure sans gluten
 - 1 oignon
-- 60 g d'emmental 
+- 60 g d'emmental
 - Une tomate
 - De la salade
 - De la mayonnaise
@@ -44,4 +42,4 @@ Couper l'emmental en tranches fines.
 
 Faire revenir un wrap à la poêle. Étaler du ketchup et de la mayonnaise dessus. Garnir avec le poulet, un peu d'oignon, les tranches de tomate, l'emmental et la salade.
 
-Déguster ! 
+Déguster !

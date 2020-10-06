@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:01:38 UTC
 
 # Cupcakes au chorizo et chantilly au roquefort rapide
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

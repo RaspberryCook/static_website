@@ -1,5 +1,5 @@
 ---
-title: Bouchons de courgette gratinés 
+title: Bouchons de courgette gratinés
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2015-10-23 19:12:17 UTC
 updated_at: 2017-01-29 10:32:57 UTC
 ---
 
-# Bouchons de courgette gratinés 
+# Bouchons de courgette gratinés
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

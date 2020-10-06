@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Tarte pommes camembert
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,7 +34,7 @@ Etaler la pâte feuilletée. La piquer avec une fourchette puis étaler la mouta
 
 Peler et couper les pommes en petits morceaux. Les faire revenir dans un peu de beurre pour les faire caraméliser. Poivrer.
 
-Disposer les pommes sur la moutarde. 
+Disposer les pommes sur la moutarde.
 
 Couper le camembert en tranches et le disposer sur les pommes. Parsemer de noix.
 

@@ -14,13 +14,11 @@ updated_at: 2017-09-18 16:04:34 UTC
 
 # Wraps végétariens
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c1fa9c0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c1fa9c0>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

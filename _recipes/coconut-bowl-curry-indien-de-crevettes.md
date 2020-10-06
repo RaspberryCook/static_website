@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:08:32 UTC
 
 # Coconut bowl : curry indien de crevettes
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -32,5 +32,3 @@ updated_at: 2017-07-14 21:08:32 UTC
 - 4 noix de coco ouverte et débarrassées de l’eau de coco
 
 ---
-
-

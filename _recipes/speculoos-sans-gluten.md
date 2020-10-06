@@ -14,13 +14,11 @@ updated_at: 2017-08-05 09:26:29 UTC
 
 # Speculoos sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c0d6990>, #<Allergen:0x000056028c0d6738>, #<Allergen:0x000056028c0d6558>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c0d6990>, #<Allergen:0x000056028c0d6738>, #<Allergen:0x000056028c0d6558>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 720*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 720_
 
 ---
 
@@ -46,4 +44,4 @@ Couvrir le saladier et laisser reposer pendant 12 heures.
 
 Abaisser la pâte au rouleau jusqu'à qu'elle fasse environ 3 mm d'épaisseur. Couper des formes avec des emportes-pièces.
 
-Faire cuire 20 min à 160°. Sortir du four, laisser refroidir jusqu'à qu'ils soient à température ambiante. Déguster ! 
+Faire cuire 20 min à 160°. Sortir du four, laisser refroidir jusqu'à qu'ils soient à température ambiante. Déguster !

@@ -16,9 +16,9 @@ updated_at: 2017-01-29 10:32:57 UTC
 
 Délicieux !
 
-*Saisons: Automne*
+_Saisons: Automne_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

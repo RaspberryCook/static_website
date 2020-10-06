@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Tarte au potimarron et au chorizo
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,11 +24,11 @@ updated_at: 2017-01-29 10:33:01 UTC
 - Un potimarron
 - Un œuf
 - Trois petits fromages frais
-- Un chorizo 
+- Un chorizo
 - Du gruyère râpé
 - Du parmesan râpé
 - Du poivre
-- Du persil 
+- Du persil
 - De la noix de muscade
 
 ---

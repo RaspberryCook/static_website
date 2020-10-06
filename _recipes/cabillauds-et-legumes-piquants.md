@@ -14,11 +14,9 @@ updated_at: 2017-02-28 17:04:58 UTC
 
 # Cabillauds et légumes piquants
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

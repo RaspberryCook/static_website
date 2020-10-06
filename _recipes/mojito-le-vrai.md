@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:08:19 UTC
 
 # Mojito : Le vrai
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,5 +26,3 @@ updated_at: 2017-07-14 21:08:19 UTC
 - Un peu d'eau gazeuse
 
 ---
-
-

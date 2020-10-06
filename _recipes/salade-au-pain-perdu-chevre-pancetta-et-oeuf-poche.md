@@ -16,9 +16,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 Une très bonne salade mais pas très light !
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -29,13 +29,13 @@ Une très bonne salade mais pas très light !
 - 1 gousse d'ail
 - 2 crottins de chèvre
 - 4 tranches de pancetta
-- 3 oeufs 
+- 3 oeufs
 - Du miel
 - Du vinaigre balsamique
 
 ---
 
-Dans un bol verser le lait (environ 10cl) et la gousse d'ail, sans son germe, coupée finement. Dans un autre bol battre l’œuf en omelette. 
+Dans un bol verser le lait (environ 10cl) et la gousse d'ail, sans son germe, coupée finement. Dans un autre bol battre l’œuf en omelette.
 
 Tremper le pain dans le lait, dans l’œuf et les mettre dans un plat passant au four.
 

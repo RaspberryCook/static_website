@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:53:40 UTC
 
 # Boeuf bourguignon facile et rapide
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

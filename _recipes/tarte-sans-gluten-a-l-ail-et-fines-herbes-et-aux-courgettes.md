@@ -14,13 +14,11 @@ updated_at: 2018-05-27 09:45:43 UTC
 
 # Tarte sans gluten à l'ail et fines herbes et aux courgettes
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028b6994a0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028b6994a0>*
-
-*Préparation: 15 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -43,4 +41,4 @@ Laver et couper les courgettes en rondelles. Peler et émincer finement l'échal
 
 Cinq minutes avant la fin de la cuisson la sortir, répartir les copeaux de parmesan puis réenfourner pour 5 minutes.
 
-Déguster ! 
+Déguster !

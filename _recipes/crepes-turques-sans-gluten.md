@@ -14,13 +14,11 @@ updated_at: 2018-01-26 18:13:49 UTC
 
 # Crêpes turques sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c6511b8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c6511b8>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -45,7 +43,7 @@ Faire décongeler l'épinard au micro-onde. Faire cuire le poulet à l'eau penda
 
 Une fois les épinards cuits les presser pour enlever un maximum d'eau. Couper en petits morceaux le poulet.
 
-Émincer finement l'oignon et l'ail. Les faire cuire dans un peu d'huile d'olive. Ajouter du cumin, de la cannelle ainsi que du poivre. Verser dans un bol. Ajouter les épinards, le poulet ainsi que la feta coupée en petits morceaux. 
+Émincer finement l'oignon et l'ail. Les faire cuire dans un peu d'huile d'olive. Ajouter du cumin, de la cannelle ainsi que du poivre. Verser dans un bol. Ajouter les épinards, le poulet ainsi que la feta coupée en petits morceaux.
 
 Diviser la pâte en deux boules identiques. L'étaler finement. Étaler la garniture au milieu d'une des moitiés puis recouvrir avec l'autre moitié. Replier les bords pour bien fermer la crêpe.
 

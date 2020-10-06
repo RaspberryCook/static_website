@@ -14,15 +14,13 @@ updated_at: 2017-02-12 14:37:46 UTC
 
 # Potiron farci aux champignons et aux lardons
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 1 gros potiron 
+- 1 gros potiron
 - 250 g de champignons
 - 200 g d'allumettes de lardons fumées
 - 2 petits fromages blancs

@@ -14,13 +14,11 @@ updated_at: 2018-02-18 09:55:14 UTC
 
 # Quiche sans gluten aux carottes et lait de coco
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028b053320>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028b053320>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -39,7 +37,7 @@ updated_at: 2018-02-18 09:55:14 UTC
 
 Peler et couper finement l'oignon et l'ail. Peler les carottes et les couper en rondelles.
 
-Verser de l'huile d'olive dans une poêle, ajouter l'oignon et l'ail. Ajouter le piment coupé finement puis 50 g de cacahuètes ainsi que les carottes. 
+Verser de l'huile d'olive dans une poêle, ajouter l'oignon et l'ail. Ajouter le piment coupé finement puis 50 g de cacahuètes ainsi que les carottes.
 
 Laisser cuire à feu moyen avec couvercle pendant 5 min. Ajouter le bouillon et laisser cuire pendant une dizaine de minutes avec couvercle.
 

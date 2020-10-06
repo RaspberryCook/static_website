@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Salade avec patates douces, lardons et champignons
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

@@ -14,13 +14,13 @@ updated_at: 2018-08-20 09:25:52 UTC
 
 # Tarte à la tomate sans gluten
 
-Une tarte à la tomate sans gluten qui ravira petits et grands ! 
+Une tarte à la tomate sans gluten qui ravira petits et grands !
 
-*Saisons: Eté*
+_Saisons: Eté_
 
-*Allèrgènes: #<Allergen:0x000056028bf98718>*
+_Allèrgènes: #<Allergen:0x000056028bf98718>_
 
-*Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -37,6 +37,6 @@ Une tarte à la tomate sans gluten qui ravira petits et grands !
 
 Répartir les tranches de fromage sur le fond de la tarte.
 
-Couper les tomates en rondelles. Les répartir sur le fromage. Poivrer et ajouter des herbes de Provence. 
+Couper les tomates en rondelles. Les répartir sur le fromage. Poivrer et ajouter des herbes de Provence.
 
-Enfourner à 180° pendant 25 min. Déguster ! 
+Enfourner à 180° pendant 25 min. Déguster !

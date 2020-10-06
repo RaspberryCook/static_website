@@ -14,11 +14,9 @@ updated_at: 2017-02-28 18:43:50 UTC
 
 # Grâtin de pâtes aux lardons et champignons
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

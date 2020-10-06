@@ -14,15 +14,13 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Gratin de pâtes aux courgettes et parmesan
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- Des pâtes 
+- Des pâtes
 - 1 grosse courgette
 - 4 tranches de jambon
 - Du parmesan râpé

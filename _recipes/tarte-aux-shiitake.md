@@ -14,13 +14,11 @@ updated_at: 2018-04-24 14:34:33 UTC
 
 # Tarte aux shiitake
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028b3c9e50>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028b3c9e50>*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -46,4 +44,4 @@ Dans un bol battre la crème avec les œufs. Ajouter du poivre.
 
 Étaler la pâte feuilletée, la piquer avec une fourchette. Recouvrir du mélange aux champignons et verser le mélange crème/oeufs.
 
-Faire cuire à 220° pendant une vingtaine de minutes. Déguster ! 
+Faire cuire à 220° pendant une vingtaine de minutes. Déguster !

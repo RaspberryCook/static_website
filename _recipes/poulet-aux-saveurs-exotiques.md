@@ -14,13 +14,11 @@ updated_at: 2017-07-07 11:27:50 UTC
 
 # Poulet aux saveurs exotiques
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c4b7618>, #<Allergen:0x000056028c4b7258>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c4b7618>, #<Allergen:0x000056028c4b7258>*
-
-*Préparation: 20 min, Cuisson: 15 min, Refrigération: 60 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 15 min, Refrigération: 60 min, Repos: 0_
 
 ---
 
@@ -39,4 +37,4 @@ Dans un bol mélanger deux cuillères à soupe de ketchup avec deux cuillères �
 
 Laver et épépiner le poivron rouge. Le découper en petits morceaux. Éplucher l'ananas et le couper de la même manière.
 
-Mettre tous les ingrédients dans un plat et faire cuire 10 min à 180°. Laisser cuire encore 5 min avec la position grill. Déguster ! 
+Mettre tous les ingrédients dans un plat et faire cuire 10 min à 180°. Laisser cuire encore 5 min avec la position grill. Déguster !

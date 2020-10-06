@@ -14,19 +14,17 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Petits sandwichs omelette et crudités
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- Des petits pains ciabatta 
+- Des petits pains ciabatta
 - Un concombre
 - 4 tomates
 - 2 œufs
-- Du lait 
+- Du lait
 - Du persil
 - De la ciboulette
 - De la mayonnaise

@@ -14,19 +14,17 @@ updated_at: 2017-06-05 16:08:48 UTC
 
 # Tarte aux fraises sans gluten
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c568620>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c568620>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 1 pâte feuilletée sans gluten
 - 500 g de fraises
-- 25 cl de lait 
+- 25 cl de lait
 - 1 oeuf
 - 30 g de farine sans gluten
 - 40 g de sucre
@@ -47,4 +45,4 @@ Verser le lait bouillant dans le bol, bien mélanger.
 
 Remettre dans la casserole sur feu doux, laisser chauffer quelques minutes en mélangeant bien.
 
-Verser sur la pâte feuilletée cuite la crème pâtissière, bien l'étaler. Recouvrir des fraises. Déguster ! 
+Verser sur la pâte feuilletée cuite la crème pâtissière, bien l'étaler. Recouvrir des fraises. Déguster !

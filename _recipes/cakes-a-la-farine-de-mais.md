@@ -14,11 +14,9 @@ updated_at: 2017-04-25 08:50:20 UTC
 
 # Cakes à la farine de maïs
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 25 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 25 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -32,7 +30,7 @@ updated_at: 2017-04-25 08:50:20 UTC
 - 1/2 sache de levure sans gluten
 - Poivre
 - Basilic
-- 
+-
 
 ---
 

@@ -16,11 +16,11 @@ updated_at: 2018-08-23 16:21:47 UTC
 
 Un savoureux repas qui vous requinquera après le sport !
 
-*Saisons: Eté*
+_Saisons: Eté_
 
-*Allèrgènes: #<Allergen:0x000056028bfdebc8>*
+_Allèrgènes: #<Allergen:0x000056028bfdebc8>_
 
-*Préparation: 15 min, Cuisson: 10 min, Refrigération: 60 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 10 min, Refrigération: 60 min, Repos: 0_
 
 ---
 
@@ -45,4 +45,4 @@ Laver les tomates et le concombre. Couper le concombre en cubes.
 
 Peler, dénoyauter et couper l'avocat en tranches.
 
-Au fond d'un bol disposer du riz, puis du saumon et les légumes. Ajouter quelques gouttes de sauce soja et déguster ! 
+Au fond d'un bol disposer du riz, puis du saumon et les légumes. Ajouter quelques gouttes de sauce soja et déguster !

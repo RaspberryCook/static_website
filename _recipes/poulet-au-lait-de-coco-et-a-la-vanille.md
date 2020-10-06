@@ -14,13 +14,11 @@ updated_at: 2018-02-19 11:18:42 UTC
 
 # Poulet au lait de coco et à la vanille
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028b0a3c58>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028b0a3c58>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

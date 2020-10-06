@@ -1,5 +1,5 @@
 ---
-title: Tartare de saumon, avocat et mozzarella 
+title: Tartare de saumon, avocat et mozzarella
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2016-12-18 09:42:33 UTC
 updated_at: 2017-01-29 10:33:03 UTC
 ---
 
-# Tartare de saumon, avocat et mozzarella 
+# Tartare de saumon, avocat et mozzarella
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,4 +40,4 @@ Laisser reposer 40 min au frigo.
 
 Pendant ce temps faire cuire du riz jusqu'à qu'il soit tendre.
 
-Mettre dans l'assiette une base de riz puis recouvrir du tartare. Déguster ! 
+Mettre dans l'assiette une base de riz puis recouvrir du tartare. Déguster !

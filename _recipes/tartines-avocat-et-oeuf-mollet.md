@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Tartines avocat et oeuf mollet
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,4 +39,4 @@ Pendant ce temps mélanger la mayonnaise avec la moutarde et la ciboulette. Pele
 
 Tartiner le mélange mayo-moutarde sur le pain à hamburger. Recouvrir des lamelles d'avocat puis soit d'une tranche de saumon fumé soit d'une tranche de jambon.
 
-Enlever les coquilles des œufs, les poser sur les pains. Déguster ! 
+Enlever les coquilles des œufs, les poser sur les pains. Déguster !

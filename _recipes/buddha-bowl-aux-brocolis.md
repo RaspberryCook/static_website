@@ -16,11 +16,11 @@ updated_at: 2018-03-11 18:18:45 UTC
 
 Un repas healthy et naturellement sans gluten
 
-*Saisons: Hiver*
+_Saisons: Hiver_
 
-*Allèrgènes: #<Allergen:0x000056028b128ca0>*
+_Allèrgènes: #<Allergen:0x000056028b128ca0>_
 
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -47,4 +47,4 @@ Peler et couper en tranches l'avocat.
 
 Mélanger le yaourt à la grecque avec quelques gouttes de jus de citron (selon les goûts) et du poivre.
 
-Mettre le riz dans un bol. Répartir le saumon, l'avocat et les brocolis dessus. Parsemer de noisette, accompagner de la sauce et déguster ! 
+Mettre le riz dans un bol. Répartir le saumon, l'avocat et les brocolis dessus. Parsemer de noisette, accompagner de la sauce et déguster !

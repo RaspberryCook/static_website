@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Crevettes, curry et lait de coco
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -45,4 +43,4 @@ Pendant ce temps décortiquer les crevettes et faire cuire du riz.
 
 Ajouter les crevettes dans la casserole et poivrer. Faire cuire 5 min à feu doux.
 
-Dans une assiette verser le riz puis verser la préparation dessus. Déguster ! 
+Dans une assiette verser le riz puis verser la préparation dessus. Déguster !

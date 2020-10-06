@@ -14,13 +14,11 @@ updated_at: 2017-11-02 17:41:59 UTC
 
 # Chamallow d'Halloween
 
+_Saisons: Automne_
 
+_Allèrgènes: #<Allergen:0x000056028c3e08c0>_
 
-*Saisons: Automne*
-
-*Allèrgènes: #<Allergen:0x000056028c3e08c0>*
-
-*Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

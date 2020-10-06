@@ -14,13 +14,11 @@ updated_at: 2017-11-16 15:39:34 UTC
 
 # Tartine sans gluten au guacamole de petits pois
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c44e938>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c44e938>*
-
-*Préparation: 20 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,7 +34,7 @@ updated_at: 2017-11-16 15:39:34 UTC
 
 ---
 
-Faire cuire les petits pois comme indiqué sur le paquet. 
+Faire cuire les petits pois comme indiqué sur le paquet.
 
 Pendant ce temps dans de l'huile d'olive faire griller le poulet.
 

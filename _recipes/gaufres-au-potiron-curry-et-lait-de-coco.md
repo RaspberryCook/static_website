@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Gaufres au potiron, curry et lait de coco
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -33,10 +31,10 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 ---
 
-Peler et couper le potiron en cubes. Les faire cuire dans de l'eau bouillante jusqu'à qu'ils deviennent mous. 
+Peler et couper le potiron en cubes. Les faire cuire dans de l'eau bouillante jusqu'à qu'ils deviennent mous.
 
 Mettre le potiron dans un bol puis le mixer jusqu'à qu'il soit en purée. Ajouter le lait de coco, la farine, la levure, le beurre fondu et les œufs. Mélanger au fur et à mesure.
 
 Poivrer et mettre trois cuillères à soupe de curry. Bien mélanger.
 
-Le mélange obtenu est assez épais, c'est normal. Faire cuire le mélange dans un gaufrier puis déguster ! 
+Le mélange obtenu est assez épais, c'est normal. Faire cuire le mélange dans un gaufrier puis déguster !

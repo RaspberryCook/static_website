@@ -14,19 +14,17 @@ updated_at: 2017-03-02 19:15:23 UTC
 
 # Tarte aux lentilles corail et gorgonzola
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 15 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 1 pâte brisée sans gluten 
+- 1 pâte brisée sans gluten
 - 200 g de lentilles corail
-- 8 tranches de poitrine fumée 
+- 8 tranches de poitrine fumée
 - 1 poireau
-- 200 g de gorgonzola 
+- 200 g de gorgonzola
 - Du poivre
 
 ---
@@ -37,4 +35,4 @@ Laver et couper en rondelles le poireau. L'ajouter dans la poêle avec les lenti
 
 Étaler la pâte puis couper le gorgonzola en petits morceaux et l'étaler sur la pâte. Ajouter le mélange de lentilles. Disposer les tranches restantes de poitrine fumée sur la tarte.
 
-Faire cuire 45 min à 180°. Déguster! 
+Faire cuire 45 min à 180°. Déguster!

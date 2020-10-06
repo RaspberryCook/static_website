@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Wrap guacamole, saumon et roquette
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -33,18 +31,16 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 ---
 
-Pour le guacamole : 
+Pour le guacamole :
 
-Récupérer la chair des avocats. Mettre un peu de jus de citron et du paprika selon les goûts et mélanger. 
+Récupérer la chair des avocats. Mettre un peu de jus de citron et du paprika selon les goûts et mélanger.
 
 Couper la tomate et l'oignon finement. Ajouter dans la préparation et bien mélanger.
 
-
-
-Pour les wraps : 
+Pour les wraps :
 
 Faire chauffer rapidement les tortillas pour qu'elles deviennent plus molles.
 
 Les recouvrir de guacamole, mettre le saumon fumé puis la roquette.
 
-Refermer et déguster ! 
+Refermer et déguster !

@@ -14,26 +14,24 @@ updated_at: 2017-02-24 18:55:13 UTC
 
 # Camembert surprise
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 1 camembert
 - 6 morceaux de raisin
-- Deux cuillères à soupe de confit d'oignon 
+- Deux cuillères à soupe de confit d'oignon
 
 ---
 
-Couper le chapeau du camembert sur 6-7 cm de profondeur. 
+Couper le chapeau du camembert sur 6-7 cm de profondeur.
 
-Laver et couper les boules de raisin en 4. Les répartir au fond du camembert. 
+Laver et couper les boules de raisin en 4. Les répartir au fond du camembert.
 
-Recouvrir du confit d oignon. 
+Recouvrir du confit d oignon.
 
-Couper le chapeau du camembert en petits morceaux. En recouvrir le confit d'oignon. Emballer le tout dans du papier aluminium puis faire cuire 20 min à 200 degrés. 
+Couper le chapeau du camembert en petits morceaux. En recouvrir le confit d'oignon. Emballer le tout dans du papier aluminium puis faire cuire 20 min à 200 degrés.
 
-Déguster avec du pain fait maison ! ;) 
+Déguster avec du pain fait maison ! ;)

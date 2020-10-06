@@ -14,18 +14,18 @@ updated_at: 2017-07-15 09:36:39 UTC
 
 # Dessert aux framboises de Josette
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - framboises : 300 g
--  lait : 5 c. à soupe
--  fécule : 40 g
--  jaune d'oeuf : 2
--  sucre : 50 g
--  jus d'orange : 4 c. à soupe
--  blanc d'oeuf : 2
--  cerneaux de noix : 8
+- lait : 5 c. à soupe
+- fécule : 40 g
+- jaune d'oeuf : 2
+- sucre : 50 g
+- jus d'orange : 4 c. à soupe
+- blanc d'oeuf : 2
+- cerneaux de noix : 8
 
 ---
 

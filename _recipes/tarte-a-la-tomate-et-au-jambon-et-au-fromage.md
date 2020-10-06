@@ -16,9 +16,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 Recette pour une succulente tarte à pleins de choses, tu la réussiras pas aussi bien que moi mais ce sera bon quoi qu'il en soit !
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -32,24 +32,24 @@ Recette pour une succulente tarte à pleins de choses, tu la réussiras pas auss
 
 ---
 
-Précuire la pâte (percée avec une fourchette) 5 min à 450 degrés farenheit (230°C). 
+Précuire la pâte (percée avec une fourchette) 5 min à 450 degrés farenheit (230°C).
 
-Pendant ce temps, couper les tomates en rondelles de 3 mm d'épaisseur. 
+Pendant ce temps, couper les tomates en rondelles de 3 mm d'épaisseur.
 
-Sortir la pâte précuite du four. badigeonner le fond de moutarde de Dijon (la classique fait l'affaire) ...en mettre suffisamment pour que le fond en pâte ne se voit plus. 
+Sortir la pâte précuite du four. badigeonner le fond de moutarde de Dijon (la classique fait l'affaire) ...en mettre suffisamment pour que le fond en pâte ne se voit plus.
 
-Disposer les tranches de tomates. faire plusieurs épaisseurs. 
+Disposer les tranches de tomates. faire plusieurs épaisseurs.
 
 Couper le jambon en fine lamelles et les disposer sur les tomates. Saupoudrer le tout de gruyère râpé.
 
-saupoudrer d'herbes de Provence + 2 pincées de sel. 
+saupoudrer d'herbes de Provence + 2 pincées de sel.
 
-1 cuillère à soupe d'huile d'olive. 
+1 cuillère à soupe d'huile d'olive.
 
-Enfourner pour 20 min à 450 farenheit puis couvrir avec papier d'aluminium pour 20 min supplémentaires. Après ces 20 min, enlever le papier aluminium et laisser cuire encore 5 min porte du four ouverte. 
+Enfourner pour 20 min à 450 farenheit puis couvrir avec papier d'aluminium pour 20 min supplémentaires. Après ces 20 min, enlever le papier aluminium et laisser cuire encore 5 min porte du four ouverte.
 
-Délicieux avec une salade verte. 
+Délicieux avec une salade verte.
 
-Inratable. 
+Inratable.
 
 Si on ne met pas l'huile, c'est un plat sans matière grasse.

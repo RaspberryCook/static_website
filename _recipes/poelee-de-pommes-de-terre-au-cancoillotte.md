@@ -14,20 +14,18 @@ updated_at: 2017-10-29 12:03:18 UTC
 
 # Poêlée de pommes de terre au cancoillotte
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c3add08>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c3add08>*
-
-*Préparation: 20 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 8 grosses pommes de terre
 - 300 g de saumon fumé
-- 300 g de cancoillotte 
-- 200 g d'épinards hachés 
+- 300 g de cancoillotte
+- 200 g d'épinards hachés
 - 2 échalotes
 - 1 gousse d'ail
 - Du sel
@@ -40,5 +38,3 @@ Peler et couper les pommes de terre en cubes. Les mettre dans une poêle avec de
 Émincer l'ail et les échalotes. Les ajouter dans la poêle et faire cuire à feu moyen jusqu'à que les pommes de terre soient grillées. Poivrer.
 
 Ajouter le saumon fumé coupé en morceaux ainsi que l'épinard. Laisser cuire 5 min. Ajouter la cancoillotte, laisser chauffer 2 min en mélangeant bien. Déguster.
-
- 

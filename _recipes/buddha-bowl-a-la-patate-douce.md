@@ -14,13 +14,11 @@ updated_at: 2017-11-17 16:47:11 UTC
 
 # Buddha Bowl à la patate douce
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c485960>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c485960>*
-
-*Préparation: 20 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -44,6 +42,6 @@ Peler la courgette et la couper en fines tranches avec un économe. La mettre da
 
 Faire cuire le riz. Couper les tomates en tranches fines.
 
-Mélanger le yaourt avec la ciboulette et du poivre. 
+Mélanger le yaourt avec la ciboulette et du poivre.
 
 Dans un bol disposer du riz, de la patate douce, des tomates, de la courgette, des pois chiches. Parsemer des noix de cajou dessus. Verser la sauce au yaourt et déguster !

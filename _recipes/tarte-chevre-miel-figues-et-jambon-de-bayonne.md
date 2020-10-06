@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Tarte chèvre, miel, figues et jambon de bayonne
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,16 +25,16 @@ updated_at: 2017-01-29 10:33:02 UTC
 - Une bûche de chèvre
 - 4 tranches de jambon de Bayonne
 - 3 œufs
-- Deux yaourts à la grecque 
+- Deux yaourts à la grecque
 - Du miel
 - Du thym
 - Du poivre
 
 ---
 
-Étaler la pâte feuilletée et la piquer avec une fourchette. 
+Étaler la pâte feuilletée et la piquer avec une fourchette.
 
-Découper les figues en deux et couper le fromage en rondelles. 
+Découper les figues en deux et couper le fromage en rondelles.
 
 Battre les œufs avec les yaourts, le thym et le poivre.
 

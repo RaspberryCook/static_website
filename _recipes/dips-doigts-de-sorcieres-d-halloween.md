@@ -14,13 +14,11 @@ updated_at: 2017-11-02 17:41:33 UTC
 
 # Dips doigts de sorcières d'Halloween
 
+_Saisons: Automne_
 
+_Allèrgènes: #<Allergen:0x000056028c3fce58>_
 
-*Saisons: Automne*
-
-*Allèrgènes: #<Allergen:0x000056028c3fce58>*
-
-*Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -37,6 +35,6 @@ Peler et couper les carottes en deux. Les tailler sur une extrémité afin qu'el
 
 Mélanger le yaourt avec la moutarde, le persil et la ciboulette. En mettre un peu sur l'extrémité de la carotte.
 
-Ajouter une demi olive sur chaque extrémité pour que ça fasse effet ongle. 
+Ajouter une demi olive sur chaque extrémité pour que ça fasse effet ongle.
 
 Déguster avec la sauce.

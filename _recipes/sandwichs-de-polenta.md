@@ -14,16 +14,14 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Sandwichs de polenta
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- Pour 4 sandwichs : 
-- 
+- Pour 4 sandwichs :
+-
 - 1 paquet de polenta
 - Du lait
 - Une demi aubergine
@@ -35,7 +33,7 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 ---
 
-Faire bouillir 600 ml de lait. Mettre du parmesan et poivrer. Ajouter 200 g de polenta dedans. 
+Faire bouillir 600 ml de lait. Mettre du parmesan et poivrer. Ajouter 200 g de polenta dedans.
 
 Une fois cuit étaler en huit petit pains ronds.
 

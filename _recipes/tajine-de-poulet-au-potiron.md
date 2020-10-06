@@ -14,13 +14,11 @@ updated_at: 2017-10-30 18:29:59 UTC
 
 # Tajine de poulet au potiron
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c3c5250>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c3c5250>*
-
-*Préparation: 20 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -45,4 +43,4 @@ Pendant ce temps éplucher le potiron et le couper en petits morceaux. Le faire 
 
 Faire cuire le riz comme ajouté sur le paquet.
 
-Servir le tout ensemble. Déguster ! 
+Servir le tout ensemble. Déguster !

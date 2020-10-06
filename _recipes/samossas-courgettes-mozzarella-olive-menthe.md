@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:59:16 UTC
 
 # Samossas courgettes mozzarella olive menthe
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

@@ -14,13 +14,11 @@ updated_at: 2018-04-09 09:04:43 UTC
 
 # Houmous au thon sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028b22f428>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028b22f428>*
-
-*Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

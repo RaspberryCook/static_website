@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Soupe de carottes au lait de coco accompagnée de boulettes
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -44,4 +42,4 @@ Pendant ce temps mélanger la viande hachée avec un œuf, du cumin et du poivre
 
 A feu doux faire cuire les boulettes. Pendant ce temps mixer les légumes avec la moitié de l'eau de cuisson (ou plus si vous souhaitez que ce soit plus liquide). Ajouter le lait de coco et bien mélanger.
 
-Verser la soupe dans des bols et déposer les boulettes dessus. Déguster ! 
+Verser la soupe dans des bols et déposer les boulettes dessus. Déguster !

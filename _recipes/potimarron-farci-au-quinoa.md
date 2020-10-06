@@ -14,21 +14,19 @@ updated_at: 2018-11-04 18:39:40 UTC
 
 # Potimarron farci au quinoa
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c05f7f0>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c05f7f0>*
-
-*Préparation: 15 min, Cuisson: 50 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 50 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 1 potimarron
 - Une demi courgettes
-- 6 tomates séchées 
-- 20 tranches de chorizo 
-- 100 g de quinoa 
+- 6 tomates séchées
+- 20 tranches de chorizo
+- 100 g de quinoa
 - De la crème
 - Du poivre
 - Du persil

@@ -14,16 +14,16 @@ updated_at: 2017-07-15 08:47:17 UTC
 
 # Poêlée de champignons et son œuf
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 400 grammes de champignons de Paris
--  1 oignon nouveau
--  1 stick Mélanges parfaits Persillade de Maggi
--  4 oeufs
--  1 c. à soupe d'huile d'olive
--  4 tranches de pain de campagne
+- 1 oignon nouveau
+- 1 stick Mélanges parfaits Persillade de Maggi
+- 4 oeufs
+- 1 c. à soupe d'huile d'olive
+- 4 tranches de pain de campagne
 
 ---
 

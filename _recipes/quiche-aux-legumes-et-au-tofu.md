@@ -14,11 +14,9 @@ updated_at: 2017-03-22 18:59:57 UTC
 
 # Quiche aux légumes et au tofu
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 30 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 30 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,7 +34,7 @@ updated_at: 2017-03-22 18:59:57 UTC
 
 ---
 
-Peler les carottes et parer les poireaux. Couper les légumes en petits morceaux. 
+Peler les carottes et parer les poireaux. Couper les légumes en petits morceaux.
 
 Couper le tofu en petits cubes. Les mettre dans une poêle avec les légumes et de l'huile d'olive. Faire revenir pendant 15 min, à feu doux et en tournant régulièrement.
 
@@ -46,4 +44,4 @@ Dans un bol mélanger les œufs avec la crème et la moitié du fromage.
 
 Étaler la pâte feuilletée. Piquer avec une fourchette puis recouvrir du fromage restant. Ajouter les légumes et recouvrir du mélange œufs/crème.
 
-Faire cuire 30 min à 200°. Déguster ! 
+Faire cuire 30 min à 200°. Déguster !

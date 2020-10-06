@@ -14,18 +14,16 @@ updated_at: 2017-03-25 14:56:34 UTC
 
 # Truite pocheée et ses pommes de terre
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 2 pavés de truite
 - 300 g de pommes de terre
-- 1 gousse d'ail 
-- 2 échalotes 
+- 1 gousse d'ail
+- 2 échalotes
 - 1 yaourt nature
 - Du jus de citron
 - De l'aneth
@@ -45,4 +43,4 @@ Mettre au four avec les pommes de terre pour encore 10 min de cuisson.
 
 Dans un bol mélanger l'aneth avec le yaourt et du poivre.
 
-Servir le poisson et les pommes de terre accompagnés de la sauce. Déguster! 
+Servir le poisson et les pommes de terre accompagnés de la sauce. Déguster!

@@ -14,11 +14,9 @@ updated_at: 2017-03-28 15:29:10 UTC
 
 # Feuilleté de brocolis au bacon
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 30 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 30 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -34,7 +32,7 @@ Couper le brocolis puis le faire cuire dans de l'eau bouillante pendant 10 min.
 
 Couper le bacon en petits morceaux et le faire revenir dans une poêle.
 
-Étaler la pâte feuilletée puis avec un verre couper des ronds de pâte. 
+Étaler la pâte feuilletée puis avec un verre couper des ronds de pâte.
 
 Couper finement le brocolis cuit. Le mélanger dans un bol avec le bacon, les yaourts natures et le poivre.
 

@@ -14,9 +14,7 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Gratin pommes de terre et cervelas
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,4 +38,4 @@ Dans un saladier verser le lait, la crème et mettre l'ail émincé finement. Aj
 
 Dans un plat mettre les rondelles de pommes de terre, puis de cervelas. Couvrir avec la crème, puis mettre les rondelles de mozzarella et du fromage râpé.
 
-Mettre une 20aine de minutes au four à 180°. Faire gratiner le dessus et servir. 
+Mettre une 20aine de minutes au four à 180°. Faire gratiner le dessus et servir.

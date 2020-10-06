@@ -5,7 +5,7 @@ time:
   cooling: 60
   cooking: 20
   rest: 0
-author:  LAURENCE
+author: LAURENCE
 image: /uploads/recipe/image/259/20170225_124952.jpg
 old_id: 259
 created_at: 2017-02-26 08:42:02 UTC
@@ -16,9 +16,9 @@ updated_at: 2017-02-26 08:56:15 UTC
 
 Salade de fruits d'hiver
 
-*Saisons: Hiver*
+_Saisons: Hiver_
 
-*Préparation: 20 min, Cuisson: 0 min, Refrigération: 60 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 0 min, Refrigération: 60 min, Repos: 0_
 
 ---
 

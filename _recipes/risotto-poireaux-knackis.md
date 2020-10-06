@@ -14,13 +14,13 @@ updated_at: 2018-03-25 10:11:39 UTC
 
 # Risotto poireaux knackis
 
-Un risotto original qui ravira petits et grands ! 
+Un risotto original qui ravira petits et grands !
 
-*Saisons: Hiver*
+_Saisons: Hiver_
 
-*Allèrgènes: #<Allergen:0x000056028b16f790>*
+_Allèrgènes: #<Allergen:0x000056028b16f790>_
 
-*Préparation: 10 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

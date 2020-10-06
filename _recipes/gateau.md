@@ -14,12 +14,10 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Gateau
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 
+-
 
 ---
-
-

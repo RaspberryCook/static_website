@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Poêlée de champignons avec des oeufs au plat
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -39,4 +37,4 @@ Faire revenir les champignons et l'oignon à feu doux pendant 10 min. Ajouter du
 
 Dans un peu de beurre faire cuire les œufs au plat.
 
-Servir la poêlée de champignons chaude avec les œufs. Déguster ! 
+Servir la poêlée de champignons chaude avec les œufs. Déguster !

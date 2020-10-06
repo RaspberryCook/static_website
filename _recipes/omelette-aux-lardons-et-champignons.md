@@ -14,13 +14,11 @@ updated_at: 2017-07-29 09:11:08 UTC
 
 # Omelette aux lardons et champignons
 
+_Saisons: Automne_
 
+_Allèrgènes: #<Allergen:0x000056028c047290>, #<Allergen:0x000056028c047088>, #<Allergen:0x000056028c046f20>, #<Allergen:0x000056028c046de0>, #<Allergen:0x000056028c046c78>, #<Allergen:0x000056028c046a98>, #<Allergen:0x000056028c046958>, #<Allergen:0x000056028c046818>, #<Allergen:0x000056028c0466b0>, #<Allergen:0x000056028c046570>, #<Allergen:0x000056028c046430>_
 
-*Saisons: Automne*
-
-*Allèrgènes: #<Allergen:0x000056028c047290>, #<Allergen:0x000056028c047088>, #<Allergen:0x000056028c046f20>, #<Allergen:0x000056028c046de0>, #<Allergen:0x000056028c046c78>, #<Allergen:0x000056028c046a98>, #<Allergen:0x000056028c046958>, #<Allergen:0x000056028c046818>, #<Allergen:0x000056028c0466b0>, #<Allergen:0x000056028c046570>, #<Allergen:0x000056028c046430>*
-
-*Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,4 +39,4 @@ Faire revenir les lardons dans une poêle. Vider une partie de la graisse.
 
 Battre les œufs en omelette. Ajouter de la ciboulette, du piment d'Espelette ainsi que du poivre selon les goûts et bien mélanger.
 
-Dans une poêle chaude faire chauffer l'omelette. Ajouter la garniture ainsi que le parmesan en copeaux.Refermer l'omelette puis déguster bien chaud ! 
+Dans une poêle chaude faire chauffer l'omelette. Ajouter la garniture ainsi que le parmesan en copeaux.Refermer l'omelette puis déguster bien chaud !

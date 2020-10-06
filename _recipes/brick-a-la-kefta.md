@@ -14,11 +14,11 @@ updated_at: 2017-01-29 10:32:57 UTC
 
 # Brick à la kefta
 
-Très bonne recette 
+Très bonne recette
 
-*Saisons: Printemps*
+_Saisons: Printemps_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -38,7 +38,7 @@ Très bonne recette
 
 Couper l'oignon et le poivron en très petits cubes, et les faire cuire rapidement dans un peu d'huile. Ne pas enlever le croquant des légumes.
 
-Couper l'ail en petits morceaux, mettre avec les steaks hachés. Ajouter les épices (assaisonner selon le goût). 
+Couper l'ail en petits morceaux, mettre avec les steaks hachés. Ajouter les épices (assaisonner selon le goût).
 
 Bien malaxer le tout et émietter sur la poêle avec l'oignon et le poivron.
 

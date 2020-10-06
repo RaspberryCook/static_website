@@ -14,13 +14,11 @@ updated_at: 2018-01-04 18:00:03 UTC
 
 # Tarte butternut et ail et fines herbes
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c5c1ce8>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c5c1ce8>*
-
-*Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,8 +39,8 @@ Peler les gousses d'ail et les émincer finement. Les mélanger dans 3 cuillère
 
 Enfourner à 180° pendant 30 min.
 
-Pendant les cinq dernières minutes de cuisson enfourner la pâte brisée, préalablement piquée avec une fourchette. 
+Pendant les cinq dernières minutes de cuisson enfourner la pâte brisée, préalablement piquée avec une fourchette.
 
 Sortir la pâte du four, la recouvrir de fromage ail et fines herbes. Disposer la courge dessus, et parsemer d'oignon rouge émincé. Remettre au four pendant 5 min.
 
-Dégustez ! 
+Dégustez !

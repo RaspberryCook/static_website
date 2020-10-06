@@ -14,23 +14,21 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Cookie jambon et petits pois
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 4 tranches de jambon sec
 - 100g de petits pois congelés
-- 2 œufs 
+- 2 œufs
 - 250g de farine sans gluten
 - Un demi sachet de levure sans gluten
 - 12 cl de lait
 - 2 cl d'huile d'olive
 - Poivre
-- Curry 
+- Curry
 
 ---
 

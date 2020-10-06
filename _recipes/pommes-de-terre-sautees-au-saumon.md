@@ -14,13 +14,11 @@ updated_at: 2017-10-04 13:39:04 UTC
 
 # Pommes de terre sautées au saumon
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c23c7a8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c23c7a8>*
-
-*Préparation: 20 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 60 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

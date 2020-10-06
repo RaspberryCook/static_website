@@ -14,11 +14,9 @@ updated_at: 2017-04-27 15:24:51 UTC
 
 # Wrap chèvre chorizo
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

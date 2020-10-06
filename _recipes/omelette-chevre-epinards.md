@@ -1,5 +1,5 @@
 ---
-title: Omelette chèvre épinards 
+title: Omelette chèvre épinards
 time:
   baking: 15
   cooling: 0
@@ -12,27 +12,25 @@ created_at: 2017-04-03 18:03:29 UTC
 updated_at: 2017-04-03 18:18:38 UTC
 ---
 
-# Omelette chèvre épinards 
+# Omelette chèvre épinards
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 8 oeufs
 - 200 g d'épinards congelés
 - 200 g de chèvre frais
-- 2 gousses d'ail 
+- 2 gousses d'ail
 - 2 avocats
 - Du poivre
 - De la ciboulette
 
 ---
 
-Hacher l'ail, le mettre dans une poêle avec les épinards et laisser cuire le temps qu'ils decongelent. 
+Hacher l'ail, le mettre dans une poêle avec les épinards et laisser cuire le temps qu'ils decongelent.
 
 Battre les oeufs en omelette avec la ciboulette et le poivre.
 

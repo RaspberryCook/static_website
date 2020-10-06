@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:50:49 UTC
 
 # Blanquette de veau à l'ancienne
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -33,7 +33,7 @@ updated_at: 2017-07-15 08:50:49 UTC
 - 3 c. à soupe de crème fraîche allégée à 5% de MG
 - 4 c. à soupe de vin blanc sec
 - 1 bouquet garni (persil, thym, laurier)
--  4 clous de girofle
+- 4 clous de girofle
 - 4 brins de persil plat
 - sel, poivre
 

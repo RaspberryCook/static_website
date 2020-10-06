@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Fonio aux carottes et lait de coco
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -34,6 +32,6 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 Faire cuire le fonio dans une casserole : une tasse de fonio pour trois tasses d'eau.
 
-Poivrer et mettre du curry dans le lait de coco. 
+Poivrer et mettre du curry dans le lait de coco.
 
 Ajouter le fonio cuit et déguster.

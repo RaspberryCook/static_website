@@ -14,15 +14,13 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Salade à l'avocat et au jambon serrano
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- Une salade 
+- Une salade
 - Deux avocats
 - 6 tranches de jambon serrano
 - Des petites tomates
@@ -30,7 +28,7 @@ updated_at: 2017-01-29 10:33:00 UTC
 - De l'huile d'olive
 - Deux gousses d'ail
 - Du poivre
-- De la crème de vinaigre balsamique 
+- De la crème de vinaigre balsamique
 
 ---
 
@@ -44,4 +42,4 @@ Laver les tomates et les couper en deux.
 
 Couper le jambon en morceaux fins.
 
-Présenter le tout dans une assiette. Ajouter un peu de vinaigre balsamique et déguster ! 
+Présenter le tout dans une assiette. Ajouter un peu de vinaigre balsamique et déguster !

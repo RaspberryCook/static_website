@@ -14,20 +14,18 @@ updated_at: 2017-10-26 14:57:10 UTC
 
 # Croquette de courge butternut et mozzarella
 
+_Saisons: Automne_
 
+_Allèrgènes: #<Allergen:0x000056028c33d828>_
 
-*Saisons: Automne*
-
-*Allèrgènes: #<Allergen:0x000056028c33d828>*
-
-*Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 4 pommes de terre
 - 1/2 butternut
 - 2 boules de mozzarella
-- 1 œuf 
+- 1 œuf
 - De la chapelure sans gluten
 - Du curry
 - Du poivre
@@ -40,7 +38,7 @@ Peler la demi butternut et la couper en petits morceaux. La faire cuire dans une
 
 Peler les pommes de terre. Les mettre dans un bol avec la butternut et les écraser avec une fourchette. Ajouter du curry et du poivre.
 
-Couper la mozzarella en petits morceaux. 
+Couper la mozzarella en petits morceaux.
 
 Dans un bol verser de la chapelure. Dans un autre mettre l’œuf battu.
 

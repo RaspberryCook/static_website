@@ -14,11 +14,9 @@ updated_at: 2017-05-01 10:03:44 UTC
 
 # Polenta à la sauce tomate
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

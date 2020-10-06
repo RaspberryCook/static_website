@@ -5,7 +5,7 @@ time:
   cooling: 0
   cooking: 0
   rest: 0
-author: 
+author:
 image: default.svg
 old_id: 333
 created_at: 2016-01-01 00:00:00 UTC
@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:07:59 UTC
 
 # Salade niçoise
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -34,5 +34,3 @@ updated_at: 2017-07-14 21:07:59 UTC
 - Sel & poivre du moulin
 
 ---
-
-

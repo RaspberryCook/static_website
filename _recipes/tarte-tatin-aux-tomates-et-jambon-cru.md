@@ -14,19 +14,17 @@ updated_at: 2017-07-29 14:27:20 UTC
 
 # Tarte tatin aux tomates et jambon cru
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c0a0138>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c0a0138>*
-
-*Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 1 pâte brisée sans gluten
-- 6 tomates 
-- 5 fines tranches de jambon cru 
+- 6 tomates
+- 5 fines tranches de jambon cru
 - 50 g de pignons de pin
 - Du parmesan en copeaux
 - Du poivre
@@ -43,4 +41,4 @@ Sortir du four puis parsemer des copeaux de parmesan. Recouvrir la garniture ave
 
 Faire cuire 40 min au four à 180°.
 
-Lors des 5 dernières minutes de cuisson faire revenir à feu moyen dans une poêle les pignons de pin. Une fois la tarte sortie, la démouler dans un plat puis saupoudrer des pignons de pin grillés. Déguster ! 
+Lors des 5 dernières minutes de cuisson faire revenir à feu moyen dans une poêle les pignons de pin. Une fois la tarte sortie, la démouler dans un plat puis saupoudrer des pignons de pin grillés. Déguster !

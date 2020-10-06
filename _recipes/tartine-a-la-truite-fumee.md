@@ -14,13 +14,11 @@ updated_at: 2017-11-22 09:12:09 UTC
 
 # Tartine à la truite fumée
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c4a5260>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c4a5260>*
-
-*Préparation: 10 min, Cuisson: 15 min, Refrigération: 60 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 15 min, Refrigération: 60 min, Repos: 0_
 
 ---
 

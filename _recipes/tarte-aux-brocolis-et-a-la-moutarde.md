@@ -14,11 +14,9 @@ updated_at: 2017-03-08 19:12:53 UTC
 
 # Tarte aux brocolis et à la moutarde
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 20 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

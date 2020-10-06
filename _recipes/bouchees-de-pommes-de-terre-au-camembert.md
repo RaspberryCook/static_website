@@ -16,9 +16,9 @@ updated_at: 2017-01-29 10:32:56 UTC
 
 Une recette idéale en hiver
 
-*Saisons: Hiver*
+_Saisons: Hiver_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -31,7 +31,7 @@ Une recette idéale en hiver
 
 ---
 
-Rincer, peler et découper les pommes de terre en petits morceaux. 
+Rincer, peler et découper les pommes de terre en petits morceaux.
 
 Les faire cuire dans de l'eau à ébullition pendant 20 minutes.
 

@@ -14,16 +14,14 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Muffin façon pizza
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 180g de farine
-- Un sache de levure 
+- Un sache de levure
 - 3 oeufs
 - 2 cl d'huile d'olive
 - 16 cl de lait

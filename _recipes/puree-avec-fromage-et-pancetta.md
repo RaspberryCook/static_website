@@ -14,11 +14,9 @@ updated_at: 2017-03-07 13:10:28 UTC
 
 # Purée avec fromage et pancetta
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

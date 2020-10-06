@@ -14,9 +14,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Gratin de potiron, jambon cru et raclette
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -30,7 +28,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 ---
 
-Découper le potimarron en grosses tranches. Le faire cuire dans de l'eau jusqu'à qu'il soit tendre puis l'éplucher et le couper en  tranches fines (environ 25 minutes).
+Découper le potimarron en grosses tranches. Le faire cuire dans de l'eau jusqu'à qu'il soit tendre puis l'éplucher et le couper en tranches fines (environ 25 minutes).
 
 Garnir le fond d'un plat pouvant aller au four des tranches de jambon cru.
 

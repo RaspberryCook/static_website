@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Poulet lait de coco et citron
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -38,6 +36,6 @@ Couper le poulet en morceaux. Le faire cuire 10 min dans de l'eau bouillante.
 
 Émincer l'oignon et l'ail. Les faire revenir dans une poêle avec un peu d'huile d'olive puis ajouter le lait de coco.
 
-Couper le citron en fines tranches et en mettre 4 (ou plus si vous voulez que ce soit plus citronné) dans la poêle. 
+Couper le citron en fines tranches et en mettre 4 (ou plus si vous voulez que ce soit plus citronné) dans la poêle.
 
-Ajouter le poulet et les olives vertes. Poivrer puis mettre à feu très doux avec un couvercle et laisser cuire une 20aine de minutes. Déguster ! 
+Ajouter le poulet et les olives vertes. Poivrer puis mettre à feu très doux avec un couvercle et laisser cuire une 20aine de minutes. Déguster !

@@ -14,20 +14,18 @@ updated_at: 2017-11-24 16:01:58 UTC
 
 # Quiche vosgienne sans gluten
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 1 pate brisée sans gluten 
+- 1 pate brisée sans gluten
 - 3 oeufs
-- 200 g d'allumettes de lardons fumés 
-- 70g de fromage râpé 
+- 200 g d'allumettes de lardons fumés
+- 70g de fromage râpé
 - 25 cl de lait
-- 25 cl de crème 
+- 25 cl de crème
 - De la muscade
 - Du poivre
 
@@ -39,4 +37,4 @@ Dans un bol fouetter le lait, la crème, les oeufs, la muscade et le poivre. Ajo
 
 Étaler la pâte dans un plat. La piquer avec une fourchette puis étaler les lardons. Recouvrir de l'appareil à quiche.
 
-Enfourner 35 min à 180°. Déguster! 
+Enfourner 35 min à 180°. Déguster!

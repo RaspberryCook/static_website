@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Truite à la crème de moutarde
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -35,4 +33,4 @@ Les faire cuire au four 10 min à 180°. Veiller à ce qu'ils ne sèchent pas.
 
 Mélanger les petits suisses, le reste de moutarde et le poivre.
 
-En mettre un peu sur les pavés et déguster 
+En mettre un peu sur les pavés et déguster

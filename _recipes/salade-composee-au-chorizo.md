@@ -14,11 +14,9 @@ updated_at: 2017-03-26 16:21:57 UTC
 
 # Salade composée au chorizo
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 20 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

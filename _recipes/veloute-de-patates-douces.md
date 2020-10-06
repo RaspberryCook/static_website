@@ -14,11 +14,9 @@ updated_at: 2017-02-07 17:24:01 UTC
 
 # Velouté de patates douces
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -39,4 +37,4 @@ Couper le pain en petits morceaux. Peler et couper très finement l'ail. Mettre 
 
 Faire revenir le pain à la poêle pendant 5 min, jusqu'à que les croutons soit bien grillés.
 
-Pendant ce temps mixer les légumes. Les verser dans des bols, saupoudrer d'un peu de persil puis recouvrir de croutons. Déguster ! 
+Pendant ce temps mixer les légumes. Les verser dans des bols, saupoudrer d'un peu de persil puis recouvrir de croutons. Déguster !

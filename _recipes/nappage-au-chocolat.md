@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:05:12 UTC
 
 # Nappage au chocolat
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

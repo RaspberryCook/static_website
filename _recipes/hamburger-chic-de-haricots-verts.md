@@ -1,5 +1,5 @@
 ---
-title: « Hamburger » chic de haricots verts 
+title: « Hamburger » chic de haricots verts
 time:
   baking: 0
   cooling: 0
@@ -12,9 +12,9 @@ created_at: 2016-01-01 00:00:00 UTC
 updated_at: 2017-07-15 08:55:50 UTC
 ---
 
-# « Hamburger » chic de haricots verts 
+# « Hamburger » chic de haricots verts
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

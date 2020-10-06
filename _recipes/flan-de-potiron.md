@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Flan de potiron
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -38,8 +36,8 @@ Le faire cuire dans de l'eau bouillante jusqu'à qu'il soit mou.
 
 Mettre le potiron et le lait dans un bol. Les mixer jusqu'à obtenir une purée. Ajouter le beurre et remélanger. Ajouter le fromage râpé, la noix de muscade et le poivre. Bien mélanger.
 
-Battre les œufs en omelette puis les incorporer dans la préparation. 
+Battre les œufs en omelette puis les incorporer dans la préparation.
 
-Répartir le tout dans des petits moules ronds. 
+Répartir le tout dans des petits moules ronds.
 
 Mettre au four pour 45 min à 130°. Déguster !

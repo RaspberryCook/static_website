@@ -14,11 +14,11 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Navets confits à l'orange
 
-Cette recette convaincra tout le monde ! 
+Cette recette convaincra tout le monde !
 
-*Saisons: Automne*
+_Saisons: Automne_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,4 +26,4 @@ Cette recette convaincra tout le monde !
 
 ---
 
-Peler les navets et les couper en petits carrés.\r\nMettre le beurre dans une poelle à feu doux, rajouter les navets.\r\nPendant que les navets commencent à cuire ajouter le jus des oranges pressées dans la poelle.\r\nAjouter le miel. Laisser cuire à feu doux une 10aine de minutes avec un couvercle.\r\nQuand les navets sont tendres enlever le couvercle, augmenter le feu et les faire caraméliser.\r\nDégustez ! 
+Peler les navets et les couper en petits carrés.\r\nMettre le beurre dans une poelle à feu doux, rajouter les navets.\r\nPendant que les navets commencent à cuire ajouter le jus des oranges pressées dans la poelle.\r\nAjouter le miel. Laisser cuire à feu doux une 10aine de minutes avec un couvercle.\r\nQuand les navets sont tendres enlever le couvercle, augmenter le feu et les faire caraméliser.\r\nDégustez !

@@ -14,11 +14,9 @@ updated_at: 2017-04-10 15:05:59 UTC
 
 # Tarte aux épinards et chèvre
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 30 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 30*
+_Préparation: 30 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 30_
 
 ---
 
@@ -40,8 +38,8 @@ Former une boule, l’aplatir un peu et la mettre au frigo pendant 30 min. Atten
 
 Dans une casserole faire décongeler à feu doux les épinards. Les poivrer.
 
-Étaler la pâte. La piquer avec une fourchette et la faire cuire 10 min à 180°. 
+Étaler la pâte. La piquer avec une fourchette et la faire cuire 10 min à 180°.
 
 La sortir du four, étaler le chèvre frais, recouvrir des épinards. Verser les oeufs battus en omelette puis déposer la bûche coupée en morceaux. Faire cuire 25 min à 180°.
 
-Déguster ! 
+Déguster !

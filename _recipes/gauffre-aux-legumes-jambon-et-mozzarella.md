@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Gauffre aux légumes, jambon et mozzarella
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,10 +38,8 @@ Peler les courgettes et les couper en petits cubes. Les faire chauffer dans une 
 
 Peler l'oignon et le couper finement. Après 5 min de cuisson des courgettes l'ajouter.
 
-Couper la tomate, la mozzarella et le jambon en petits cubes. Les ajouter dans la poêle et laisser cuire deux minutes à feu moyen. 
+Couper la tomate, la mozzarella et le jambon en petits cubes. Les ajouter dans la poêle et laisser cuire deux minutes à feu moyen.
 
 Mélanger la farine avec la levure, les œufs, le lait et le beurre fondu. Ajouter le poivre.
 
-Verser le mélange de légumes dans la pâte à gaufre, bien mélanger puis faire cuire dans le gaufrier. 
-
-
+Verser le mélange de légumes dans la pâte à gaufre, bien mélanger puis faire cuire dans le gaufrier.

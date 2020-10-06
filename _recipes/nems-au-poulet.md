@@ -14,11 +14,9 @@ updated_at: 2017-03-21 15:49:21 UTC
 
 # Nems au poulet
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 50 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 50 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,7 +24,7 @@ updated_at: 2017-03-21 15:49:21 UTC
 - 3 blancs de poulet
 - 100 g de vermicelles de riz
 - 50 g de champignons noirs
-- 2 carottes 
+- 2 carottes
 - 1 œuf
 - De la sauce soja
 - Du poivre

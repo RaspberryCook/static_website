@@ -14,11 +14,9 @@ updated_at: 2017-03-05 19:58:57 UTC
 
 # Pizza au saumon sans gluten
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -28,7 +26,7 @@ updated_at: 2017-03-05 19:58:57 UTC
 - 6 cuillères à soupe de crème fraîche
 - 1 oignon
 - De la ciboulette
-- Du poivre 
+- Du poivre
 
 ---
 
@@ -38,4 +36,4 @@ Dans un bol mélanger la crème avec de la ciboulette et du poivre. L'étaler su
 
 Sur la pizza étaler l'oignon puis le saumon et la mozzarella coupés en tranches. Saupoudrer de la ciboulette.
 
-Faire cuire 10 min à 200° puis déguster! 
+Faire cuire 10 min à 200° puis déguster!

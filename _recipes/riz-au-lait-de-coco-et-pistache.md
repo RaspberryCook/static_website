@@ -14,18 +14,18 @@ updated_at: 2017-07-15 09:32:22 UTC
 
 # Riz au lait de coco et pistache
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - riz rond : 150 g
--  eau bouillante : 1 l
--  lait : 0.25 l
--  sucre en poudre : 75 g
--  lait de coco Suzi Wan : 2 briques
--  sel : 1 pincée
--  pistache non salée : 50 g
--  fraises séchées : 150 g
+- eau bouillante : 1 l
+- lait : 0.25 l
+- sucre en poudre : 75 g
+- lait de coco Suzi Wan : 2 briques
+- sel : 1 pincée
+- pistache non salée : 50 g
+- fraises séchées : 150 g
 
 ---
 

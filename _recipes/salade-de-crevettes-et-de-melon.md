@@ -14,13 +14,11 @@ updated_at: 2017-08-30 18:07:43 UTC
 
 # Salade de crevettes et de melon
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c1cfd88>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c1cfd88>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -33,7 +31,7 @@ updated_at: 2017-08-30 18:07:43 UTC
 
 ---
 
-Décortiquer les crevettes. Les réserver dans un bol. 
+Décortiquer les crevettes. Les réserver dans un bol.
 
 Épépiner le melon, le peler et le couper en petits morceaux. L'ajouter dans le bol.
 

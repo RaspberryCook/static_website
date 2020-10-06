@@ -14,20 +14,18 @@ updated_at: 2017-03-12 20:12:58 UTC
 
 # Muffins de pommes de terre au fromage
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 20 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 500 g de pommes de terre
-- 2 oeufs 
+- 2 oeufs
 - 1 cc de noix de muscade
 - Du poivre
-- Du fromage râpé 
-- De l'abondance 
+- Du fromage râpé
+- De l'abondance
 - Du fromage de brebis
 
 ---

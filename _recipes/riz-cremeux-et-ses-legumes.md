@@ -16,7 +16,7 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 Sympa pour recevoir
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -33,14 +33,14 @@ Sympa pour recevoir
 
 ---
 
-Préparer le bouillon en faisant bouillir 1 litre d'eau avec le cube et la crème. 
+Préparer le bouillon en faisant bouillir 1 litre d'eau avec le cube et la crème.
 
-Mettre le riz dans une poêle à feu doux, ajouter 1/4 du bouillon, attendre que le riz l'ait absorbé et recommencer jusqu'à épuisement du bouillon. 
+Mettre le riz dans une poêle à feu doux, ajouter 1/4 du bouillon, attendre que le riz l'ait absorbé et recommencer jusqu'à épuisement du bouillon.
 
-Découper l'oignon et l'ail finement,  peler les carottes et les courgettes et les découper en petits cubes. Les faire revenir pendant 5 minutes dans un peu d'huile d'olive.
+Découper l'oignon et l'ail finement, peler les carottes et les courgettes et les découper en petits cubes. Les faire revenir pendant 5 minutes dans un peu d'huile d'olive.
 
 Couper finement le poulet en petites tranches.
 
 Faire un dôme de riz, mettre des légumes autour, les tranches de poulet dessus ainsi que le parmesan.
 
-Dégustez ! 
+Dégustez !

@@ -14,13 +14,11 @@ updated_at: 2018-06-05 15:06:12 UTC
 
 # Wrap sans gluten aux légumes et au poulet
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028b7fddf0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028b7fddf0>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -44,4 +42,4 @@ Découper la mozzarella en petits morceaux.
 
 A la poêle faire griller une partie du wrap. Étaler dessus une portion et demi de vache qui rit. Disposer des carottes, du poulet et de la mozzarella et faire griller l'autre côté.
 
-Ajouter des tranches d'avocat dessus. Poivrer et déguster ! 
+Ajouter des tranches d'avocat dessus. Poivrer et déguster !

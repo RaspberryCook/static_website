@@ -14,13 +14,11 @@ updated_at: 2017-10-03 16:42:07 UTC
 
 # Tarte à la crème d'ail
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c229d10>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c229d10>*
-
-*Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,4 +40,4 @@ Peler et couper en deux dix gousses d'ail. Les faire cuire dans une casserole av
 
 Étaler la pâte feuilletée. Verser le mélange crème-ail dessus. Peler, dégermer et émincer finement les deux gousses d'ail restantes. Les répartir sur la crème.
 
-Déposer les pommes de terre dessus. Faire cuire 35 min à 180°. Déguster ! 
+Déposer les pommes de terre dessus. Faire cuire 35 min à 180°. Déguster !

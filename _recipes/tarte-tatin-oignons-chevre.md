@@ -14,11 +14,9 @@ updated_at: 2017-02-12 15:06:10 UTC
 
 # Tarte tatin oignons chèvre
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

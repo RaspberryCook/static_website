@@ -14,13 +14,11 @@ updated_at: 2018-04-12 09:53:56 UTC
 
 # Wrap sans gluten à l'omelette
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028b2ebf38>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028b2ebf38>*
-
-*Préparation: 10 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -30,7 +28,7 @@ updated_at: 2018-04-12 09:53:56 UTC
 - 1 poivron rouge
 - 2 avocats
 - Du fromage frais à tartiner
-- Quelques feuilles de laitue iceberg 
+- Quelques feuilles de laitue iceberg
 - Du piment d'Espelette
 - De l'huile d'olive
 
@@ -42,4 +40,4 @@ Pendant ce temps battre les œufs en omelette. Ajouter un peu de piment d'Espele
 
 Enlever la peau et dénoyauter l'avocat. Le couper en petits cubes.
 
-Réchauffer les wraps à la poêle. Les tartiner avec du fromage frais, saupoudrer un peu de piment d'Espelette. Ajouter de l'avocat puis de l'omelette. Déposer quelques feuilles de laitue et déguster ! 
+Réchauffer les wraps à la poêle. Les tartiner avec du fromage frais, saupoudrer un peu de piment d'Espelette. Ajouter de l'avocat puis de l'omelette. Déposer quelques feuilles de laitue et déguster !

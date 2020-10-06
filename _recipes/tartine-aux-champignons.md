@@ -14,13 +14,11 @@ updated_at: 2017-09-20 14:02:36 UTC
 
 # Tartine aux champignons
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c21a770>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c21a770>*
-
-*Préparation: 10 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,4 +38,4 @@ Couper en petits morceaux le jambon cru, le faire griller dans une poêle à feu
 
 Couper en cubes les tomates, les mélanger avec une grosse cuillère à café harissa.
 
-Faire griller le pain, tartiner de kiri. Ajouter des champignons, du jambon cru ainsi que des tomates. Déguster ! 
+Faire griller le pain, tartiner de kiri. Ajouter des champignons, du jambon cru ainsi que des tomates. Déguster !

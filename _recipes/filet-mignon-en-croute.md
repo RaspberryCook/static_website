@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:58:36 UTC
 
 # Filet mignon en croûte
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

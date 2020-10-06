@@ -14,13 +14,11 @@ updated_at: 2018-09-17 15:50:53 UTC
 
 # Courgettes farcies au bacon
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028bfed880>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028bfed880>*
-
-*Préparation: 10 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

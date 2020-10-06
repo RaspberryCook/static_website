@@ -14,16 +14,14 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Bruschetta avocat et tomate
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - Du pain (au choix)
-- Une tomate coeur de boeuf 
+- Une tomate coeur de boeuf
 - Un avocat
 - Une boule de mozzarella
 - Une gousse d'ail

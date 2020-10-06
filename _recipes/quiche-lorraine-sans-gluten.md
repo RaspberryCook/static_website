@@ -14,13 +14,11 @@ updated_at: 2017-09-18 16:04:03 UTC
 
 # Quiche lorraine sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c1ea340>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c1ea340>*
-
-*Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

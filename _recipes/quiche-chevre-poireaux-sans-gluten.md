@@ -14,13 +14,11 @@ updated_at: 2017-11-02 17:39:34 UTC
 
 # Quiche chèvre poireaux sans gluten
 
+_Saisons: Automne_
 
+_Allèrgènes: #<Allergen:0x000056028c436450>_
 
-*Saisons: Automne*
-
-*Allèrgènes: #<Allergen:0x000056028c436450>*
-
-*Préparation: 20 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -31,7 +29,7 @@ updated_at: 2017-11-02 17:39:34 UTC
 - 15 cl de crème liquide
 - Un bloc de tofu
 - Huile d'olive
-- Noix de muscade 
+- Noix de muscade
 - Poivre
 
 ---
@@ -42,4 +40,4 @@ Dans un saladier mélanger la crème avec les œufs ainsi que de la noix de musc
 
 Étaler la pâte feuilletée dans un moule. Répartir les poireaux dans le fond, parsemer du fromage de chèvre dessus. Verser le mélange dessus.
 
-Faire cuire à 200° pendant 35 min. Déguster ! 
+Faire cuire à 200° pendant 35 min. Déguster !

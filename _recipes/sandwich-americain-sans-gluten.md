@@ -1,5 +1,5 @@
 ---
-title: Sandwich américain sans gluten 
+title: Sandwich américain sans gluten
 time:
   baking: 0
   cooling: 0
@@ -12,31 +12,29 @@ created_at: 2017-01-29 13:08:31 UTC
 updated_at: 2017-01-29 13:19:14 UTC
 ---
 
-# Sandwich américain sans gluten 
+# Sandwich américain sans gluten
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- Deux baguettes 
-- Deux steaks hachés 
-- Une tomate 
-- Du fromage à hamburger 
-- Des frites 
-- Des sauces (ketchup, mayonnaise, sauce samouraï..) 
+- Deux baguettes
+- Deux steaks hachés
+- Une tomate
+- Du fromage à hamburger
+- Des frites
+- Des sauces (ketchup, mayonnaise, sauce samouraï..)
 
 ---
 
-Faire cuire les frites au four à 200 degrés. 
+Faire cuire les frites au four à 200 degrés.
 
-Trancher les baguettes dans le sens de la largeur en deux moitiés. 
+Trancher les baguettes dans le sens de la largeur en deux moitiés.
 
-Faire cuire les steaks hachés pendant 5-10 min.  Ils ne doivent pas être saignants. 
+Faire cuire les steaks hachés pendant 5-10 min. Ils ne doivent pas être saignants.
 
-Tartiner la sauce sur une moitié de pain. Recouvrir de morceaux de steaks hachés puis mettre du fromage à hamburger. Mettre dans le four à 200 degrés pendant 2-3 min. 
+Tartiner la sauce sur une moitié de pain. Recouvrir de morceaux de steaks hachés puis mettre du fromage à hamburger. Mettre dans le four à 200 degrés pendant 2-3 min.
 
-Mettre des tranches de tomates et des frites dans le pain. Déguster ! 
+Mettre des tranches de tomates et des frites dans le pain. Déguster !

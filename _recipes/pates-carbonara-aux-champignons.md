@@ -14,20 +14,18 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Pâtes carbonara aux champignons
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 300g de spaghettis 
+- 300g de spaghettis
 - 200g de lardons allumettes
 - 150g de champignons
-- 1 œuf 
-- Crème fraîche 
-- Fromage râpé 
+- 1 œuf
+- Crème fraîche
+- Fromage râpé
 - Poivre
 
 ---
@@ -36,7 +34,7 @@ Faire revenir les lardons jusqu'à qu'ils soient grillés.
 
 Laver les champignons et les couper en petits dés. Ajouter les champignons aux lardons.
 
-Faire cuire les pâtes al dente. Les égoutter. 
+Faire cuire les pâtes al dente. Les égoutter.
 
 Battre l’œuf avec la crème et le poivre.
 

@@ -14,13 +14,11 @@ updated_at: 2018-05-30 13:48:52 UTC
 
 # Pizza sans gluten aux oignons, chèvre et miel
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028b769358>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028b769358>*
-
-*Préparation: 10 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -32,7 +30,7 @@ updated_at: 2018-05-30 13:48:52 UTC
 
 ---
 
-Peler, dégermer et émincer en lamelles les oignons. Les mettre dans une poêle,verser un verre d'eau puis les faire cuire pendant 15 min jusqu'à qu'ils ramollissent. 
+Peler, dégermer et émincer en lamelles les oignons. Les mettre dans une poêle,verser un verre d'eau puis les faire cuire pendant 15 min jusqu'à qu'ils ramollissent.
 
 Ajouter 2 cuillères à soupe de miel, du poivre et faire confire les oignons en les cuisant pendant 5 min.
 

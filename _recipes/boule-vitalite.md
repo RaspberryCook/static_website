@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:10:20 UTC
 
 # Boule vitalité
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -28,5 +28,3 @@ updated_at: 2017-07-14 21:10:20 UTC
 - 100g de noix de coco râpée
 
 ---
-
-

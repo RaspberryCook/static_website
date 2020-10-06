@@ -14,28 +14,26 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Galette de sarrasin
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 300 g de farine de sarrasin
 - 75 cl de lait
 - 1 œuf
-- 
+-
 - 1 botte de poireaux
 - 2 yaourts natures
 - 12 tranches de bacon
-- Du gruyère râpé 
+- Du gruyère râpé
 - Du beurre
 - Du poivre
 
 ---
 
-Mélanger la farine avec le lait puis l’œuf. 
+Mélanger la farine avec le lait puis l’œuf.
 
 Préparer la fondue de poireaux : enlever la partie verte des poireaux puis les couper en rondelles. Les faire revenir dans un peu de beurre jusqu'à qu'ils soient tendres puis ajouter les yaourts et le poivre.
 

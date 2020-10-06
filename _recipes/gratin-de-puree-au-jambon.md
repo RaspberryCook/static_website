@@ -14,18 +14,16 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Gratin de purée au jambon
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 8 pommes de terre
 - 8 tranches de jambon
 - 150 g de gruyère râpé
-- 2 œufs 
+- 2 œufs
 - 2 oignons
 - 1 yaourt nature
 - Du poivre

@@ -14,13 +14,11 @@ updated_at: 2017-05-30 16:15:50 UTC
 
 # Cake tomates séchées et feta
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c52b338>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c52b338>*
-
-*Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

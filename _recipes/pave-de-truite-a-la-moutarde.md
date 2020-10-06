@@ -14,9 +14,9 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Pavé de truite à la moutarde
 
-Simple, rapide et bon ! 
+Simple, rapide et bon !
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

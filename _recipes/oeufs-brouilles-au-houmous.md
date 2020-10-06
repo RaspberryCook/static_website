@@ -1,5 +1,5 @@
 ---
-title: Oeufs brouillés au houmous 
+title: Oeufs brouillés au houmous
 time:
   baking: 5
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2017-03-18 21:05:43 UTC
 updated_at: 2017-03-18 21:11:52 UTC
 ---
 
-# Oeufs brouillés au houmous 
+# Oeufs brouillés au houmous
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -34,4 +32,4 @@ Dans un autre bol mélanger le houmous avec des tortillas écrasées en petits m
 
 Faire revenir les oeufs dans un peu de beurre dans une poêle. Les cuire comme des oeufs brouillés.
 
-Ajouter le houmous et mélanger. Laisser cuire  min en mélangeant. Servir et déguster! 
+Ajouter le houmous et mélanger. Laisser cuire min en mélangeant. Servir et déguster!

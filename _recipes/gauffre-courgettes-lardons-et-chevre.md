@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Gauffre courgettes, lardons et chèvre
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -38,4 +36,4 @@ Faire cuire les lardons jusqu'à qu'ils soient grillés. Couper le fromage de ch
 
 Dans le saladier ajouter les œufs, la moutarde et le poivre. Bien mélanger. Ajouter la farine puis remélanger.
 
-Pour finir ajouter les lardons et le chèvre, mélanger. Faire cuire la pâte dans un gaufrier. 
+Pour finir ajouter les lardons et le chèvre, mélanger. Faire cuire la pâte dans un gaufrier.

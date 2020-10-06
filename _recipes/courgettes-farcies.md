@@ -14,13 +14,11 @@ updated_at: 2017-08-10 17:57:10 UTC
 
 # Courgettes farcies
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c1592c8>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c1592c8>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -46,4 +44,4 @@ Faire préchauffer le four à 180°.
 
 Garnir les courgettes évidées. Recouvrir de la mozzarella coupée en petits morceaux.
 
-Faire cuire au four pendant une vingtaine de minutes, jusqu'à que le tout soit bien grillé. Déguster ! 
+Faire cuire au four pendant une vingtaine de minutes, jusqu'à que le tout soit bien grillé. Déguster !

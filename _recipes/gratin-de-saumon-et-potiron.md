@@ -1,5 +1,5 @@
 ---
-title: Gratin de saumon et potiron 
+title: Gratin de saumon et potiron
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2017-01-09 17:34:37 UTC
 updated_at: 2017-01-29 10:33:03 UTC
 ---
 
-# Gratin de saumon et potiron 
+# Gratin de saumon et potiron
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,7 +24,7 @@ updated_at: 2017-01-29 10:33:03 UTC
 - 1 potiron
 - 2 oignons
 - 20cl de lait de coco
-- De l’édam râpé 
+- De l’édam râpé
 - Du curcuma
 - Du thym
 - Du poivre

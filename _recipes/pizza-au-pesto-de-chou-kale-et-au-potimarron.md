@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Pizza au pesto de chou kale et au potimarron
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,6 +38,6 @@ Enlever la partie dure centrale du chou kale. Mettre les feuilles dans un mixeur
 
 Faire préchauffer le four à 240°.
 
-Étaler la pâte à pizza. Tartiner du pesto puis recouvrir du potimarron. 
+Étaler la pâte à pizza. Tartiner du pesto puis recouvrir du potimarron.
 
 Faire cuire pendant une quinzaine de minutes jusqu'à que la pizza soit prête. Déguster !

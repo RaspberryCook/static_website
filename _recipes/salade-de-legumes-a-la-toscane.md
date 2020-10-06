@@ -5,7 +5,7 @@ time:
   cooling: 60
   cooking: 15
   rest: 1440
-author:  LAURENCE
+author: LAURENCE
 image: /uploads/recipe/image/260/20170226_103951_-_1.jpg
 old_id: 260
 created_at: 2017-02-26 18:02:44 UTC
@@ -16,9 +16,9 @@ updated_at: 2017-02-26 18:10:15 UTC
 
 Recette originale de navets et carottes
 
-*Saisons: Hiver*
+_Saisons: Hiver_
 
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 60 min, Repos: 1440*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 60 min, Repos: 1440_
 
 ---
 

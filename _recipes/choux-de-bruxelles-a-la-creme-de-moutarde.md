@@ -14,11 +14,9 @@ updated_at: 2020-02-08 10:18:39 UTC
 
 # Choux de Bruxelles à la crème de moutarde
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

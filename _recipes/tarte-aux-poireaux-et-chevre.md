@@ -14,11 +14,9 @@ updated_at: 2017-03-14 07:28:44 UTC
 
 # Tarte aux poireaux et chèvre
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 10 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

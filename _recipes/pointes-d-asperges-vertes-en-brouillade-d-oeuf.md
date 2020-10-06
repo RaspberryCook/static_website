@@ -14,15 +14,15 @@ updated_at: 2017-07-15 09:01:40 UTC
 
 # Pointes d’asperges vertes en brouillade d’oeuf
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - Un sachet de pointes d’asperges vertes Czon cuisson vapeur micro-ondes
--  30 g de beurre
--  5 oeufs
--  1 cuillére à soupe de créme fraîche
--  Sel, poivre
+- 30 g de beurre
+- 5 oeufs
+- 1 cuillére à soupe de créme fraîche
+- Sel, poivre
 
 ---
 

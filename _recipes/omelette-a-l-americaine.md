@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Omelette à l'américaine
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,7 +25,7 @@ updated_at: 2017-01-29 10:33:00 UTC
 - 100g de bacon
 - 2 tomates
 - 50g de champignons
-- 100g de feta 
+- 100g de feta
 
 ---
 

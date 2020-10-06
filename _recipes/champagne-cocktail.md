@@ -14,11 +14,9 @@ updated_at: 2017-07-14 23:18:31 UTC
 
 # Champagne cocktail
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -29,5 +27,3 @@ updated_at: 2017-07-14 23:18:31 UTC
 - 1 zeste de citron et d'orange
 
 ---
-
-

@@ -14,13 +14,13 @@ updated_at: 2018-03-25 10:22:35 UTC
 
 # Arancini sans gluten
 
-Une recette à adapter à volonté ! 
+Une recette à adapter à volonté !
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Allèrgènes: #<Allergen:0x000056028b1b82b0>*
+_Allèrgènes: #<Allergen:0x000056028b1b82b0>_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -44,8 +44,8 @@ Peler et émincer les échalotes. Les faire revenir dans un peu d'huile d'olive 
 
 Verser le riz cuit puis ajouter le bouillon dilué dans 20 cl d'eau. Incorporer la mozzarella préalablement coupé en morceaux, le tofu coupé en dés ainsi que le parmesan. Poivrer et ajouter du persil.
 
-Bien mélanger puis laisser refroidir. 
+Bien mélanger puis laisser refroidir.
 
 Dans un bol verser la chapelure et dans un autre battre l’œuf. Avec les mains former des boulettes de riz, les passer dans l’œuf battu puis dans la chapelure.
 
-Avec un pinceau les tartiner d'huile d'olive. Les faire cuire au four à 180° pendant une quinzaine de minutes. Déguster ! 
+Avec un pinceau les tartiner d'huile d'olive. Les faire cuire au four à 180° pendant une quinzaine de minutes. Déguster !

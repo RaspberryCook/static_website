@@ -1,5 +1,5 @@
 ---
-title: Tarte au potimarron 
+title: Tarte au potimarron
 time:
   baking: 0
   cooling: 0
@@ -12,11 +12,11 @@ created_at: 2016-02-15 18:00:41 UTC
 updated_at: 2017-01-29 10:32:58 UTC
 ---
 
-# Tarte au potimarron 
+# Tarte au potimarron
 
-A accompagner avec de la salade 
+A accompagner avec de la salade
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -24,7 +24,7 @@ A accompagner avec de la salade
 - 1 potimarron
 - 200g de dés de jambon
 - 1 oignon
-- 3 œufs 
+- 3 œufs
 - Du gruyère râpé
 - Du poivre
 
@@ -40,4 +40,4 @@ Battre les blancs en neige et les incorporer dans la préparation.
 
 Etaler la pâte brisée dans un plat à tarte. Recouvrir de la préparation au potimarron. Parsemer de gruyère, plus ou moins selon les goûts.
 
-Faire cuire à 160° environ 30 minutes, jusqu'à que le gruyère soit doré. 
+Faire cuire à 160° environ 30 minutes, jusqu'à que le gruyère soit doré.

@@ -14,13 +14,11 @@ updated_at: 2017-10-25 09:36:32 UTC
 
 # Courge farcie à la semoule sans gluten
 
+_Saisons: Automne_
 
+_Allèrgènes: #<Allergen:0x000056028c329b20>_
 
-*Saisons: Automne*
-
-*Allèrgènes: #<Allergen:0x000056028c329b20>*
-
-*Préparation: 30 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 30 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -39,10 +37,10 @@ Dans de l'eau bouillante faire cuire la courge pendant 25 min.
 
 Faire cuire la semoule comme indiqué sur le paquet.
 
-Couper la courge en deux, l'épépiner. Creuser la pulpe. 
+Couper la courge en deux, l'épépiner. Creuser la pulpe.
 
 Peler et émincer l'oignon. Le faire cuire 3 min dans une poêle avec de l'huile d'olive. Ajouter la pulpe de la courge coupée en morceaux. Laisser cuire encore 5-10 min. Ajouter du curry et du poivre, mélanger.
 
 Dans un bol mélanger la semoule avec la crème liquide et le fromage. Ajouter la pulpe de courge. Farcir la courge avec ce mélange.
 
-Mettre au four à 180° position grill pendant 10 min. Déguster ! 
+Mettre au four à 180° position grill pendant 10 min. Déguster !

@@ -16,9 +16,9 @@ updated_at: 2017-01-29 10:32:57 UTC
 
 Une délicieuse manière de manger des carottes
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -37,4 +37,4 @@ Hacher finement l'oignon. Le faire revenir dans une poêle avec un peu d'huile e
 
 Ajouter le boursin et les deux petits suisses. Poivrer. Mélanger.
 
-C'est prêt ! 
+C'est prêt !

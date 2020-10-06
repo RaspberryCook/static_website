@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Feuilletés au pesto au piment rouge
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -32,6 +30,6 @@ Faire préchauffer le four à 180°.
 
 Étaler la pâte feuilletée. Avec l'emporte-pièce découper des sapins.
 
-Étaler une fiche couche de pesto sur les sapins. 
+Étaler une fiche couche de pesto sur les sapins.
 
-Faire cuire les sapins pendant 10 min. Déguster ! 
+Faire cuire les sapins pendant 10 min. Déguster !

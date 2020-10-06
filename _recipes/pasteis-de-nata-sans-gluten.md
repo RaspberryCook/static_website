@@ -14,13 +14,11 @@ updated_at: 2017-10-21 12:23:48 UTC
 
 # Pasteis de nata sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c2eb2f8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c2eb2f8>*
-
-*Préparation: 25 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 25 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -43,7 +41,7 @@ Dans une autre casserole chauffer le sucre avec 1 cuillère à soupe d'eau jusqu
 
 Retirer les zestes puis ajouter les œufs en fouettent jusqu'à épaississement.
 
-Rouler la pâte feuilletée sans elle-même pour former un boudin. Couper le boudin en tranches  2 cm d'épaisseur. Poser les tranches dans des moules à tartelette, étirer la pâte pour qu'elle prenne la forme du moule.
+Rouler la pâte feuilletée sans elle-même pour former un boudin. Couper le boudin en tranches 2 cm d'épaisseur. Poser les tranches dans des moules à tartelette, étirer la pâte pour qu'elle prenne la forme du moule.
 
 Préchauffer le four à 230°.
 

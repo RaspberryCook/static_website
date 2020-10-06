@@ -14,15 +14,13 @@ updated_at: 2017-03-19 18:42:24 UTC
 
 # Madeleines de Saint-Valentin
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- Pour 8 madeleines : 
+- Pour 8 madeleines :
 - 100 g de beurre
 - 2 œufs
 - 100 g de sucre
@@ -30,7 +28,7 @@ updated_at: 2017-03-19 18:42:24 UTC
 - 1 cuillère café de levure sans gluten
 - 1 cuillère à café d'arôme vanille
 - 1/2 cuillère à café de mix-gom
-- 8 carreaux de chocolat noir pâtissier 
+- 8 carreaux de chocolat noir pâtissier
 
 ---
 
@@ -46,4 +44,4 @@ Faire cuire entre 10 et 15 min. Sortir les moules, laisser refroidir pendant 5 m
 
 Mettre un carreau de chocolat au fond de chaque moule. Remettre dans le four encore chaud le temps que le chocolat fonde puis l'étaler au fond de chaque moule avec une spatule.
 
-Remettre les madeleines par-dessus puis appuyer très légèrement. Remettre au frigo au moins 1h, le temps que le chocolat durcisse. Déguster ! 
+Remettre les madeleines par-dessus puis appuyer très légèrement. Remettre au frigo au moins 1h, le temps que le chocolat durcisse. Déguster !

@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Tarte aux champignons et au jambon
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -43,6 +41,6 @@ Faire revenir l'oignons et les champignons dans un peu d'huile d'olive. Ajouter 
 
 Dans un bol battre les œufs et les fromages frais. Ajouter le poivre et le persil.
 
-Sur la pâte feuilletée déposer la préparation aux champignons puis celle aux œufs. 
+Sur la pâte feuilletée déposer la préparation aux champignons puis celle aux œufs.
 
 Parsemer de tommes coupée en morceaux fins. Mettre au four 25 min à 180°, déguster.

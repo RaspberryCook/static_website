@@ -14,17 +14,17 @@ updated_at: 2017-07-15 09:33:47 UTC
 
 # Tarte aux mûres
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - mûres : 500 g
--  farine (+ 2 cas) : 150 g
--  beurre ramolli (+ 1 noix) : 75 g
--  crème liquide : 20 cl
--  sucre en poudre : 3 c. à soupe
--  semoule (de blé fine) : 1 c. à soupe
--  sel
+- farine (+ 2 cas) : 150 g
+- beurre ramolli (+ 1 noix) : 75 g
+- crème liquide : 20 cl
+- sucre en poudre : 3 c. à soupe
+- semoule (de blé fine) : 1 c. à soupe
+- sel
 
 ---
 

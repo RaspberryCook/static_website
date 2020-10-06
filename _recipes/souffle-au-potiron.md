@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Soufflé au potiron
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,4 +34,4 @@ Mettre le potiron dans un saladier. Le réduire en purée à l'aide d'une fourch
 
 Monter les blancs des œufs en neige. Les incorporer délicatement dans la préparation au potiron.
 
-Répartir dans des petits moules. Faire cuire pendant 15 min à 180°. Déguster ! 
+Répartir dans des petits moules. Faire cuire pendant 15 min à 180°. Déguster !

@@ -14,16 +14,14 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Pains au chocolat sans gluten
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 125 g de farine de riz
-- 125 g de maïzena 
+- 125 g de maïzena
 - Un peu de farine sans gluten
 - 15 g de levain sans gluten
 - 2 cuillères à café de gomme de guar
@@ -37,7 +35,7 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 Dans un bol mélanger la farine de riz, la maïzena, le levain, la gomme de guar, la pincée e sel ainsi que le sucre.
 
-Incorporer 25 cl de lait tiède puis pétrir pendant 3 min. Couvrir avec un torchon et laisser reposer 3h à température ambiante. 
+Incorporer 25 cl de lait tiède puis pétrir pendant 3 min. Couvrir avec un torchon et laisser reposer 3h à température ambiante.
 
 Une fois la pâte bien gonflée la pétrir avec de la farine sans gluten jusqu'à former une boule qui ne colle plus. L'étaler sur une plaque bien farinée en forme de rectangle d'environ 45 x 30 cm. Faire chauffer rapidement le beurre jusqu'à qu'il soit mou puis l'étaler sur la pâte.
 

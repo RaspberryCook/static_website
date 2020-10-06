@@ -1,5 +1,5 @@
 ---
-title: Nems bœuf et feta 
+title: Nems bœuf et feta
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2016-04-06 18:18:11 UTC
 updated_at: 2017-01-29 10:32:59 UTC
 ---
 
-# Nems bœuf et feta 
+# Nems bœuf et feta
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

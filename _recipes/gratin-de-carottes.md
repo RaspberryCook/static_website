@@ -1,5 +1,5 @@
 ---
-title: Gratin de carottes 
+title: Gratin de carottes
 time:
   baking: 0
   cooling: 0
@@ -12,17 +12,15 @@ created_at: 2016-09-26 17:36:59 UTC
 updated_at: 2017-01-29 10:33:00 UTC
 ---
 
-# Gratin de carottes 
+# Gratin de carottes
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 
+-
 
 ---
 

@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:33:51 UTC
 
 # Purée maison
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -25,5 +25,3 @@ updated_at: 2017-07-15 08:33:51 UTC
 - Gros sel
 
 ---
-
-

@@ -14,13 +14,11 @@ updated_at: 2018-01-08 16:11:48 UTC
 
 # Purée de butternut aux noisettes grillées
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c5f53e0>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c5f53e0>*
-
-*Préparation: 15 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -36,6 +34,6 @@ Peler et couper la courge en petits morceaux. Émincer et couper en rondelles l'
 
 Faire cuire une trentaine de minutes à la vapeur.
 
-Pendant ce temps faire griller à sec les noisettes dans une poêle. 
+Pendant ce temps faire griller à sec les noisettes dans une poêle.
 
 Poivrer les légumes, ajouter de la noix de muscade et les écraser avec une fourchette. Servir accompagné de noisettes.

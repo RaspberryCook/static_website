@@ -14,18 +14,18 @@ updated_at: 2017-07-15 09:24:05 UTC
 
 # Beignets de fleurs de courgettes
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 8 courgettes avec fleur
--  100g de farine
--  1 c. à café de levure chimique
--  huile pour friture
--  1 jaune d'oeuf
--  150 ml de lait
--  1 botte de persil
--  sel, poivre
+- 100g de farine
+- 1 c. à café de levure chimique
+- huile pour friture
+- 1 jaune d'oeuf
+- 150 ml de lait
+- 1 botte de persil
+- sel, poivre
 
 ---
 

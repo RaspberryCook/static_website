@@ -1,5 +1,5 @@
 ---
-title: Tarte champignons knackis 
+title: Tarte champignons knackis
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2017-02-08 12:03:05 UTC
 updated_at: 2017-02-08 18:01:13 UTC
 ---
 
-# Tarte champignons knackis 
+# Tarte champignons knackis
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

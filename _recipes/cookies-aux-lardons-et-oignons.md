@@ -14,13 +14,11 @@ updated_at: 2017-10-26 14:58:16 UTC
 
 # Cookies aux lardons et oignons
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c356da0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c356da0>*
-
-*Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,6 +38,6 @@ Peler et émincer finement les oignons. Les faire cuire dans une poêle avec les
 
 Dans un bol mélanger le beurre mou avec le fromage. Ajouter les œufs, la farine, la levure, les graines de sésame et le poivre. Mélanger.
 
-Ajouter le mélange oignons/lardons, mélanger. 
+Ajouter le mélange oignons/lardons, mélanger.
 
 Former des petites boules avec la préparation et faire cuire 25 min à 180°.

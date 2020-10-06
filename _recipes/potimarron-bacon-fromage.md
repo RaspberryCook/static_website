@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Potimarron bacon fromage
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -37,4 +35,4 @@ Pendant ce temps couper finement les oignons et les faire revenir dans de l'huil
 
 Dans un plat à gratin étaler le potimarron. Recouvrir d'oignons puis de bacon et de tranches de gouda.
 
-Faire cuire 20 min à 180° au four. Déguster ! 
+Faire cuire 20 min à 180° au four. Déguster !

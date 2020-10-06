@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:10:26 UTC
 
 # Virgin Mojito à la fraise
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,5 +26,3 @@ updated_at: 2017-07-14 21:10:26 UTC
 - 20 cl d"eau gazeuse
 
 ---
-
-

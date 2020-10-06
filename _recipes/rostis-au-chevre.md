@@ -5,7 +5,7 @@ time:
   cooling: 0
   cooking: 10
   rest: 0
-author:  LAURENCE
+author: LAURENCE
 image: /uploads/recipe/image/274/Galettes_de_Pomme_de_Terre.jpg
 old_id: 274
 created_at: 2017-03-12 09:02:16 UTC
@@ -16,9 +16,9 @@ updated_at: 2017-03-12 09:49:59 UTC
 
 Galette de pommes de terre
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -47,6 +47,4 @@ Les cuire environ 15 mn, en les retournant
 
 Poser les röstis sur une plaque à pâtisserie, ajouter une tranche de de fromage dessus et passer 5 mn au four
 
-Servir aussitôt, décoré d'une petite c. de mayonnaise et de feuilles de  persil
-
-
+Servir aussitôt, décoré d'une petite c. de mayonnaise et de feuilles de persil

@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Salade de légumes grillés
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -30,7 +28,7 @@ updated_at: 2017-01-29 10:33:00 UTC
 - 400g de pois chiches
 - Une dizaine d'olives noires
 - 3 oeufs durs
-- 
+-
 - Pour la sauce :
 - 2 cuillères à soupe d'huile d'olive
 - 2 cs de persil

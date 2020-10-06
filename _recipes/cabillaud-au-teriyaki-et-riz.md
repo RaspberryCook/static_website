@@ -14,18 +14,16 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 # Cabillaud au teriyaki et riz
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 4 filets de cabillaud
 - 2 oignons
 - Du riz
-- 
+-
 - Pour la sauce teriyaki :
 - 10 cs de sauce soja
 - 1/2 cs de vinaigre sucré de riz

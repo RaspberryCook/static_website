@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Patates comme une pizza
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,4 +40,4 @@ Ajouter sur les pommes de terre étalées la sauce tomate concentrée, le jambon
 
 Faire cuire avec le couvercle jusqu'à que les œufs soient cuits.
 
-Déguster ! 
+Déguster !

@@ -14,17 +14,15 @@ updated_at: 2017-03-29 17:01:10 UTC
 
 # Pain aux noix sans gluten
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 35 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 120*
+_Préparation: 35 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 120_
 
 ---
 
-- 40 g de farine de sarrasin 
-- 100 g de farine sans gluten schar 
-- 40 g de farine de maïs 
+- 40 g de farine de sarrasin
+- 100 g de farine sans gluten schar
+- 40 g de farine de maïs
 - 90 g de mix pour pain au riz de la vie claire
 - 10 g de mix gom de la marque ma vie sans gluten
 - 10 g de lev quinoa de la marque ma vie sans gluten

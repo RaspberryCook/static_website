@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Poulet moutarde et champignons
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -30,8 +28,8 @@ updated_at: 2017-01-29 10:33:01 UTC
 - Du bouillon de volaille dans 1/2 verre d'eau
 - De l'huile d'olive
 - Du poivre
-- 
-- 
+-
+-
 
 ---
 

@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Tarte poireaux et lardons
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,7 +40,7 @@ Dans une poêle mettre les poireaux, les oignons ainsi que les lardons. Faire re
 
 Dans un bol mélanger les œufs avec du poivre, de la muscade et un peu de lait jusqu'à que le tout devienne mousseux.
 
-Garnir la pâte feuilletée avec la préparation de poireaux puis verser les œufs dessus. 
+Garnir la pâte feuilletée avec la préparation de poireaux puis verser les œufs dessus.
 
 Couper le fromage de chèvre en rondelles et recouvrir la tarte.
 

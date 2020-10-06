@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Wrap thon et légumes
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,4 +40,4 @@ Couper la tomate en tranches.
 
 Sur le wrap mettre de la préparation au thon, quelques tranches de tomates, de la mayonnaise puis du la laitue.
 
-Fermer et déguster ! 
+Fermer et déguster !

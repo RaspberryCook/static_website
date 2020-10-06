@@ -14,22 +14,20 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Tarte au citron meringuée
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- Pour la crème au citron : 
+- Pour la crème au citron :
 - 4 citrons
 - 4 jaunes d’œufs
 - 140g de sucre
 - 25g de beurre
 - 30cl d'eau
 - 4 cuillères à soupe de maïzena
-- 
+-
 - 1 pâte sablée toute prête
-- 
+-
 - Pour la meringue française :
 - 240g de sucre
 - 4 blancs d’œufs
@@ -49,7 +47,7 @@ Remettre le mélange sur le feu jusqu'à qu'elle épaississe. Une fois bien épa
 
 Préparation de la meringue :
 
-Mettre les blancs d’œufs avec la pincée de sel dans un bol. Monter le tout en neige très ferme puis ajouter le sucre tout en continuant à monter en neige. La meringue doit prendre un aspect satiné. 
+Mettre les blancs d’œufs avec la pincée de sel dans un bol. Monter le tout en neige très ferme puis ajouter le sucre tout en continuant à monter en neige. La meringue doit prendre un aspect satiné.
 
 Verser la crème au citron sur la pâte sablée, avec une poche à douille la recouvrir de la meringue.
 

@@ -14,23 +14,21 @@ updated_at: 2017-03-28 19:19:55 UTC
 
 # Velouté De Petit Pois
 
+_Saisons: Printemps_
 
-
-*Saisons: Printemps*
-
-*Préparation: 5 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 5 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 1 Oignons
 - Une Petite Gousse d'Ail
-- Huile d'Olive 
+- Huile d'Olive
 - 500g de Petit Pois (en boite ou surgelés)
 - 100g Épinards
-- 
+-
 - Pour le Bouillon:
-- 75cl d'Eau Tiède 
-- 1/2 Bouillon de légume 
+- 75cl d'Eau Tiède
+- 1/2 Bouillon de légume
 - 1 Cuillère Café de Fond de Veau
 
 ---
@@ -46,7 +44,5 @@ Laissez cuire 20 à 30mn à feu moyen.
 Mixer le tout.
 
 Selon les goûts, mettre une cuillère de crème, un peu de basilic ou de l'emmental râpé dans votre bol.
-
-
 
 Bon appetit

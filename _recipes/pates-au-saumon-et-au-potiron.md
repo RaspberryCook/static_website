@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Pâtes au saumon et au potiron
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -39,8 +37,8 @@ Peler et couper le potiron en petits cubes. Les faire revenir 15 min dans de l'h
 
 Pendant ce temps faire chauffer le saumon avec un peu de jus de citron, de sauce soja et de poivre. Le faire cuire 5 min, il doit rester rosé à l'intérieur.
 
-Faire cuire les pâtes comme indiqué sur le sachet. 
+Faire cuire les pâtes comme indiqué sur le sachet.
 
 Une fois que tout est cuit assembler les pâtes et le potiron. Mettre du yaourt, remettre de la sauce soja puis saupoudrer de thym et d'origan.
 
-Accompagner du saumon. 
+Accompagner du saumon.

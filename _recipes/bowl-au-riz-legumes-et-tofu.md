@@ -14,20 +14,18 @@ updated_at: 2017-06-06 16:09:54 UTC
 
 # Bowl au riz, légumes et tofu
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c581508>, #<Allergen:0x000056028c58bf08>, #<Allergen:0x000056028c58bdc8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c581508>, #<Allergen:0x000056028c58bf08>, #<Allergen:0x000056028c58bdc8>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 200 g de riz
 - 1 avocat
 - 1/2 concombre
-- 2 carottes 
+- 2 carottes
 - 1 poivron rouge
 - 10 tomates cerises
 - 100 g de tofu
@@ -49,4 +47,4 @@ Laver le concombre et le couper en petits morceaux. Laver, épépiner le poivron
 
 Dans une assiette creuse déposer du riz chaud, les légumes ainsi que le tofu. Saupoudrer de noix de cajou.
 
-Servir avec une sauce au yaourt mélange avec le ras el hanout. Déguster ! 
+Servir avec une sauce au yaourt mélange avec le ras el hanout. Déguster !

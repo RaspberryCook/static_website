@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Soupe de carottes à l'orange
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -33,7 +31,7 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 ---
 
-Peler et couper en rondelles les carottes. 
+Peler et couper en rondelles les carottes.
 
 Émincer l'échalote, l'ail et l'oignon.
 

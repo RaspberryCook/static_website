@@ -14,13 +14,11 @@ updated_at: 2018-02-18 09:54:43 UTC
 
 # Gaufres aux champignons et jambon
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028aa05b80>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028aa05b80>*
-
-*Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,4 +39,4 @@ Dans un bol mélanger la farine avec la levure et les œufs. Ajouter le lait ain
 
 Dans le bol ajouter les champignons et le jambon. Mélanger.
 
-Faire cuire dans un gaufrier. A servir accompagné de boursin. Déguster ! 
+Faire cuire dans un gaufrier. A servir accompagné de boursin. Déguster !

@@ -14,13 +14,11 @@ updated_at: 2017-08-04 09:54:05 UTC
 
 # Salade d'été au quinoa
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c0c7300>, #<Allergen:0x000056028c0c7e90>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c0c7300>, #<Allergen:0x000056028c0c7e90>*
-
-*Préparation: 15 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

@@ -14,13 +14,11 @@ updated_at: 2017-12-12 16:50:43 UTC
 
 # Pâtes sans gluten à la crème de poireaux
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c5232f0>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c5232f0>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

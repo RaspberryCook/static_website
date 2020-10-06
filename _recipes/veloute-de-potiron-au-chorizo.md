@@ -14,13 +14,11 @@ updated_at: 2018-01-02 13:26:24 UTC
 
 # Velouté de potiron au chorizo
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c582ed0>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c582ed0>*
-
-*Préparation: 20 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 45 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

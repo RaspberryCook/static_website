@@ -14,13 +14,11 @@ updated_at: 2017-10-14 10:23:38 UTC
 
 # Brownie-cookie
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c25fa28>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c25fa28>*
-
-*Préparation: 25 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 25 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -31,7 +29,7 @@ updated_at: 2017-10-14 10:23:38 UTC
 - 2 œufs
 - 75 g de farine sans gluten
 - 50 g de noix
-- Pour le cookie : 
+- Pour le cookie :
 - 110 g de sucre
 - 80 g de beurre demi sel
 - 1 œuf

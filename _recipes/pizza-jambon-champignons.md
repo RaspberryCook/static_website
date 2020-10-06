@@ -14,17 +14,15 @@ updated_at: 2017-03-25 20:05:23 UTC
 
 # Pizza jambon champignons
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 1 pâte à pizza sans gluten
 - 3 tranches de jambon
-- 3 champignons 
+- 3 champignons
 - 10 cl de coulis de tomate
 - 1 boule de mozzarella
 - Des olives noires

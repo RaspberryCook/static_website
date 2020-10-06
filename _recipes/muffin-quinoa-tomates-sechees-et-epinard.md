@@ -14,17 +14,15 @@ updated_at: 2017-02-06 19:21:09 UTC
 
 # Muffin quinoa, tomates séchées et épinard
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 150 g de quinoa
 - 100 g de tomates séchées
-- 150 g d'épinards 
+- 150 g d'épinards
 - 50 g de parmesan
 - 1 oignon
 - 1 gousse d'ail

@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:09:30 UTC
 
 # Brioche comme un flocon
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -28,5 +28,3 @@ updated_at: 2017-07-14 21:09:30 UTC
 - 400g de farine type T55
 
 ---
-
-

@@ -14,11 +14,9 @@ updated_at: 2017-03-08 10:55:34 UTC
 
 # Boulettes de betteraves au fromage et aux noix
 
+_Saisons: Printemps_
 
-
-*Saisons: Printemps*
-
-*Préparation: 15 min, Cuisson: 0 min, Refrigération: 30 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 0 min, Refrigération: 30 min, Repos: 0_
 
 ---
 

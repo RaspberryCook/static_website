@@ -14,13 +14,11 @@ updated_at: 2017-05-20 12:02:52 UTC
 
 # Chouquettes sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c4cf128>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c4cf128>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,7 +38,7 @@ Dans un saladier mélanger la farine de riz, la maïzena ainsi que le mix'gom. T
 
 Dans une casserole faire chauffer à feu moyen le lait avec le beurre, le sucre et le sel. Quand le beurre est fondu et que le lait frémit verser le mélange de farines. Bien remuer avec une spatule jusqu'à que le liquide se soit évaporé (environ 20-30 secondes).
 
-Verser cette préparation dans un saladier. Ajouter un œuf, bien mélanger avec une spatule jusqu'à incorporation totale. Faire de même avec les œufs restants. 
+Verser cette préparation dans un saladier. Ajouter un œuf, bien mélanger avec une spatule jusqu'à incorporation totale. Faire de même avec les œufs restants.
 
 Faire préchauffer le four à 180°.
 

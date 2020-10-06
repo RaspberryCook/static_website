@@ -14,13 +14,11 @@ updated_at: 2017-11-17 16:45:47 UTC
 
 # Quenelles sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c46dc48>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c46dc48>*
-
-*Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -34,7 +32,7 @@ updated_at: 2017-11-17 16:45:47 UTC
 
 Verser le lait et le beurre dans une casserole. Faire chauffer en mélangeant de temps en temps. Poivrer. Quand le lait commence à bouillir ajouter la farine.
 
-Mélanger tout en faisant chauffer à feu moyen jusqu'à que le mélange forme une boule qui n'accroche plus à la casserole. 
+Mélanger tout en faisant chauffer à feu moyen jusqu'à que le mélange forme une boule qui n'accroche plus à la casserole.
 
 Hors du feu ajouter chacun leur tour chacun des œufs en les incorporant bien.
 

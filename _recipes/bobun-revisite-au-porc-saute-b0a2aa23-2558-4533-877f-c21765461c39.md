@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:34:14 UTC
 
 # Bobun revisité au porc sauté
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -37,5 +37,3 @@ updated_at: 2017-07-15 08:34:14 UTC
 - 10 c à soupe d"eau chaude
 
 ---
-
-

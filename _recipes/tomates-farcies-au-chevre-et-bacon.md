@@ -14,13 +14,11 @@ updated_at: 2017-08-10 17:56:00 UTC
 
 # Tomates farcies au chèvre et bacon
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c119768>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c119768>*
-
-*Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

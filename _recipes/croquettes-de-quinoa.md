@@ -14,13 +14,11 @@ updated_at: 2017-05-30 16:16:17 UTC
 
 # Croquettes de quinoa
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c543730>, #<Allergen:0x000056028c5435f0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c543730>, #<Allergen:0x000056028c5435f0>*
-
-*Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,8 +38,8 @@ updated_at: 2017-05-30 16:16:17 UTC
 
 Faire cuire le quinoa comme indiqué sur le paquet.
 
-Dans un bol mélanger les œufs avec le parmesan, le chèvre frais et le curcuma. 
+Dans un bol mélanger les œufs avec le parmesan, le chèvre frais et le curcuma.
 
 Ajouter les oignons, le quinoa, poivrer et mélanger. Ajouter petit à petit la polenta, jusqu'à que le mélange soit moins liquide. Si besoin vous pouvez en mettre moins ou plus.
 
-Préchauffer le four à 180°. Former des petites boulettes puis faire cuire 15 min. Déguster ! 
+Préchauffer le four à 180°. Former des petites boulettes puis faire cuire 15 min. Déguster !

@@ -16,11 +16,11 @@ updated_at: 2018-03-03 16:12:14 UTC
 
 Un chili con Carne rapide & simple à réaliser. Pratique pours les étudiants qui n'ont pas beaucoup de temps à conssacrer à la cuisine.
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Allèrgènes: #<Allergen:0x00005602899a3af8>, #<Allergen:0x0000560289996ec0>, #<Allergen:0x0000560289995b88>, #<Allergen:0x00005602899c3470>, #<Allergen:0x00005602899c2e08>, #<Allergen:0x00005602899c1800>, #<Allergen:0x00005602899c1120>, #<Allergen:0x00005602899c59c8>, #<Allergen:0x00005602899ca630>, #<Allergen:0x00005602899f7cc0>, #<Allergen:0x00005602899f4c28>*
+_Allèrgènes: #<Allergen:0x00005602899a3af8>, #<Allergen:0x0000560289996ec0>, #<Allergen:0x0000560289995b88>, #<Allergen:0x00005602899c3470>, #<Allergen:0x00005602899c2e08>, #<Allergen:0x00005602899c1800>, #<Allergen:0x00005602899c1120>, #<Allergen:0x00005602899c59c8>, #<Allergen:0x00005602899ca630>, #<Allergen:0x00005602899f7cc0>, #<Allergen:0x00005602899f4c28>_
 
-*Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

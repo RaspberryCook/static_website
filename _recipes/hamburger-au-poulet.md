@@ -14,11 +14,11 @@ updated_at: 2017-01-29 10:32:57 UTC
 
 # Hamburger au poulet
 
-Des hamburgers qui changent ! 
+Des hamburgers qui changent !
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -50,4 +50,4 @@ Couper les tomates et l'oignon en rondelles.
 
 Une fois que tout est cuit assembler les hamburger : sur une moitié de pain mettre la viande mixée, des rondelles de tomate, des oignons, des cornichons, de la salade. Mettre du ketchup et de la mayonnaise selon les goûts. Refermer avec l'autre moitié.
 
-Dégustez ! 
+Dégustez !

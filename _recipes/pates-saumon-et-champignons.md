@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:01 UTC
 
 # Pâtes saumon et champignons
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,7 +25,7 @@ updated_at: 2017-01-29 10:33:01 UTC
 - 300g de saumon fumé
 - Deux yaourts natures
 - 1 oignon
-- Du fromage râpé 
+- Du fromage râpé
 - Des herbes de Provence
 - Du poivre
 - Huile d'olive
@@ -38,7 +36,7 @@ Faire cuire les pâtes selon la durée indiquée sur le paquet.
 
 Laver les champignons et les couper. Découper l'oignon et le saumon en petits dés.
 
-Faire revenir l'oignon et les champignons dans un peu d'huile d'olive. 
+Faire revenir l'oignon et les champignons dans un peu d'huile d'olive.
 
 Une fois cuits ajouter le saumon, les yaourts, les herbes de Provence ainsi que du fromage râpé. Faire cuire encore 2/3 min.
 

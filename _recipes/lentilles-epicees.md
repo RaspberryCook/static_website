@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Lentilles épicées
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -34,7 +32,7 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 ---
 
-Faire bouillir 150ml d'eau et ajouter le carré bouillon. 
+Faire bouillir 150ml d'eau et ajouter le carré bouillon.
 
 Hacher l'ail et couper finement l'oignon. Les faire revenir dans une poêle dans un peu d'huile d'olive avec les épices.
 
@@ -42,4 +40,4 @@ Ajouter les épices ainsi que les tomates confites coupées en petits morceaux.
 
 Couper finement les olives. Les ajouter dans la poêle.
 
-Ajouter le bouillon, poivrer et laisser mijoter 15 min. Dégustez ! 
+Ajouter le bouillon, poivrer et laisser mijoter 15 min. Dégustez !

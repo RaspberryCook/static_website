@@ -14,11 +14,9 @@ updated_at: 2017-05-01 09:46:06 UTC
 
 # Pilons de poulet aux épices
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 30 min, Refrigération: 30 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 30 min, Refrigération: 30 min, Repos: 0_
 
 ---
 
@@ -36,4 +34,4 @@ Peler et émincer finement l'ail. Le mélanger dans un bol avec les épices, 4 c
 
 Enrober les pilons de poulet avec cette marinade et mettre au frigo pendant 30 min. Déposer les pilons dans un plat puis faire cuire 30 min à 180°.
 
-Déguster bien chaud ! 
+Déguster bien chaud !

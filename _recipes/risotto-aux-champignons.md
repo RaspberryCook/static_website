@@ -14,19 +14,17 @@ updated_at: 2017-05-09 15:55:57 UTC
 
 # Risotto aux champignons
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c48f0f0>, #<Allergen:0x000056028c48efb0>, #<Allergen:0x000056028c48ee70>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c48f0f0>, #<Allergen:0x000056028c48efb0>, #<Allergen:0x000056028c48ee70>*
-
-*Préparation: 15 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 400 g de champignons
 - 300 g de riz à risotto
-- 2 échalotes 
+- 2 échalotes
 - Du curcuma
 - Un cube bouillon
 - 600 ml d'eau
@@ -39,4 +37,4 @@ Mettre un peu d'huile d'olive dans une poêle puis faire revenir pendant 2 min l
 
 Ajouter un peu d'eau bouillante avec le cube bouillon et une cuillère à café de curcuma. Mélanger régulièrement et ajouter de l'eau quand il n'y en a plus dans la poêle. Faire ceci jusqu'à épuisement de l'eau.
 
-Laver et émincer les champignons. Les ajouter dans la poêle. Poivrer. Mélanger puis servir bien chaud ! 
+Laver et émincer les champignons. Les ajouter dans la poêle. Poivrer. Mélanger puis servir bien chaud !

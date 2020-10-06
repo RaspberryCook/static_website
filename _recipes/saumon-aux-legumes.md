@@ -14,13 +14,11 @@ updated_at: 2017-05-21 17:25:43 UTC
 
 # Saumon aux légumes
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c4df2f8>, #<Allergen:0x000056028c4df1b8>, #<Allergen:0x000056028c4df078>, #<Allergen:0x000056028c4def10>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c4df2f8>, #<Allergen:0x000056028c4df1b8>, #<Allergen:0x000056028c4df078>, #<Allergen:0x000056028c4def10>*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,4 +39,4 @@ Peler et couper les pommes de terre en rondelles. Les faire cuire 5 min dans de 
 
 Faire préchauffer le four à 200°. Dans un plat allant au four disposer les légumes puis déposer les pavés de saumon dessus. Enfourner 15 minutes.
 
-Arroser le saumon de sauce soja, saupoudrer de pignons de pin. Remettre au four pendant 5 min. Déguster ! 
+Arroser le saumon de sauce soja, saupoudrer de pignons de pin. Remettre au four pendant 5 min. Déguster !

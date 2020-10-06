@@ -14,13 +14,11 @@ updated_at: 2017-09-19 15:10:49 UTC
 
 # Hachis Parmentier
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c20b270>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c20b270>*
-
-*Préparation: 20 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,12 +38,12 @@ updated_at: 2017-09-19 15:10:49 UTC
 
 Hacher l'oignon et l'ail, les faire revenir dans de l'huile d'olive jusqu'à ce qu'ils soient tendres.
 
-Ajouter les tomates coupées en dés, la viande hachée, la farine, du poivre et des herbes de Provence. 
+Ajouter les tomates coupées en dés, la viande hachée, la farine, du poivre et des herbes de Provence.
 
 Quand tout est cuit, couper le feu et ajouter l'oeuf et le parmesan. Bien mélanger.
 
 Préparer la purée en suivant les indications sur le sachet.
 
-Préchauffer le four à 200°C (thermostat 6-7). 
+Préchauffer le four à 200°C (thermostat 6-7).
 
-Etaler au fond d'un plat la purée. Ajouter le mélange à la viande hachée. Saupoudrer de fromage râpé et faire gratiner pendant une dizaine de minutes. Déguster ! 
+Etaler au fond d'un plat la purée. Ajouter le mélange à la viande hachée. Saupoudrer de fromage râpé et faire gratiner pendant une dizaine de minutes. Déguster !

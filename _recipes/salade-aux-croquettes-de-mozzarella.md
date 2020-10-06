@@ -14,13 +14,11 @@ updated_at: 2018-06-11 17:36:02 UTC
 
 # Salade aux croquettes de mozzarella
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028bf32a08>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028bf32a08>*
-
-*Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -42,7 +40,7 @@ updated_at: 2018-06-11 17:36:02 UTC
 
 Laver les tomates cerises et les couper en deux. Laver, épépiner le poivron rouge et le couper en petits cubes. Couper l'oignon rouge en rondelles.
 
-Dans un saladier mélanger la salade avec les légumes coupés. 
+Dans un saladier mélanger la salade avec les légumes coupés.
 
 Couper les mozzarellas en rondelles fines. Dans un bol battre un œuf avec du poivre. Mélanger la chapelure avec la farine. Passer chaque tranche de mozzarella dans de l’œuf puis dans la chapelure.
 

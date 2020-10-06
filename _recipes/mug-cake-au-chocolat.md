@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:08:06 UTC
 
 # Mug cake au chocolat
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -25,5 +25,3 @@ updated_at: 2017-07-14 21:08:06 UTC
 - 40g de chocolat noir
 
 ---
-
-

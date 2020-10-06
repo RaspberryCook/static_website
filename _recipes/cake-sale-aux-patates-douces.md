@@ -14,9 +14,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Cake salé aux patates douces
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,7 +25,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 - 3 oeufs
 - 20g de beurre
 - 30cl de lait
-- 150g de farine 
+- 150g de farine
 - 1 sachet de levure chimique
 - Poivre
 - Curry
@@ -36,7 +34,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 Éplucher et émincer les oignons. Éplucher les patates douces et les couper en petits dés. Les faire revenir 10 minutes dans de l'huile, poivrer et mettre du curry.
 
-Mélanger la farine, la levure les œufs, le lait et le beurre mou. 
+Mélanger la farine, la levure les œufs, le lait et le beurre mou.
 
 Couper le chorizo en petits carrés. Ajouter le chorizo et les patates douces dans la pâte. Ajouter le fromage râpé.
 

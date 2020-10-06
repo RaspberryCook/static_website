@@ -14,30 +14,28 @@ updated_at: 2017-03-20 12:43:42 UTC
 
 # Wrap poulet avocat
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 2 filets de poulet
 - 1 avocat
 - 2 fajitas sans gluten
-- 10 cl de crème 
+- 10 cl de crème
 - 4 tranches de fromage à hamburger
 - Du poivre
-- De la laitue 
+- De la laitue
 
 ---
 
 Faire cuire le poulet dans de l'eau bouillante pendant 15 min. Le couper en petits morceaux. Le mettre dans un bol.
 
-Enlever la peau et le noyau de l'avocat puis  couper en petits morceaux. L'ajouter dans le bol.
+Enlever la peau et le noyau de l'avocat puis couper en petits morceaux. L'ajouter dans le bol.
 
 Ajouter la crème et du poivre puis mélanger.
 
-Faire chauffer à la poêle  wraps.  Poser deux tranches de fromage dessus et recouvrir avec le mélange avocat poulet.
+Faire chauffer à la poêle wraps. Poser deux tranches de fromage dessus et recouvrir avec le mélange avocat poulet.
 
 Fermer le wrap puis faire chauffer. Ajouter de la laitue et déguster.

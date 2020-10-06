@@ -5,7 +5,7 @@ time:
   cooling: 0
   cooking: 0
   rest: 0
-author:  LAURENCE
+author: LAURENCE
 image: /uploads/recipe/image/242/tmp_11936-DSC_0028-385994309.JPG
 old_id: 242
 created_at: 2017-01-29 17:53:33 UTC
@@ -14,11 +14,9 @@ updated_at: 2017-01-29 18:32:20 UTC
 
 # Galette des rois
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

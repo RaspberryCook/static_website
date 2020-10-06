@@ -14,24 +14,22 @@ updated_at: 2018-10-31 16:10:25 UTC
 
 # Cookies de la mie câline sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c02cfa8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c02cfa8>*
-
-*Préparation: 10 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- Pour une dizaine de cookies : 
+- Pour une dizaine de cookies :
 - 200 g de sucre
 - 170 g de sucre roux
 - 60 g de beurre
-- 1 œuf 
+- 1 œuf
 - Un sachet de sucre vanillé
-- Un sachet de levure 
-- 50 g de pépites de chocolat 
+- Un sachet de levure
+- 50 g de pépites de chocolat
 
 ---
 
@@ -39,7 +37,7 @@ Faire préchauffer le four à 150°.
 
 Mélanger les sucres. Ajouter le beurre fondu et mélanger de nouveau.
 
-Ajouter un œuf et battre le tout. 
+Ajouter un œuf et battre le tout.
 
 Ajouter la farine, la levure et mélanger avec une cuillère. Ajouter les pépites de chocolat.
 

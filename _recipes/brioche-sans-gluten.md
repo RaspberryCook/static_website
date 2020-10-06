@@ -14,13 +14,11 @@ updated_at: 2018-01-03 18:46:44 UTC
 
 # Brioche sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c5a2be0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c5a2be0>*
-
-*Préparation: 25 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 120*
+_Préparation: 25 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 120_
 
 ---
 

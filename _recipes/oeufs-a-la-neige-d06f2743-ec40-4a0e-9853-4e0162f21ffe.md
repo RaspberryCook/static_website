@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:34:49 UTC
 
 # Oeufs à la neige
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,5 +26,3 @@ updated_at: 2017-07-15 08:34:49 UTC
 - 6 blancs d"œufs
 
 ---
-
-

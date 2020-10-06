@@ -1,5 +1,5 @@
 ---
-title: palette a la diable 
+title: palette a la diable
 time:
   baking: 0
   cooling: 0
@@ -12,14 +12,12 @@ created_at: 2017-09-14 06:31:57 UTC
 updated_at: 2017-09-14 06:31:57 UTC
 ---
 
-# palette a la diable 
+# palette a la diable
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
-
----
-
-- 
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
+-
 
+---

@@ -1,5 +1,5 @@
 ---
-title: Poulet miel et cacahuètes 
+title: Poulet miel et cacahuètes
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2016-06-17 14:28:20 UTC
 updated_at: 2017-01-29 10:32:59 UTC
 ---
 
-# Poulet miel et cacahuètes 
+# Poulet miel et cacahuètes
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

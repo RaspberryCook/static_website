@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Pomme de terre au four avec bacon
 
+_Saisons: Hiver_
 
-
-*Saisons: Hiver*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -35,7 +33,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 Préchauffer le four à 180°.
 
-Rincer les pommes de terre et bien les sécher. Dans un bol mettre de  l'huile d'olive et du gros sel, en recouvrir les pommes de terre.
+Rincer les pommes de terre et bien les sécher. Dans un bol mettre de l'huile d'olive et du gros sel, en recouvrir les pommes de terre.
 
 Les disposer sur la plaque de cuisson, les mettre au four pour 45 minutes.
 

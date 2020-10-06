@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:17:02 UTC
 
 # Moelleux au chocolat et aux noisettes
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

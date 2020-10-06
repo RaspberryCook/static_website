@@ -1,5 +1,5 @@
 ---
-title: Poêlée forestière aux oeufs 
+title: Poêlée forestière aux oeufs
 time:
   baking: 0
   cooling: 0
@@ -12,23 +12,21 @@ created_at: 2017-01-21 18:30:04 UTC
 updated_at: 2017-01-29 10:33:03 UTC
 ---
 
-# Poêlée forestière aux oeufs 
+# Poêlée forestière aux oeufs
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 600 g de pommes de terre
 - 250 g de champignons
-- 3 échalotes 
+- 3 échalotes
 - 2 gousses d'ail
 - 4 œufs
 - Du persil
-- De l'huile 
+- De l'huile
 
 ---
 

@@ -14,11 +14,9 @@ updated_at: 2017-04-25 09:06:49 UTC
 
 # Salade composée au poulet
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -43,7 +41,7 @@ Cuire les œufs 10 min à l'eau bouillante et le poulet 15 min à l'eau bouillan
 
 Pendant ce temps couper en cubes les tranches de pain. Dans un bol verser de l'huile d'olive, les gousses d'ail émincées finement et faire tremper le pain dedans.
 
-Écailler les œufs et les couper en rondelles. Couper en tranches fines le poulet. Couper les tomates en deux. Peler, dénoyauter et couper finement l'avocat. Égoutter le maïs. 
+Écailler les œufs et les couper en rondelles. Couper en tranches fines le poulet. Couper les tomates en deux. Peler, dénoyauter et couper finement l'avocat. Égoutter le maïs.
 
 Faire cuire les lardons jusqu'à qu'ils soient grillés. Faire cuire les croûtons dans une poêle à feu moyen jusqu'à qu'ils soient grillés.
 

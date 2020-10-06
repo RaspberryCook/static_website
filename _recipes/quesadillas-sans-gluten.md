@@ -14,11 +14,9 @@ updated_at: 2017-04-02 17:52:09 UTC
 
 # Quesadillas sans gluten
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 15 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -35,7 +33,7 @@ updated_at: 2017-04-02 17:52:09 UTC
 
 ---
 
-Couper les fromages en petits morceaux puis les mélanger dans un bol. 
+Couper les fromages en petits morceaux puis les mélanger dans un bol.
 
 Laver et couper finement les poivrons. Peler et émincer finement l'oignon. Les ajouter dans le bol et mélanger.
 

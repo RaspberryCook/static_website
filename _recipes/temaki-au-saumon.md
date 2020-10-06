@@ -14,11 +14,9 @@ updated_at: 2017-06-01 12:05:46 UTC
 
 # Temaki au saumon
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 30 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 60*
+_Préparation: 30 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 60_
 
 ---
 
@@ -47,4 +45,4 @@ Couper le saumon, l'avocat et le concombre en tranches fines.
 
 Sur la moitié de la feuille étaler du riz, puis saupoudrer de sésame. Recouvrir des ingrédients (saumon, avocat, vache qui rit et saumon, concombre, mayonnaise). Fermer le temaki comme indiqué ici : https://www.youtube.com/watch?v=Ii2ja4Nh0Fo
 
-A déguster avec de la sauce soja et du wasabi ! 
+A déguster avec de la sauce soja et du wasabi !

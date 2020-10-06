@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:34:29 UTC
 
 # Avocats grillés aigres-doux
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -33,5 +33,3 @@ updated_at: 2017-07-15 08:34:29 UTC
 - Gingembre
 
 ---
-
-

@@ -14,14 +14,12 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Cake au fromage de chère, noix et oignons caramélisés
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 150g de farine
-- 1 sachet de levure 
+- 1 sachet de levure
 - 200ml de lait
 - 20ml d'huile
 - 3 oeufs

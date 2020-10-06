@@ -1,5 +1,5 @@
 ---
-title: Pâtes au saumon fumé 
+title: Pâtes au saumon fumé
 time:
   baking: 20
   cooling: 0
@@ -12,22 +12,20 @@ created_at: 2017-04-02 17:46:34 UTC
 updated_at: 2017-04-02 17:53:07 UTC
 ---
 
-# Pâtes au saumon fumé 
+# Pâtes au saumon fumé
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 300 g de pâtes 
-- 200 g de saumon  fumé 
+- 300 g de pâtes
+- 200 g de saumon fumé
 - 150 g de ricotta
-- De l'aneth 
+- De l'aneth
 - Du poivre
--  De la ciboulette 
+- De la ciboulette
 
 ---
 

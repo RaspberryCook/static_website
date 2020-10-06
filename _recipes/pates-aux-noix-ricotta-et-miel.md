@@ -14,11 +14,9 @@ updated_at: 2017-05-03 18:44:48 UTC
 
 # Pâtes aux noix, ricotta et miel
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 5 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 5 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

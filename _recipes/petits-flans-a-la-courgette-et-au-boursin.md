@@ -14,16 +14,16 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Petits flans à la courgette et au boursin
 
-Une recette légère et délicieuse ! 
+Une recette légère et délicieuse !
 
-*Saisons: Eté*
+_Saisons: Eté_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - Une grosse courgette
-- Trois œufs 
+- Trois œufs
 - Trois petits fromages frais (petits suisses)
 - 1 fromage type boursin ail et fines herbes
 - Poivre

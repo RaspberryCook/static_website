@@ -16,19 +16,19 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 Une recette très rapide et originale
 
-*Saisons: Hiver*
+_Saisons: Hiver_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 1 brique de soupe au potiron (possibilité de faire de la soupe maison)
-- Du roquefort 
+- Du roquefort
 
 ---
 
-Faire chauffer la soupe à la casserole 
+Faire chauffer la soupe à la casserole
 
-Couper le roquefort en petits morceaux. 
+Couper le roquefort en petits morceaux.
 
 Une fois la soupe cuite mettre des morceaux de roquefort dedans. Déguster !

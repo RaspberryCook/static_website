@@ -14,16 +14,14 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Empanadillas au thon et aux olives
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 250g de pâte feuilletée
-- 175g de thon en boite 
+- 175g de thon en boite
 - 1 petit oignon
 - 1 gousse d'ail
 - 25g de pignon
@@ -41,4 +39,4 @@ Dans le bol ajouter l'oignon, l'ail, les pignons et les olives coupées finement
 
 Étaler la pâte et découper des cercles de 8 cm de diamètres. Garnir, replier en deux puis refermer en pinçant les bords.
 
-Faire cuire 15 min au four à 200°. Les sortir une fois qu'ils sont bien grillés. 
+Faire cuire 15 min au four à 200°. Les sortir une fois qu'ils sont bien grillés.

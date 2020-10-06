@@ -14,29 +14,27 @@ updated_at: 2017-03-04 15:18:46 UTC
 
 # Brownie sans gluten
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 20 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 120 g de chocolat noir
 - 80 g de beurre
-- 2 oeufs 
+- 2 oeufs
 - 80 g de sucre
-- 1 sachet de sucre vanillé 
+- 1 sachet de sucre vanillé
 - 60 g de farine
-- 100 g de noix hachées 
+- 100 g de noix hachées
 - Du sel
-- De la crème anglaise 
+- De la crème anglaise
 
 ---
 
 Faire fondre le chocolat au micro-onde.
 
-Faire ramollir le beurre. Le fouetter avec le batteur électrique jusqu'à qu'il soit crémeux. Ajouter le chocolat, les sucres et mélanger. 
+Faire ramollir le beurre. Le fouetter avec le batteur électrique jusqu'à qu'il soit crémeux. Ajouter le chocolat, les sucres et mélanger.
 
 Verser une pincée de sel et les deux oeufs. Mélanger. Incorporer la farine et 70 g de noix. Mélanger encore.
 

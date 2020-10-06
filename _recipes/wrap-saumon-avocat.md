@@ -14,19 +14,17 @@ updated_at: 2017-03-18 16:03:03 UTC
 
 # Wrap saumon avocat
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 2 wraps sans gluten
 - 1 avocat
-- 200 g de saumon 
+- 200 g de saumon
 - 4 portions de vache qui rit
-- De la laitue 
+- De la laitue
 - De la ciboulette
 
 ---
@@ -41,4 +39,4 @@ Tartiner deux vaches qui rit sur chaque wrap.
 
 Saupoudrer de ciboulette. Ajouter du saumon et de l'avocat. Mettre de la laitue.
 
-Fermer les wraps  (du mieux possible ^^) puis déguster! 
+Fermer les wraps (du mieux possible ^^) puis déguster!

@@ -14,13 +14,11 @@ updated_at: 2017-08-08 14:36:12 UTC
 
 # Saumon au soja et sa ratatouille
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028c0f9b20>, #<Allergen:0x000056028c0f98a0>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028c0f9b20>, #<Allergen:0x000056028c0f98a0>*
-
-*Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -38,7 +36,7 @@ updated_at: 2017-08-08 14:36:12 UTC
 
 ---
 
-Laver et couper en petits morceaux les légumes. Dans une poêle faire chauffer à feu doux, sous un couvercle, les courgettes avec le poivron. 
+Laver et couper en petits morceaux les légumes. Dans une poêle faire chauffer à feu doux, sous un couvercle, les courgettes avec le poivron.
 
 Pendant ce temps préparer la sauce : dans un bol mélanger 2 cuillères à soupe d'huile d'olive avec 1 cuillère à soupe de vinaigre. Ajouter les gousses d'ail émincées finement. Ajouter menthe, ciboulette et aneth selon les goûts. Poivrer.
 
@@ -48,4 +46,4 @@ Pendant ce temps badigeonner les pavés de saumon avec de la sauce soja. Les fai
 
 Ajouter dans la poêle de légumes la sauce. Laisser cuire encore 2 min.
 
-Servir le saumon accompagné de ses légumes. Déguster ! 
+Servir le saumon accompagné de ses légumes. Déguster !

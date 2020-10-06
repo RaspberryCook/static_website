@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:35:18 UTC
 
 # Gâteau à la banane et au chocolat
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -29,5 +29,3 @@ updated_at: 2017-07-15 08:35:18 UTC
 - 1 sachet de levure
 
 ---
-
-

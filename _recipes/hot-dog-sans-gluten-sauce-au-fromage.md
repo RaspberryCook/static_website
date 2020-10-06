@@ -14,13 +14,11 @@ updated_at: 2018-06-23 16:12:58 UTC
 
 # Hot dog sans gluten sauce au fromage
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028bf5cc40>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028bf5cc40>*
-
-*Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -46,4 +44,4 @@ Couper la baguette en deux. La faire griller au grille-pain puis la tartiner de 
 
 Faire cuire les saucisses dans de l'eau bouillante pendant 5 min.
 
-Sur une moitié de pain disposer du concombre, des oignons, une saucisse et recouvrir de sauce au fromage. Refermer et déguster ! 
+Sur une moitié de pain disposer du concombre, des oignons, une saucisse et recouvrir de sauce au fromage. Refermer et déguster !

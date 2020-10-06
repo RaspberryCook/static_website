@@ -14,11 +14,9 @@ updated_at: 2017-02-14 19:00:48 UTC
 
 # Poulet façon thaïe
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,7 +25,7 @@ updated_at: 2017-02-14 19:00:48 UTC
 - 2 oignons
 - 200 g de pois gourmands
 - 20 cl de lait de coco
-- 15 cl de bouillon de volaille 
+- 15 cl de bouillon de volaille
 - 1 cuillère à soupe de sauce soja sans gluten
 - Du riz
 - 2 cuillères à café de piment rouge en poudre

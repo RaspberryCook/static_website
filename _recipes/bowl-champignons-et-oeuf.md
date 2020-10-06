@@ -1,5 +1,5 @@
 ---
-title: Bowl champignons et oeuf 
+title: Bowl champignons et oeuf
 time:
   baking: 20
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2017-03-23 17:05:41 UTC
 updated_at: 2017-03-23 18:01:31 UTC
 ---
 
-# Bowl champignons et oeuf 
+# Bowl champignons et oeuf
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 25 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 25 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,7 +25,7 @@ updated_at: 2017-03-23 18:01:31 UTC
 - 400 g de champignons
 - 300 g de vermicelles de riz
 - 200 g de viande hachée
-- 50 g de noix de cajou 
+- 50 g de noix de cajou
 - 1 yaourt
 - 2 cuillères à soupe de sauce soja
 - Du poivre
@@ -39,7 +37,7 @@ Peler et râper les carottes. Émincer les oignons et les champignons.
 
 Faire revenir les oignons et les champignons dans une poêle pendant 10 min. Poivrer.
 
-Pendant ce temps, dans une casserole, faire cuire les vermicelles de riz. 
+Pendant ce temps, dans une casserole, faire cuire les vermicelles de riz.
 
 Faire dorer la viande hachée dans une poêle puis faire cuire les œufs dans la même poêle.
 

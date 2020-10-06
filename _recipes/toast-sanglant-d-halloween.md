@@ -14,13 +14,11 @@ updated_at: 2017-10-31 17:40:57 UTC
 
 # Toast sanglant d'Halloween
 
+_Saisons: Automne_
 
+_Allèrgènes: #<Allergen:0x000056028c418b30>_
 
-*Saisons: Automne*
-
-*Allèrgènes: #<Allergen:0x000056028c418b30>*
-
-*Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

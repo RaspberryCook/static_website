@@ -16,9 +16,9 @@ updated_at: 2017-01-29 10:32:59 UTC
 
 Délicieux et rapide !
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -35,7 +35,7 @@ Poivre et mettre du basilic sur les deux côtés du cabillaud. Les mettre dans u
 
 Couper l'avocat en petits morceaux. En recouvrir les filets de cabillaud.
 
-Verser la crème et le gruyère râpé dessus. 
+Verser la crème et le gruyère râpé dessus.
 
 Faire cuire au four 20 min à 180°.
 

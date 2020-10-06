@@ -1,5 +1,5 @@
 ---
-title: Gâteau au yaourt d'Halloween 
+title: Gâteau au yaourt d'Halloween
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2016-11-02 17:32:43 UTC
 updated_at: 2017-01-29 10:33:01 UTC
 ---
 
-# Gâteau au yaourt d'Halloween 
+# Gâteau au yaourt d'Halloween
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

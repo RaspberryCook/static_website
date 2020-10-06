@@ -14,11 +14,11 @@ updated_at: 2017-01-29 10:32:57 UTC
 
 # Navets caramélisés
 
-Une façon originale de manger des navets 
+Une façon originale de manger des navets
 
-*Saisons: Automne*
+_Saisons: Automne_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,4 +26,4 @@ Une façon originale de manger des navets
 
 ---
 
-Éplucher les navets, les couper en petits morceaux fins.\r\nLes mettre dans une casserole en les recouvrant aux 3/4 d'eau. Les faire cuire jusqu'à que l'eau se soit évaporée.\r\nUne fois les navets moelleux baisser le feu et mettre une noisette de beurre. \r\nSaupoudrer de sucre en remuant.\r\nFaire dorer les navets. Dégustez ! 
+Éplucher les navets, les couper en petits morceaux fins.\r\nLes mettre dans une casserole en les recouvrant aux 3/4 d'eau. Les faire cuire jusqu'à que l'eau se soit évaporée.\r\nUne fois les navets moelleux baisser le feu et mettre une noisette de beurre. \r\nSaupoudrer de sucre en remuant.\r\nFaire dorer les navets. Dégustez !

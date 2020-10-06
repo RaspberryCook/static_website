@@ -14,13 +14,11 @@ updated_at: 2017-05-01 10:02:21 UTC
 
 # Pizza à la roquette
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c3f3218>, #<Allergen:0x000056028c3f30b0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c3f3218>, #<Allergen:0x000056028c3f30b0>*
-
-*Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

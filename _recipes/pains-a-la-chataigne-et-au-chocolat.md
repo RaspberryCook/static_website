@@ -14,16 +14,14 @@ updated_at: 2017-01-29 10:33:03 UTC
 
 # Pains à la chataigne et au chocolat
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 180 g de farine sans gluten
-- 80 g de farine de châtaigne 
+- 80 g de farine de châtaigne
 - 50 g de sucre
 - 10 g de levure sans gluten
 - 7 cl de lait tiède

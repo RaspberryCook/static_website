@@ -1,5 +1,5 @@
 ---
-title: Riz indien oeufs / crevettes 
+title: Riz indien oeufs / crevettes
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,13 @@ created_at: 2015-11-08 22:29:10 UTC
 updated_at: 2017-01-29 10:32:57 UTC
 ---
 
-# Riz indien oeufs / crevettes 
+# Riz indien oeufs / crevettes
 
 Déclinaison de la célèbre paella avec du curry, des crevettes et des oeufs
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

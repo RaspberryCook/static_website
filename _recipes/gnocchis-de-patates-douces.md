@@ -14,18 +14,16 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Gnocchis de patates douces
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 600 g de patates douces
-- 1 jaune d'oeuf 
+- 1 jaune d'oeuf
 - 150 g de farine sans gluten
-- 100 g de fécule de maïs 
+- 100 g de fécule de maïs
 - De la noix de muscade
 - Du poivre
 - Du sel

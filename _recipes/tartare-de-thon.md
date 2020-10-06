@@ -14,11 +14,9 @@ updated_at: 2017-03-13 13:15:03 UTC
 
 # Tartare de thon
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 5 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 5 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

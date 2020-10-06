@@ -14,7 +14,7 @@ updated_at: 2017-07-15 08:56:34 UTC
 
 # Quiche au crabe, poireaux et oignons nouveaux
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

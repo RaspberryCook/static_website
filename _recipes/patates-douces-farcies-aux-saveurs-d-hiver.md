@@ -14,19 +14,17 @@ updated_at: 2018-01-08 16:10:04 UTC
 
 # Patates douces farcies aux saveurs d'hiver
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c5d5ba8>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c5d5ba8>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - Deux patates douces
 - 70 g de noix
-- 100 g de tomme 
+- 100 g de tomme
 - 10 marrons cuits
 - 6 champignons de Paris
 - 1 gousse d'ail

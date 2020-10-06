@@ -14,13 +14,11 @@ updated_at: 2018-11-14 18:37:35 UTC
 
 # Buddha bowl au thon cuit
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c07e1c8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c07e1c8>*
-
-*Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -43,7 +41,7 @@ updated_at: 2018-11-14 18:37:35 UTC
 
 Peler et couper en petits morceaux les patates douces. Les étaler sur une plaque, badigeonner un peu d'huile d'olive, saler et poivrer.
 
-Egouter et rincer les pois chiche. Dans un bol mettre de l'huile d'olive, une cuillère à café de cumin et de paprika et ajouter les pois chiche. Bien mélanger. 
+Egouter et rincer les pois chiche. Dans un bol mettre de l'huile d'olive, une cuillère à café de cumin et de paprika et ajouter les pois chiche. Bien mélanger.
 
 Mettre au four à 180° pendant 40 min les patates douces et les pois chiches.
 
@@ -53,4 +51,4 @@ Préparer la sauce : mélanger le yaourt avec le miel, un peu de jus de citron, 
 
 Peler et couper l'avocat.
 
-Dans un bol disposer du riz, des pois chiches, de la patate douce, du thon et de l'avocat. Parsemer de noix de cajou. Ajouter de la sauce et déguster ! 
+Dans un bol disposer du riz, des pois chiches, de la patate douce, du thon et de l'avocat. Parsemer de noix de cajou. Ajouter de la sauce et déguster !

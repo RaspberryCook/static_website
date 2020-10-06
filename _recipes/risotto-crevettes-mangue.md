@@ -14,13 +14,11 @@ updated_at: 2017-10-22 07:44:21 UTC
 
 # Risotto crevettes-mangue
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c307110>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c307110>*
-
-*Préparation: 15 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -40,10 +38,10 @@ updated_at: 2017-10-22 07:44:21 UTC
 
 Ajouter un peu de bouillon, faire cuire à feu moyen puis continuer jusqu'à épuisement du bouillon.
 
-Pendant ce temps décortiquer les crevettes et couper en cubes la mangue. 
+Pendant ce temps décortiquer les crevettes et couper en cubes la mangue.
 
 Faire revenir les crevettes dans un peu d'huile d'olive et de poivre.
 
 Ajouter le parmesan râpé dans le risotto. Mélanger. Ajouter la mangue coupée en cubes.
 
-Servir accompagné de crevettes. Déguster ! 
+Servir accompagné de crevettes. Déguster !

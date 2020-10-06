@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:10:19 UTC
 
 # Salade de fruits à la fleur de sel de Guérande et mini meringues au poivre
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -29,5 +29,3 @@ updated_at: 2017-07-14 21:10:19 UTC
 - Poivre du moulin à la fleur de sel de Guérande
 
 ---
-
-

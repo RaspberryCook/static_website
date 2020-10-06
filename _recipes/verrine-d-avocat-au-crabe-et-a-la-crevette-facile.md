@@ -14,7 +14,7 @@ updated_at: 2017-07-15 09:05:10 UTC
 
 # Verrine d'avocat au crabe et à la crevette facile
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

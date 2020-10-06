@@ -16,15 +16,15 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 Une petite tarte OKLM
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - Pâte feuilleté
 - fromage de chèvre
-- 4 tomates 
+- 4 tomates
 - 3 - 4 oignons (ça dépend si t'aimes ça tavu)
 - Moutarde
 - Sel
@@ -35,9 +35,9 @@ Une petite tarte OKLM
 
 Déjà, t'étales ta pâte dans un plat qui va au four (et t'es gentil tu fais ça avec amour). Fais des p'tits trous à la fourchette dedans.
 
-Étale une p'tite couchinette de moutarde pour le goût 
+Étale une p'tite couchinette de moutarde pour le goût
 
-Pendant ce temps, fais revenir les oignons préalablement émincés dans un peu d'huile d'olive (feu doux / recouvert pour pas que l'humidité s'échappe) avec sel et poivre 
+Pendant ce temps, fais revenir les oignons préalablement émincés dans un peu d'huile d'olive (feu doux / recouvert pour pas que l'humidité s'échappe) avec sel et poivre
 
 Coupe les tomates en rondelles et disperses les sur la pâte feuilletée (pas toutes, fais ton radin et gardes en un peu pour après)
 
@@ -45,11 +45,11 @@ Mets une partie des oignons par dessus des tomates
 
 Coupes quelques rondelles de fromage de chèvres que tu disposes délicatement et avec amour (ou avec tes doigts c'est toi qui vois)
 
-Tu finis de disposer tes tomates par dessus, et les oignons qu'il te reste 
+Tu finis de disposer tes tomates par dessus, et les oignons qu'il te reste
 
 Sel / Poivre (important l’assaisonnement, ils l'ont dit dans top chef)
 
-Un peu de gruyère pour faire gratiner tout ça ! 
+Un peu de gruyère pour faire gratiner tout ça !
 
 Au four à 200°C pendant 20-25 min (te bars pas trop loin et surveille, on sait jamais)
 

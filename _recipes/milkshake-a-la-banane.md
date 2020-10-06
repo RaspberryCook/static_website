@@ -16,9 +16,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 Boisson rafraichisssante
 
-*Saisons: Eté*
+_Saisons: Eté_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -34,16 +34,10 @@ Mettre deux bananes et trois glaçon dans un mixeur
 
 Mixer pendant 2 minutes
 
-
-
 Ajouter une cuillère à café de sucre, une boule de glace à la vanille et 100 ml de lait,
 
 Mixer pendant 1 minute
 
-
-
 Pour plus d'onctuosité, vous pouvez ajouter une noix de crème
-
-
 
 Dès que vous obtenez une mousse appétissante, c'est prêt !

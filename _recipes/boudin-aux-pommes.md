@@ -1,5 +1,5 @@
 ---
-title: Boudin aux pommes 
+title: Boudin aux pommes
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,13 @@ created_at: 2015-11-22 16:47:46 UTC
 updated_at: 2017-01-29 10:32:57 UTC
 ---
 
-# Boudin aux pommes 
+# Boudin aux pommes
 
-du boudin... et des pommes ! 
+du boudin... et des pommes !
 
-*Saisons: Hiver*
+_Saisons: Hiver_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -35,4 +35,4 @@ Une fois que les pommes sont devenues un peu molles, posez le boudin sur les pom
 
 Laissez quelques minutes à feu doux avec le couvercle.
 
-Servez votre boudin aux pommes 
+Servez votre boudin aux pommes

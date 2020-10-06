@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Tartines de poulet au curry
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,7 +25,7 @@ updated_at: 2017-01-29 10:33:00 UTC
 - 20g de raisins secs
 - De la mâche
 - De la mayonnaise
-- Du curry 
+- Du curry
 - Du poivre
 
 ---
@@ -40,4 +38,4 @@ Pendant ce temps mélanger de la mayonnaise avec du curry (quantité selon les g
 
 Tartiner le pain de la mayonnaise, mettre le poulet découpé en morceaux, des raisins secs et de la mâche.
 
-Déguster ! 
+Déguster !

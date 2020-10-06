@@ -14,9 +14,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Lentilles à l'indienne
 
-
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -29,7 +27,7 @@ updated_at: 2017-01-29 10:32:58 UTC
 - 1 cc de cumin
 - 1 cc de piment
 - 1 cc de coriandre
-- 
+-
 - Pour la sauce sucrée :
 - 2 yaourts
 - 1 cs de sucre
@@ -43,8 +41,8 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 Ajouter le coulis de tomate et les carottes coupées en rondelles. Poivrer.
 
-Mettre sur feu doux, couvrir et laisser cuire 30 minutes. 
+Mettre sur feu doux, couvrir et laisser cuire 30 minutes.
 
-Mélanger tous les ingrédients pour la sauce yaourt. 
+Mélanger tous les ingrédients pour la sauce yaourt.
 
 Servir les lentilles avec la sauce.

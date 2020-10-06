@@ -1,5 +1,5 @@
 ---
-title: Cake courgette chèvre et feta 
+title: Cake courgette chèvre et feta
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,13 @@ created_at: 2015-11-17 12:21:21 UTC
 updated_at: 2017-01-29 10:32:57 UTC
 ---
 
-# Cake courgette chèvre et feta 
+# Cake courgette chèvre et feta
 
-Un cake moelleux 
+Un cake moelleux
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

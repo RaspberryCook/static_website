@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:11:06 UTC
 
 # Bloody Mary
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -27,5 +27,3 @@ updated_at: 2017-07-14 21:11:06 UTC
 - 4 cl de vodka
 
 ---
-
-

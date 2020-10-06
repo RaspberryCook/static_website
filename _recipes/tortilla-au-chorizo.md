@@ -1,5 +1,5 @@
 ---
-title: Tortilla au chorizo 
+title: Tortilla au chorizo
 time:
   baking: 20
   cooling: 0
@@ -12,15 +12,13 @@ created_at: 2017-05-21 17:21:42 UTC
 updated_at: 2017-05-21 17:27:05 UTC
 ---
 
-# Tortilla au chorizo 
+# Tortilla au chorizo
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c512db0>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c512db0>*
-
-*Préparation: 20 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

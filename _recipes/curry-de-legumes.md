@@ -14,13 +14,11 @@ updated_at: 2017-10-29 12:02:48 UTC
 
 # Curry de légumes
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c391248>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c391248>*
-
-*Préparation: 20 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

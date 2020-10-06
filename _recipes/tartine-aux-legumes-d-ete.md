@@ -16,11 +16,11 @@ updated_at: 2018-08-22 15:18:21 UTC
 
 Une tartine saine et savoureuse
 
-*Saisons: Eté*
+_Saisons: Eté_
 
-*Allèrgènes: #<Allergen:0x000056028bfc23d8>*
+_Allèrgènes: #<Allergen:0x000056028bfc23d8>_
 
-*Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

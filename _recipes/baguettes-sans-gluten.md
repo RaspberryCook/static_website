@@ -14,13 +14,11 @@ updated_at: 2017-11-14 16:00:36 UTC
 
 # Baguettes sans gluten
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028bf29ef8>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028bf29ef8>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

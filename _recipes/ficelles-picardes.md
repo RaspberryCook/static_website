@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Ficelles picardes
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,7 +24,7 @@ updated_at: 2017-01-29 10:33:02 UTC
 - 4 œufs
 - 100 cl de lait
 - 250 g de champignons
-- 4 tranches de jambon 
+- 4 tranches de jambon
 - 3 échalotes
 - 25 g de beurre
 - De l'emmental râpé
@@ -37,7 +35,7 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 Mélanger avec un fouet 150 g de farine, 5 œufs et 75 cl de lait. Faire cuire les crêpes et les réserver.
 
-Laver les champignons. Les couper finement. 
+Laver les champignons. Les couper finement.
 
 Peler les échalotes et les couper finement. Dans une poêle faire cuire les champignons et les échalotes pendant environ 10 min. Ajouter de la noix de muscade et les poivrer.
 

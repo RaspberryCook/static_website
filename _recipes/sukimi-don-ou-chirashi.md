@@ -14,7 +14,7 @@ updated_at: 2017-07-14 21:08:30 UTC
 
 # Sukimi don ou Chirashi
 
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -28,5 +28,3 @@ updated_at: 2017-07-14 21:08:30 UTC
 - Sauce soja Casino Saveurs d'Ailleurs pour servir
 
 ---
-
-

@@ -16,9 +16,9 @@ updated_at: 2017-05-06 11:20:16 UTC
 
 Découvrez cette sublime omelette aux fins de placard
 
-*Saisons: Toutes*
+_Saisons: Toutes_
 
-*Préparation: 5 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 5 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -46,7 +46,5 @@ Versez le tout dans une poêle déjà chaude, en retournant régulièrement.
 ...
 
 On sale et un poivre APRES car sinon le goût part à la cuisson. Les plus courageux peuvent ajouter un coup de piment.
-
-
 
 Et voilà, un plat parfaitement équilibré, fait en moins de 5min, et original. Je suis ouvert à toute propositions quant aux autres fins de placard qui pourraient bien s'accorder avec ! (Légumes mis à part, faut pas déconner non plus).

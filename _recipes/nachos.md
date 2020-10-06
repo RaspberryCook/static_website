@@ -14,20 +14,18 @@ updated_at: 2017-08-28 16:29:38 UTC
 
 # Nachos
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c1a0150>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c1a0150>*
-
-*Préparation: 20 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 20 min, Cuisson: 10 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - 1 sachet de tortillas (chips au maïs)
 - Du cheddar râpé
-- De la crème fraiche 
-- Pour la viande : 
+- De la crème fraiche
+- Pour la viande :
 - 200 g de viande hachée
 - 1 oignon
 - 1 gousse d'ail émincée

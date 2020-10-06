@@ -14,18 +14,16 @@ updated_at: 2017-01-29 10:33:00 UTC
 
 # Salade de courgettes grillées
 
+_Saisons: Eté_
 
-
-*Saisons: Eté*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
 - Deux courgettes
 - 1 gousse d'ail
 - 50g de raisins secs
-- 
+-
 - Pour la sauce
 - 2 gousses d'ail
 - 1 cuillère à café de cumin

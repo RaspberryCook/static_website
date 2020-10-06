@@ -14,13 +14,11 @@ updated_at: 2017-12-06 15:55:27 UTC
 
 # Potiron farci à la fêta
 
+_Saisons: Hiver_
 
+_Allèrgènes: #<Allergen:0x000056028c4ffd50>_
 
-*Saisons: Hiver*
-
-*Allèrgènes: #<Allergen:0x000056028c4ffd50>*
-
-*Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 15 min, Cuisson: 40 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

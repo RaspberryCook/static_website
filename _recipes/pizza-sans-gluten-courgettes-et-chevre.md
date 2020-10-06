@@ -14,13 +14,11 @@ updated_at: 2018-06-27 13:22:03 UTC
 
 # Pizza sans gluten courgettes et chèvre
 
+_Saisons: Eté_
 
+_Allèrgènes: #<Allergen:0x000056028bf7ff88>_
 
-*Saisons: Eté*
-
-*Allèrgènes: #<Allergen:0x000056028bf7ff88>*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -35,7 +33,7 @@ updated_at: 2018-06-27 13:22:03 UTC
 
 ---
 
-Faire griller les lardons dans une poêle. 
+Faire griller les lardons dans une poêle.
 
 Pendant ce temps laver et découper la courgette en fines rondelles. Découper le chèvre en rondelles.
 

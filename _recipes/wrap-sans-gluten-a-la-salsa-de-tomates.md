@@ -14,13 +14,11 @@ updated_at: 2018-01-14 10:58:51 UTC
 
 # Wrap sans gluten à la salsa de tomates
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c62d600>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c62d600>*
-
-*Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -41,4 +39,4 @@ Assaisonner avec du cumin et du paprika.
 
 Faire cuire le wrap d'un côté. Le retourner, parsemer du parmesan et du fromage râpé dessus. Ajouter de la salsa de tomates. Faire cuire avec le couvercle pendant 2 min à feu moyen.
 
-Déguster quand le fromage est fondu ! 
+Déguster quand le fromage est fondu !

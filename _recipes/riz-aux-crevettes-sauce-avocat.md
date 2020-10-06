@@ -1,5 +1,5 @@
 ---
-title: Riz aux crevettes sauce avocat 
+title: Riz aux crevettes sauce avocat
 time:
   baking: 0
   cooling: 0
@@ -12,33 +12,31 @@ created_at: 2017-02-20 19:44:13 UTC
 updated_at: 2017-02-20 19:50:38 UTC
 ---
 
-# Riz aux crevettes sauce avocat 
+# Riz aux crevettes sauce avocat
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
-- 300 g de riz 
-- 1 avocat 
+- 300 g de riz
+- 1 avocat
 - 1 tomate
 - 200 g de crevettes
-- Une gousse d'ail 
-- Du piment d espelette 
+- Une gousse d'ail
+- Du piment d espelette
 - Du paprika
 - Du poivre
 
 ---
 
-Faire cuire le riz. 
+Faire cuire le riz.
 
-Pendant ce temps enlever le noyau de l'avocat et l'écraser. Poivrer, ajouter les épices puis bien mélanger. 
+Pendant ce temps enlever le noyau de l'avocat et l'écraser. Poivrer, ajouter les épices puis bien mélanger.
 
-Couper finement l'ail. Le mettre dans une poêle avec les crevettes et faire revenir 3 min. Les enlever de la poêle et réserver. 
+Couper finement l'ail. Le mettre dans une poêle avec les crevettes et faire revenir 3 min. Les enlever de la poêle et réserver.
 
-Mettre le riz égoutté dans la poêle avec l'avocat. Mélanger et faire chauffer deux minutes. 
+Mettre le riz égoutté dans la poêle avec l'avocat. Mélanger et faire chauffer deux minutes.
 
-Dans une assiette mettre le riz à l'avocat, disposer les crevettes et accompagner de la tomate préalablement coupée en petits cubes. 
+Dans une assiette mettre le riz à l'avocat, disposer les crevettes et accompagner de la tomate préalablement coupée en petits cubes.

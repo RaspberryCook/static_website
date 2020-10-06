@@ -14,13 +14,11 @@ updated_at: 2017-08-24 13:58:04 UTC
 
 # Salade tiède de pâtes
 
+_Saisons: Toutes_
 
+_Allèrgènes: #<Allergen:0x000056028c180080>_
 
-*Saisons: Toutes*
-
-*Allèrgènes: #<Allergen:0x000056028c180080>*
-
-*Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

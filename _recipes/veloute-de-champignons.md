@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:33:02 UTC
 
 # Velouté de champignons
 
+_Saisons: Automne_
 
-
-*Saisons: Automne*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -38,4 +36,4 @@ Couvrir et laisser cuire à feu doux pendant 15 min.
 
 Ajouter le bouillon et le lait, faire cuire à feu moyen pendant 5 min puis mettre à feu doux et laisser cuire encore 15 min.
 
-Poivrer et mettre du persil. Déguster 
+Poivrer et mettre du persil. Déguster

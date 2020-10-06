@@ -1,5 +1,5 @@
 ---
-title: Pommes de terre farcies au brebis 
+title: Pommes de terre farcies au brebis
 time:
   baking: 0
   cooling: 0
@@ -12,13 +12,11 @@ created_at: 2017-02-22 17:39:32 UTC
 updated_at: 2017-02-22 19:32:11 UTC
 ---
 
-# Pommes de terre farcies au brebis 
+# Pommes de terre farcies au brebis
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 

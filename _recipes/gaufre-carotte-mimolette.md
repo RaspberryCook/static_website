@@ -14,11 +14,9 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 # Gaufre carotte - mimolette
 
+_Saisons: Toutes_
 
-
-*Saisons: Toutes*
-
-*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+_Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 
 ---
 
@@ -26,4 +24,4 @@ updated_at: 2017-01-29 10:32:58 UTC
 
 ---
 
-Dans un saladier verser la farine, les œufs et bien mélanger.\r\nFaire fondre le beurre au micro-onde, puis le rajouter dans le saladier. Verser le lait et bien mélanger le tout jusqu'à obtenir une pâte homogène.\r\nÉplucher et râper les carottes. Couper la mimolette en petits carrés.\r\nAjouter les carottes et la mimolette dans la préparation. Bien mélanger.\r\nFaire cuire dans le gaufrier et c'est prêt ! 
+Dans un saladier verser la farine, les œufs et bien mélanger.\r\nFaire fondre le beurre au micro-onde, puis le rajouter dans le saladier. Verser le lait et bien mélanger le tout jusqu'à obtenir une pâte homogène.\r\nÉplucher et râper les carottes. Couper la mimolette en petits carrés.\r\nAjouter les carottes et la mimolette dans la préparation. Bien mélanger.\r\nFaire cuire dans le gaufrier et c'est prêt !
