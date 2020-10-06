@@ -18,7 +18,7 @@ Une tartine saine et savoureuse
 
 _Saisons: Eté_
 
-_Allèrgènes: #<Allergen:0x000056028bfc23d8>_
+_sans gluten_
 
 _Préparation: 10 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 

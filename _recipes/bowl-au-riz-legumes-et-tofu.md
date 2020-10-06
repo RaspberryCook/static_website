@@ -16,7 +16,7 @@ updated_at: 2017-06-06 16:09:54 UTC
 
 _Saisons: Toutes_
 
-_Allèrgènes: #<Allergen:0x000056028c581508>, #<Allergen:0x000056028c58bf08>, #<Allergen:0x000056028c58bdc8>_
+_sans crustacé, sans poisson, sans gluten_
 
 _Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 

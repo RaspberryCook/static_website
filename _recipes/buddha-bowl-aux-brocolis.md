@@ -18,7 +18,7 @@ Un repas healthy et naturellement sans gluten
 
 _Saisons: Hiver_
 
-_Allèrgènes: #<Allergen:0x000056028b128ca0>_
+_sans gluten_
 
 _Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 

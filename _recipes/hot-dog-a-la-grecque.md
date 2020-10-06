@@ -16,7 +16,7 @@ updated_at: 2018-04-26 16:20:58 UTC
 
 _Saisons: Printemps_
 
-_Allèrgènes: #<Allergen:0x000056028b453240>_
+_sans gluten_
 
 _Préparation: 15 min, Cuisson: 5 min, Refrigération: 0 min, Repos: 0_
 

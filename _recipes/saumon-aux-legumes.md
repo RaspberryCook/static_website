@@ -16,7 +16,7 @@ updated_at: 2017-05-21 17:25:43 UTC
 
 _Saisons: Eté_
 
-_Allèrgènes: #<Allergen:0x000056028c4df2f8>, #<Allergen:0x000056028c4df1b8>, #<Allergen:0x000056028c4df078>, #<Allergen:0x000056028c4def10>_
+_sans gluten, sans oeuf, sans fruits de mer, sans moutarde_
 
 _Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 

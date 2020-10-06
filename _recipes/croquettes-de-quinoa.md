@@ -16,7 +16,7 @@ updated_at: 2017-05-30 16:16:17 UTC
 
 _Saisons: Toutes_
 
-_Allèrgènes: #<Allergen:0x000056028c543730>, #<Allergen:0x000056028c5435f0>_
+_sans fruits de mer, sans gluten_
 
 _Préparation: 15 min, Cuisson: 35 min, Refrigération: 0 min, Repos: 0_
 

@@ -18,7 +18,7 @@ Un chili con Carne rapide & simple à réaliser. Pratique pours les étudiants q
 
 _Saisons: Toutes_
 
-_Allèrgènes: #<Allergen:0x00005602899a3af8>, #<Allergen:0x0000560289996ec0>, #<Allergen:0x0000560289995b88>, #<Allergen:0x00005602899c3470>, #<Allergen:0x00005602899c2e08>, #<Allergen:0x00005602899c1800>, #<Allergen:0x00005602899c1120>, #<Allergen:0x00005602899c59c8>, #<Allergen:0x00005602899ca630>, #<Allergen:0x00005602899f7cc0>, #<Allergen:0x00005602899f4c28>_
+_sans gluten, sans céleri, sans crustacé, sans poisson, sans lactose, sans fruits de mer, sans moutarde, sans sésame, sans soja, sans sulphite, sans noisette_
 
 _Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 

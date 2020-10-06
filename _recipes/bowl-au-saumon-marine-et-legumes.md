@@ -18,7 +18,7 @@ Un savoureux repas qui vous requinquera après le sport !
 
 _Saisons: Eté_
 
-_Allèrgènes: #<Allergen:0x000056028bfdebc8>_
+_sans gluten_
 
 _Préparation: 15 min, Cuisson: 10 min, Refrigération: 60 min, Repos: 0_
 

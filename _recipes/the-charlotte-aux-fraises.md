@@ -1,5 +1,5 @@
 ---
-title: The charlotte aux fraises
+title: "The" charlotte aux fraises
 time:
   baking: 0
   cooling: 0

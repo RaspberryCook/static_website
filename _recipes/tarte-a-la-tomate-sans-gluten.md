@@ -18,7 +18,7 @@ Une tarte à la tomate sans gluten qui ravira petits et grands !
 
 _Saisons: Eté_
 
-_Allèrgènes: #<Allergen:0x000056028bf98718>_
+_sans gluten_
 
 _Préparation: 10 min, Cuisson: 25 min, Refrigération: 0 min, Repos: 0_
 

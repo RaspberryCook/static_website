@@ -16,7 +16,7 @@ updated_at: 2017-08-06 18:42:16 UTC
 
 _Saisons: Toutes_
 
-_Allèrgènes: #<Allergen:0x000056028c0e6368>_
+_sans gluten_
 
 _Préparation: 10 min, Cuisson: 20 min, Refrigération: 0 min, Repos: 0_
 

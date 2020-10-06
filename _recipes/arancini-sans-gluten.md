@@ -18,7 +18,7 @@ Une recette à adapter à volonté !
 
 _Saisons: Toutes_
 
-_Allèrgènes: #<Allergen:0x000056028b1b82b0>_
+_sans gluten_
 
 _Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0_
 

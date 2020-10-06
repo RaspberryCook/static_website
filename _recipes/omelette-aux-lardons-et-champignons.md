@@ -16,7 +16,7 @@ updated_at: 2017-07-29 09:11:08 UTC
 
 _Saisons: Automne_
 
-_Allèrgènes: #<Allergen:0x000056028c047290>, #<Allergen:0x000056028c047088>, #<Allergen:0x000056028c046f20>, #<Allergen:0x000056028c046de0>, #<Allergen:0x000056028c046c78>, #<Allergen:0x000056028c046a98>, #<Allergen:0x000056028c046958>, #<Allergen:0x000056028c046818>, #<Allergen:0x000056028c0466b0>, #<Allergen:0x000056028c046570>, #<Allergen:0x000056028c046430>_
+_sans céleri, sans crustacé, sans poisson, sans fruits de mer, sans moutarde, sans arachide, sans sésame, sans soja, sans sulphite, sans noisette, sans gluten_
 
 _Préparation: 10 min, Cuisson: 15 min, Refrigération: 0 min, Repos: 0_
 

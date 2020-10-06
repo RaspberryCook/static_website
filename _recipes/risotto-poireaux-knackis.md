@@ -18,7 +18,7 @@ Un risotto original qui ravira petits et grands !
 
 _Saisons: Hiver_
 
-_Allèrgènes: #<Allergen:0x000056028b16f790>_
+_sans gluten_
 
 _Préparation: 10 min, Cuisson: 30 min, Refrigération: 0 min, Repos: 0_
 
