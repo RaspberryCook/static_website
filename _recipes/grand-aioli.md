@@ -1,0 +1,41 @@
+---
+title: Grand Aïoli
+time:
+  baking: 0
+  cooling: 0
+  cooking: 0
+  rest: 0
+author: 750g.com 750g.com
+image: default.svg
+old_id: 364
+created_at: 2016-01-01 00:00:00 UTC
+updated_at: 2017-07-14 21:09:09 UTC
+---
+
+# Grand Aïoli
+
+*Préparation: 0 min, Cuisson: 0 min, Refrigération: 0 min, Repos: 0*
+
+---
+
+- 400g de dos de cabillaud
+- Une dizaine de bulots cuits
+- 4 oeufs
+- 2 carottes
+- 1 courgette
+- 1 brocoli
+- ½ chou-fleur
+- 4 pommes de terre
+- 1 citron jaune
+- 1 cube de bouillon
+- Eau filtrée
+- 2 gousses d'ail
+- 2 jaunes d'oeufs
+- 20 cl d'huile d'olive
+- ½ c à café de moutarde
+- 1 trait de jus de citron
+- Sel, poivre
+
+---
+
+
