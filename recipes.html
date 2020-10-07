@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1>Recettes</h1>
+
+<div class="card-columns">
+  {% for recipe in site.recipes %}
+  <a href="{{recipe.url}}">
+    <div class="card">
+      <img
+        src="{{recipe.image}}"
+        class="card-img-top"
+        alt="Photo de la recette
+    {{recipe.title}}"
+      />
+      <div class="card-body">
+        <p class="card-title h4">{{ recipe.title }}</p>
+      </div>
+    </div>
+  </a>
+  {% endfor %}
+</div>

@@ -4,8 +4,4 @@
 layout: default
 ---
 
-# Recettes
-
-{% for recipe in site.recipes %}
-- [{{ recipe.title }}]({{ recipe.url }})
-{% endfor %}
+# Raspberry Cook
