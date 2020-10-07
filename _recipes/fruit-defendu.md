@@ -5,7 +5,7 @@ time:
   cooling: 0
   cooking: 0
   rest: 0
-author: 750g.com 750g.com
+author: 750g.com
 image: default.svg
 old_id: 414
 created_at: 2016-01-01 00:00:00 UTC

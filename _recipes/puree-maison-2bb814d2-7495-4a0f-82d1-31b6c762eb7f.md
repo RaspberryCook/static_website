@@ -5,7 +5,7 @@ time:
   cooling: 0
   cooking: 0
   rest: 0
-author: 750g.com 750g.com
+author: 750g.com
 image: /uploads/recipe/image/421/image_from_marmiton.jpg
 old_id: 421
 created_at: 2016-01-01 00:00:00 UTC
