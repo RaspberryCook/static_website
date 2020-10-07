@@ -13,16 +13,17 @@
     {% include navbar.html %}
     <div class="container mt-5 pt-5">
       <div class="row">
-        <div class="col-xs-12 col-sm-4">
-          <img src="{{ page.image }}" class="img-fluid mb-2" />
-          <p class="text-muted">
+        <div class="col-12 text-muted"></div>
+        <div class="col-12">{{ content }}</div>
+        <div class="col-12 text-muted">
+          <p>
             Créée le
             <date
               >{{ page.created_at }}. Dernière modification le {{
               page.updated_at }}</date
             >.
           </p>
-          <p class="text-muted">
+          <p>
             Vous pouvez modifier directement cette recette
             <a
               href="{{ 'https://github.com/RaspberryCook/static_website/blob/master/' | append:  page.path }}"
@@ -30,8 +31,6 @@
             >.
           </p>
         </div>
-        <div class="col-xs-12 col-sm-8">{{ content }}</div>
-        <div class="col-12 text-muted"></div>
       </div>
     </div>
     <footer></footer>
