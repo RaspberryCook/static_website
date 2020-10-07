@@ -5,7 +5,7 @@ time:
   cooling: 0
   cooking: 15
   rest: 0
-author: Odet Lorène
+author: Lorène ODET
 image: /uploads/recipe/image/538/20171021_203751.jpg
 old_id: 538
 created_at: 2017-10-22 07:39:20 UTC

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Raspberry Cook - {{ page.title }}</title>
+    <link
+      rel="stylesheet"
+      href="https://bootswatch.com/4/sketchy/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+      <a class="navbar-brand" href="/">Raspberry Cook</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/recipes">Recettes</a>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input
+            class="form-control mr-sm-2"
+            type="search"
+            placeholder="Search"
+            aria-label="Search"
+          />
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">
+            Rechercher
+          </button>
+        </form>
+      </div>
+    </nav>
+    <div class="container mt-5 pt-5">
+      <div class="row">
+        <div class="col-12 text-muted"></div>
+        <div class="col-12">{{ content }}</div>
+        <div class="col-12 text-muted">
+          <p>
+            Créée le
+            <date
+              >{{ page.created_at }}. Dernière modification le {{
+              page.updated_at }}</date
+            >.
+          </p>
+          <p>
+            Vous pouvez modifier directement cette recette
+            <a
+              href="{{ 'https://github.com/RaspberryCook/static_website/blob/master/' | append:  page.path }}"
+              >sur Github</a
+            >.
+          </p>
+        </div>
+      </div>
+    </div>
+    <footer></footer>
+  </body>
+</html>

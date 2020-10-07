@@ -5,7 +5,7 @@ time:
   cooling: 0
   cooking: 0
   rest: 0
-author: Odet Lorène
+author: Lorène ODET
 image: default.svg
 old_id: 65
 created_at: 2015-12-08 12:09:51 UTC
